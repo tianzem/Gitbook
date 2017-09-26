@@ -1,6 +1,4 @@
-# Pointivo Cheat Sheet {#pointivo-cheat-sheet}
-
-
+# Read Me {#pointivo-cheat-sheet}
 
 
 
