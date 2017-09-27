@@ -2,7 +2,7 @@
 
 **\(Red: Button, Blue: Keyboard/Mouse, Purple: Keyword\)**
 
-**Align:[go test](#test)**
+**Align:**
 
 1. \(Optional\) Under Modify and Surface mode, select a plane which you would like the edge to fix in and press Space to lock it.
 2. Under Modify and Vertex mode, select \(or Hold Ctrl to multiply select the lines\) you want to align with.
@@ -56,58 +56,4 @@
 
 1. After Saving the wireframe, go back to Intranet and click Generate.
 2. The qa-DXF and qa-GEOJSON will be generated.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#test
 
