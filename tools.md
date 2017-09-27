@@ -2,7 +2,7 @@
 
 **\(Red: Button, Blue: Keyboard/Mouse, Purple: Keyword\)**
 
-**Align:[go test](#test)**
+**Align:[go test](#Scale)**
 
 1. \(Optional\) Under Modify and Surface mode, select a plane which you would like the edge to fix in and press Space to lock it.
 2. Under Modify and Vertex mode, select \(or Hold Ctrl to multiply select the lines\) you want to align with.
@@ -19,7 +19,7 @@
 1. Under Modify and Vertex mode, select a edge which you would like the vertices to fix in and press Space to lock it.
 2. Under Modify and Vertex mode, Hold and Drag the vertex on 3D view. The vertex can be only moved on the relative edge.
 
-**Scale:**
+# **Scale:**
 
 1. Click Set Scale and then select either the line you know the measurements.
 2. If you want to change the unit, click the dropdown menu to transform between Meter and FT.If you want to scale the point cloud, change the unit first and input the new length.
@@ -50,6 +50,7 @@
 2. Create a new edges from the imported wireframe to the same point in the point cloud. Then Adjust the endpoint to make sure it is in the accurate location.
 3. Repeat Step 2 based on different points, until there are 4 new edges.
 4. Hold Ctrl to select all the 4 edges and click Register Wireframe.
+
 **Generate Geojson:**
 
 1. After Saving the wireframe, go back to Intranet and click Generate.
