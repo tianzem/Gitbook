@@ -9,6 +9,7 @@
 | Alt | Create Mode |
 | Shift | Align Mode |
 | Ctrl | Multiple Selection |
+| Ctrl + A| Select All |
 | Alt + Shift | Delete Mode |
 | Space | Lock Surface |
 | Ctrl + Z | Undo |

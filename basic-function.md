@@ -1,10 +1,47 @@
-**Adjust Vertices:**
+###Save：
+![](/icons/save.jpg)
 
-1. Open Adjust Vertices panel and click the vertex you would like to adjust.
-2. The default triangulation is 2 images, you could change the location of the vertices on either two of the three images to adjust the vertex. The vertex location will be projected on the third image. Remember to Scroll the images to find the clearest one.
-3. If you change the triangulation to 3 images, it is going to use all the three images to project the vertex location in the 3D view. And the vertex location can be seen on any other images if you Scroll the images.
-4. Besides, if you Drag the vertex on 3D view, the projected location will be changed at the same time on 2D view.
-5. After the adjustment, use the Apply button to implement your adjustment and the verified vertex is going to turn from Red to Green.
+###Save As：
+![](/icons/saveas.jpg)
+
+
+###Export：
+![](/icons/export.jpg)
+
+
+
+###Import：
+![](/icons/import.jpg)
+
+
+
+###Undo：
+![](/icons/undo.jpg)
+
+
+###Select：
+![](/icons/select.jpg)
+
+
+###Create：
+![](/icons/create.jpg)
+
+
+###Modify：
+![](/icons/modify.jpg)
+
+
+###Delete：
+![](/icons/delete.jpg)
+
+###Align:
+![](/icons/align.jpg)
+
+
+1. \(Optional\) Under Modify and Surface mode, select a plane which you would like the edge to fix in and press Space to lock it.
+2. Under Modify and Vertex mode, select \(or Hold Ctrl to multiply select the lines\) you want to align with.
+3. Click Align or press Shift to change to Align mode, and click the Target edge.
+4. The edges you selected on Step 2 will be aligned with the Target you selected on Step 3 and fixed in the plane you selected on Step 1.
 
 
 
