@@ -50,9 +50,6 @@
 2. Create a new edges from the imported wireframe to the same point in the point cloud. Then Adjust the endpoint to make sure it is in the accurate location.
 3. Repeat Step 2 based on different points, until there are 4 new edges.
 4. Hold Ctrl to select all the 4 edges and click Register Wireframe.
-
-[this is a test](#test)
-
 **Generate Geojson:**
 
 1. After Saving the wireframe, go back to Intranet and click Generate.
