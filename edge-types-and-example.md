@@ -7,8 +7,8 @@
 | Hip | 2 | "Λ" | × |
 | Valley | 2 | "V" | × |
 | Ridge | 2 |  | √ |
-|  |  | Flashing | Only around the Chimney |
-|  |  | Step Flashing | Only connects towards the Wall |
+| Flashing | Only around the Chimney |
+| Step Flashing | Only connects towards the Wall |
 
 **Edge Type Example - QA Project: 6573**
 
