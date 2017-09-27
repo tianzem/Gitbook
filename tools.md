@@ -2,7 +2,7 @@
 
 **\(Red: Button, Blue: Keyboard/Mouse, Purple: Keyword\)**
 
-**Align:[go test](#Scale)**
+**Align:[go test](#test)**
 
 1. \(Optional\) Under Modify and Surface mode, select a plane which you would like the edge to fix in and press Space to lock it.
 2. Under Modify and Vertex mode, select \(or Hold Ctrl to multiply select the lines\) you want to align with.
@@ -19,7 +19,7 @@
 1. Under Modify and Vertex mode, select a edge which you would like the vertices to fix in and press Space to lock it.
 2. Under Modify and Vertex mode, Hold and Drag the vertex on 3D view. The vertex can be only moved on the relative edge.
 
-# **Scale:**
+**Scale:**
 
 1. Click Set Scale and then select either the line you know the measurements.
 2. If you want to change the unit, click the dropdown menu to transform between Meter and FT.If you want to scale the point cloud, change the unit first and input the new length.
@@ -56,5 +56,5 @@
 1. After Saving the wireframe, go back to Intranet and click Generate.
 2. The qa-DXF and qa-GEOJSON will be generated.
 
-
+#test
 
