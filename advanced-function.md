@@ -6,6 +6,9 @@
 2. If you want to change the unit, click the dropdown menu to transform between Meter and FT.If you want to scale the point cloud, change the unit first and input the new length.
 3. After click Apply, and turn on the Edge Dimensions layer, all the measurements have been changed.
 
+<font color="red">123</font>
+
+
 ### Eraser
 
 ![](/icons/eraser.jpg)
