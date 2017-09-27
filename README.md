@@ -8,12 +8,15 @@ It contains the full documentation for Pointivo Viewer v373.
 There are several parts in this cheat sheet.
 
 [Basic Function](basic-function.md) includes all the basic functions in the tool.
+
 ![](/Images/basic.jpg)
 
 [Advanced Function](advanced-function.md) describes the detailed explanation of the advanced functions.
+
 ![](/Images/advanced.jpg)
 
 [Mode](mode.md) gives the introduction of the three different modes.
+
 ![](/Images/mode.jpg)
 
 [Special Cases](special-cases.md) is going to help you how to deal with some difficult cases you may meet during your experience.
