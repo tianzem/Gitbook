@@ -38,6 +38,7 @@
 4. Besides, if you Drag the vertex on 3D view, the projected location will be changed at the same time on 2D view.
 5. After the adjustment, use the Apply button to implement your adjustment and the verified vertex is going to turn from Red to Green.
 
+#Properties
 **Properties \(Edge Classification\):**
 
 1. After the rough wireframe, under the Detection tab of Properties, click Detect Edge Types to auto assign the edge type into all the edges.
