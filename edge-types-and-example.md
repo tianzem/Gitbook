@@ -10,5 +10,8 @@
 |  |  | Flashing | Only around the Chimney |
 |  |  | Step Flashing | Only connects towards the Wall |
 
-**Edge Type Example - QA Project: 6573**![](/Images/edge_classification.jpeg)
+**Edge Type Example - QA Project: 6573**
 
+![edges](/Images/edge_classification.jpeg)
+
+<img src="/Images/edge_classification.jpeg" width="320" height=180 />
