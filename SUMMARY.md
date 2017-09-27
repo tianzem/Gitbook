@@ -8,7 +8,7 @@
   * Scale
   * Intersect Lines
   * Adjust Vertices
-  * Properties
+  * [Properties](tools.md#properties)                                                                                                                                          
   * Wireframe Registration
   * Generate GeoJSON
 * [Special Cases](special-cases.md)
