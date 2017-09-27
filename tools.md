@@ -56,5 +56,57 @@
 1. After Saving the wireframe, go back to Intranet and click Generate.
 2. The qa-DXF and qa-GEOJSON will be generated.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #test
 
