@@ -2,7 +2,7 @@
 
 **\(Red: Button, Blue: Keyboard/Mouse, Purple: Keyword\)**
 
-**Align:**
+**Align:\[link text\]\(\#test\)**
 
 1. \(Optional\) Under Modify and Surface mode, select a plane which you would like the edge to fix in and press Space to lock it.
 2. Under Modify and Vertex mode, select \(or Hold Ctrl to multiply select the lines\) you want to align with.
@@ -50,6 +50,8 @@
 2. Create a new edges from the imported wireframe to the same point in the point cloud. Then Adjust the endpoint to make sure it is in the accurate location.
 3. Repeat Step 2 based on different points, until there are 4 new edges.
 4. Hold Ctrl to select all the 4 edges and click Register Wireframe.
+
+\[heading\]\(\#test\)
 
 **Generate Geojson:**
 

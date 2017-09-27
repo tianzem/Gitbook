@@ -12,7 +12,7 @@
   * Wireframe Registration
   * Generate GeoJSON
 * [Special Cases](special-cases.md)
-  * Overhang
+  * [Overhang](special-cases/overhang.md)
   * Trees
   * Chimney
   * Penetration
