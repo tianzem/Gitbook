@@ -14,4 +14,3 @@
 
 ![edges](/Images/edge_classification.jpeg)
 
-<img src="/Images/edge_classification.jpeg" width="320" height=180 />

@@ -6,18 +6,18 @@
 
 2. Save a new QA branch and tell everyone on Slack you are going to pick this project, in case of any duplicate work.
 
-3. Delete the redundant vertices and Add the missing vertices to draw the rough wireframe. Remember to draw all the Penetration if it is a DroneDeploy project.
-4. Adjust each vertex to finish the Ground Truth wireframe.
-5. Open the Properties panel and click the Detect Edge Types to detect all the edge types.  
+3. [Delete] the redundant vertices and [Eraser] the missing vertices to draw the rough wireframe. Remember to draw all the [Penetration] if it is a DroneDeploy project.
+4. [Adjust Vertices] to finish the Ground Truth wireframe.
+5. Open the [Properties] panel and click the Detect Edge Types to detect all the edge types.  
 
    ![](/Images/6.jpg)
 
-6. Manually check all the edge types one by one and refer to this cheat sheet Common Edge Types to correct the wrong edge type.
+6. Manually check all the edge types one by one and refer to [Edge Types and Example] to correct the wrong edge type.
 
-7. Save As the project and Mark As Done.
+7. [Save As] the project and Mark As Done.
 8. Go back to Intranet and click Generate to have the GeoJSON output. Click qa-GEOJSON and View button, then open the Mapbox Studio to check the wireframe layout
 
-9. When there are missing edges/unusual edges/redundant areas etc, go back to 3DTool to check the relevant vertices. Make sure the vertices should be on a plane are in a plane and there are not any missing edges. Save the Project, Generate the GEOJSON and check the Mapbox Studio again.
+9. When there are missing edges/unusual edges/redundant areas etc, go back to 3DTool to check the relevant vertices. Make sure the vertices should be on a plane are in a plane and there are not any missing edges. [Save] the Project, Generate the GEOJSON and check the Mapbox Studio again.
 10. If the issue is not fixed, then check Kibana logs to see the possible causes. Click Settings to change the parameter threshold in Project Settings.  
 
     ![](/Images/7.jpg)
@@ -30,5 +30,36 @@
 
 13. After click Publish, mark the final project as COMPLETE\_FINAL.
 
+
+[Save]: basic-function.md#save
+[Save As]: basic-function.md#save-as
+[Export]: basic-function.md#export
+[Import]: basic-function.md#import
+[Undo]: basic-function.md#undo
+[Select]: basic-function.md#select
+[Create]: basic-function.md#create
+[Modify]: basic-function.md#modify
+[Delete]: basic-function.md#delete
+[Align]: basic-function.md#align
+[Set Scale]: advanced-function.md#set-scale
+[Eraser]: advanced-function.md#eraser
+[Erase All]: advanced-function.md#erase-all
+[Intersect Lines]: advanced-function.md#intersect-lines
+[Register Wireframe]: advanced-function.md#register-wireframe
+[Properties]: basic-function.md#properties
+[Layers]: basic-function.md#layers
+[Adjust Vertices]: basic-function.md#adjust-vertices
+[Vertex Mode]: mode.md#vertex-mode
+[Edge Mode]: mode.md#edge-mode
+[Surface Mode]: mode.md#surface-mode
+[Special Cases]: special-cases.md
+[Overhang]: special-cases.md#overhang
+[Tree]: special-cases.md#tree
+[Chimney]: special-cases.md#chimney
+[Penetration]: special-cases.md#penetration
+[Flat Roof]: special-cases.md#flat-roof
+[Steps to QA a Project]: steps-to-qa-a-project.md
+[Edge Types and Example]: edge-types-and-example.md
+[Shortcut]: shortcut.md
 
 
