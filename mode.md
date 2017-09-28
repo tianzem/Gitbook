@@ -3,7 +3,7 @@
 ###Edge Mode:
 
 1. Under [Modify] and [Vertex Mode], select a edge which you would like the vertices to fix in and press `Space` to lock it.
-2. Under [Modify] and [Vertex Mode]], Hold and Drag the vertex on 3D view. The vertex can be only moved on the relative edge.
+2. Under [Modify] and [Vertex Mode], Hold and Drag the vertex on 3D view. The vertex can be only moved on the relative edge.
 
 ###Surface Mode:
 
