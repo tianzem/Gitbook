@@ -27,9 +27,9 @@
 [Erase All]: advanced-function.md#erase-all
 [Intersect Lines]: advanced-function.md#intersect-lines
 [Register Wireframe]: advanced-function.md#register-wireframe
-[Properties]: basic-function.md#properties
-[Layers]: basic-function.md#layers
-[Adjust Vertices]: basic-function.md#adjust-vertices
+[Properties]: advanced-function.md#properties
+[Layers]: advanced-function.md#layers
+[Adjust Vertices]: advanced-function.md#adjust-vertices
 [Vertex Mode]: mode.md#vertex-mode
 [Edge Mode]: mode.md#edge-mode
 [Surface Mode]: mode.md#surface-mode
@@ -42,5 +42,7 @@
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
+
 
 
