@@ -29,7 +29,7 @@
 1. When the imported wireframe is not covered on the point cloud \(different coordinates\), this feature can be used to move and rotate the wireframe.
 2. Create a new edges from the imported wireframe to the same point in the point cloud. Then Adjust the endpoint to make sure it is in the accurate location.
 3. Repeat Step 2 based on different points, until there are 4 new edges.
-4. Hold Ctrl to select all the 4 edges and click Register Wireframe.
+4. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
 
 ### Properties:
 
@@ -48,7 +48,7 @@
 ![](/icons/adjustvertices.jpg)
 
 1. Open Adjust Vertices panel and click the vertex you would like to adjust.
-2. The default triangulation is 2 images, you could change the location of the vertices on either two of the three images to adjust the vertex. The vertex location will be projected on the third image. Remember to Scroll the images to find the clearest one.
+2. The default triangulation is 2 images, you could change the location of the vertices on either two of the three images to adjust the vertex. The vertex location will be projected on the third image. Remember to `Scroll` the images to find the clearest one.
 3. If you change the triangulation to 3 images, it is going to use all the three images to project the vertex location in the 3D view. And the vertex location can be seen on any other images if you Scroll the images.
 4. Besides, if you Drag the vertex on 3D view, the projected location will be changed at the same time on 2D view.
 5. After the adjustment, use the Apply button to implement your adjustment and the verified vertex is going to turn from Red to Green.
