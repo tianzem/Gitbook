@@ -2,37 +2,68 @@
 
 ![](/icons/save.jpg)
 
+Save the current wireframe into the working branch, generate a new sequential version number, and also save a wireframe.json under 
+s3://pointivo-projects/ProjectID/out/WIREFRAME
+
 ### Save As：
 
 ![](/icons/saveas.jpg)
+
+Save the current wireframe into the other branch if you change or type the Tag name, generate a new sequential version number, and also save a wireframe.json under 
+s3://pointivo-projects/ProjectID/out/WIREFRAME
+
+![](/Images/save_as.png)
+
+Name: Typically empty but the content will be stored in the database.
+Description: Typically empty but the content will be stored in the database.
+Tag: The branch this wireframe going to be stored in.
+Mark as Done?: Mark it when you finish the project. It will open the latest version of wireframe when the next time you open the project.
+
 
 ### Export：
 
 ![](/icons/export.jpg)
 
+Export the current wireframe into local computer.
+
 ### Import：
 
 ![](/icons/import.jpg)
+
+Import the previous exported wireframe.
 
 ### Undo：
 
 ![](/icons/undo.jpg)
 
+Undo the last operation, excluding the [Properties].
+
 ### Select：
 
 ![](/icons/select.jpg)
+
+Under Select mode, you can rotate/pan the entire model. All the objects could be selected but could not be modified. 
+This is the Read Only mode for demo.
 
 ### Create：
 
 ![](/icons/create.jpg)
 
+Under Create mode, it will create a vertex in the location where you clicked. 
+
 ### Modify：
 
 ![](/icons/modify.jpg)
 
+Under Select mode, you can rotate/pan the entire model. All the objects could be selected and modified if you hold the mouse and drag. 
+This is the Write mode for the QA user.
+
 ### Delete：
 
 ![](/icons/delete.jpg)
+
+Under Delete mode, it will delete the vertex you selected.
+[Eraser] and [Erase All] are the other functions could help you delete multiply vertices.
 
 ### Align:
 
