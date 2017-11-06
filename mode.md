@@ -1,5 +1,7 @@
 ###Vertex Mode:
 
+The basic mode. Only under this mode, vertex and edge could be selected and draged in the 3D view.
+
 ###Edge Mode:
 
 1. Under [Modify] and [Vertex Mode], select a edge which you would like the vertices to fix in and press `Space` to lock it.

@@ -1,3 +1,9 @@
+### Lock Mode:
+
+![](/icons/lock.jpg)
+
+
+
 ### Set Scale:
 
 ![](/icons/setscale.jpg)
@@ -46,8 +52,16 @@ Erase all the vertices in the screen.
 
 ![](/icons/layers.jpg)
 
-You could turn on and off the different layers 
+You could turn on and off the different layers.
 
+![](/Images/layers.png)
+
+Wireframe: The entire wireframe including all the dimensions and planes.
+Edge Dimensions: The measurements of the edges.
+Planes: The green shade of the detected planes.
+Plane Dimensions: The SurfaceArea/
+Structure-1: The point cloud of the different structures.
+Ground: The point cloud of the ground.
 
 
 ### Adjust Vertices:
