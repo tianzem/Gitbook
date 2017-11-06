@@ -2,7 +2,7 @@
 
 ![](/icons/lock.jpg)
 
-
+This mode is a sub mode of [Edge Mode] and [Surface Mode], please refer to [Edge Mode] and [Surface Mode] to get more information about this Lock Mode.
 
 ### Set Scale:
 
@@ -59,7 +59,7 @@ You could turn on and off the different layers.
 Wireframe: The entire wireframe including all the dimensions and planes.
 Edge Dimensions: The measurements of the edges.
 Planes: The green shade of the detected planes.
-Plane Dimensions: The SurfaceArea/
+Plane Dimensions: The SurfaceArea/Perimeter/Pitch of each plane.
 Structure-1: The point cloud of the different structures.
 Ground: The point cloud of the ground.
 

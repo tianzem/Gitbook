@@ -1,6 +1,6 @@
 # Summary
 
-[Pointivo Cheat Sheet](README.md)
+* [Introduction](README.md)
 * [Basic Function](basic-function.md)
   * [Save](basic-function.md#save)
   * [Save As](basic-function.md#save-as)

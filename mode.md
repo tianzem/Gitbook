@@ -5,13 +5,16 @@ The basic mode. Only under this mode, vertex and edge could be selected and drag
 ###Edge Mode:
 
 1. Under [Modify] and [Vertex Mode], select a edge which you would like the vertices to fix in and press `Space` to lock it.
-2. Under [Modify] and [Vertex Mode], Hold and Drag the vertex on 3D view. The vertex can be only moved on the relative edge.
+2. Under [Modify] and [Vertex Mode], Hold and Drag the vertex on 3D view. 
+3. When [Lock Mode] is off (default). The vertex can be only moved on the locked edge.
+4. When [Lock Mode] is on. The vertex can be only moved on the parallel edge.
 
 ###Surface Mode:
 
 1. Under [Modify] and [Surface Mode], select a plane which you would like the edge to fix in and press `Space` to lock it.
-2. Under [Modify] and [Vertex Mode], Hold and Drag the vertex on 3D view. The vertex can be only moved on the relative plane.
-
+2. Under [Modify] and [Vertex Mode], Hold and Drag the vertex on 3D view. 
+3. When [Lock Mode] is off (default). The vertex can be only moved on the locked plane.
+4. When [Lock Mode] is on. The vertex can be only moved on the co-planer.
 
 
 [Save]: basic-function.md#save
@@ -24,6 +27,7 @@ The basic mode. Only under this mode, vertex and edge could be selected and drag
 [Modify]: basic-function.md#modify
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
+[Lock Mode]: advanced-function.md#lock-mode
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all
