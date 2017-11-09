@@ -1,3 +1,13 @@
+###Camera:
+
+You should be able to view all the camera location by clicking the camera icon besides each image.
+
+![](/icons/camera.jpg)
+
+All the camera locations will be viewable above the 3D model and if you select the red camera, the relative camera view will be updated in the 2D view.
+
+![](/Images/camera project.jpg)
+
 ###Overhang:
 
 >Typically, it is hard to find the image with the vertex under the overhang, but it might be easier to change the vertex in the 3D view.
