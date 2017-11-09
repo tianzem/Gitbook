@@ -27,6 +27,7 @@
   * [Edge Mode](mode.md#edge-mode)
   * [Surface Mode](mode.md#surface-mode)
 * [Special Cases](special-cases.md)
+  * [Camera](special-cases.md#camera)
   * [Overhang](special-cases.md#overhang)
   * [Tree](special-cases.md#tree)
   * [Chimney](special-cases.md#chimney)
