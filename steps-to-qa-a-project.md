@@ -29,8 +29,6 @@
 12. For Kespry projects, Publish the DXF and GEOJSON. For DroneDeploy projects, Publish the DXF.
 
 13. After click Publish, mark the final project as COMPLETE\_FINAL.
-
-
 [Save]: basic-function.md#save
 [Save As]: basic-function.md#save-as
 [Export]: basic-function.md#export
@@ -41,6 +39,7 @@
 [Modify]: basic-function.md#modify
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
+[Lock Mode]: advanced-function.md#lock-mode
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all
@@ -61,6 +60,13 @@
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
+
+
+
+
+
+
 
 
 

@@ -68,11 +68,15 @@ Ground: The point cloud of the ground.
 
 ![](/icons/adjustvertices.jpg)
 
-1. Open Adjust Vertices panel and click the vertex you would like to adjust.
-2. The default triangulation is 2 images, you could change the location of the vertices on either two of the three images to adjust the vertex. The vertex location will be projected on the third image. Remember to `Scroll` the images to find the clearest one.
-3. If you change the triangulation to 3 images, it is going to use all the three images to project the vertex location in the 3D view. And the vertex location can be seen on any other images if you Scroll the images.
-4. Besides, if you Drag the vertex on 3D view, the projected location will be changed at the same time on 2D view.
-5. After the adjustment, use the Apply button to implement your adjustment and the verified vertex is going to turn from Red to Green.
+Open Adjust Vertices panel and click the vertex you would like to adjust.
+
+1. 1 Image + Locked Plane: You should Lock a plane first, if you would like to change the Triangulation to this mode. Under this mode, only 1 image is needed to adjust the vertex. And the vertex will fixed on the locked plane and change its location based on the 2D target you select.
+
+2. 2 Images: The default triangulation is 2 Images, you could change the location of the vertices on two images to adjust the vertex. The vertex location will be projected on the third image at the same time. Remember to `Scroll` the images to find the clearest one.
+
+3. 3 Images: It is going to use all the three images to project the vertex location in the 3D view. And the vertex location can be seen on any other images if you Scroll the images. But this mode is only used on the Accuracy Study or when the projection error is big.
+
+Besides, if you Drag the vertex on 3D view, the projected location will be changed at the same time on 2D view. After the adjustment, use the Apply button to implement your adjustment and the verified vertex is going to turn from Red to Green.
 
 
 [Save]: basic-function.md#save
@@ -85,6 +89,7 @@ Ground: The point cloud of the ground.
 [Modify]: basic-function.md#modify
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
+[Lock Mode]: advanced-function.md#lock-mode
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all

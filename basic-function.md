@@ -19,7 +19,6 @@ Description: Typically empty but the content will be stored in the database.
 Tag: The branch this wireframe going to be stored in.
 Mark as Done?: Mark it when you finish the project. It will open the latest version of wireframe when the next time you open the project.
 
-
 ### Export：
 
 ![](/icons/export.jpg)
@@ -85,6 +84,7 @@ Under Delete mode, it will delete the vertex you selected.
 [Modify]: basic-function.md#modify
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
+[Lock Mode]: advanced-function.md#lock-mode
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all
@@ -105,7 +105,5 @@ Under Delete mode, it will delete the vertex you selected.
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
-
-
 
 

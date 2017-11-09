@@ -47,6 +47,10 @@ All the camera locations will be viewable above the 3D model and if you select t
 
 ###Flat Roof:
 
+>Typically, it is hard to 
+
+![](/Images/flat roof.jpg)
+
 
 
 [Save]: basic-function.md#save
@@ -59,6 +63,7 @@ All the camera locations will be viewable above the 3D model and if you select t
 [Modify]: basic-function.md#modify
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
+[Lock Mode]: advanced-function.md#lock-mode
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all
@@ -79,6 +84,9 @@ All the camera locations will be viewable above the 3D model and if you select t
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
+
+
 
 
 
