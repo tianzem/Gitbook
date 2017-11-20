@@ -21,12 +21,11 @@
    
    Branches: Select the branch you would like to generate the output. Typically, it should be qa.
    Resource Types:
-      GEOJSON: The main output file which needs to be checked on Mapbox.
-      DXF: DXF file.
-      ORTHO: Ortho image with the wireframe.
-      ORTHO_REPORT:
-      DATA_PACKAGE: All the output data including the pictures and JSON file.
-
+      `GEOJSON: The main output file which needs to be checked on Mapbox.`
+      `DXF: DXF file.`
+      `ORTHO: Ortho image with the wireframe.`
+      `ORTHO_REPORT:`
+      `DATA_PACKAGE: All the output data including the pictures and JSON file.`
 
 9. Click the View button besides qa-GEOJSON, then open the Mapbox Studio to check the wireframe layout
 
