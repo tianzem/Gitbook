@@ -2,7 +2,7 @@
 ![](/Images/snap_mode.png)
 
 ###None:
-All the movements will be fixed on the XY plane in the current view point. You are not able to 
+All the movements will be fixed on the XY plane in the current view. You are not able to 
 change the Z axial, unless you rotate the point cloud and change the view point
 
 ###Point Cloud:
