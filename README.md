@@ -17,9 +17,9 @@ There are several parts in this cheat sheet.
 
 >[Tools](tools.md) gives the introduction of the three different modes.
 
+![](/Images/tools.png)
 
-
->[Mode](mode.md) gives the introduction of the three different modes.
+>[Mode](mode.md) includes the different functions related to the surfaces and wireframe.
 
 ![](/Images/mode.jpg)
 
