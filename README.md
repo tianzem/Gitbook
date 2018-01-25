@@ -15,6 +15,10 @@ There are several parts in this cheat sheet.
 
 ![](/Images/advanced.jpg)
 
+>[Tools](tools.md) gives the introduction of the three different modes.
+
+
+
 >[Mode](mode.md) gives the introduction of the three different modes.
 
 ![](/Images/mode.jpg)

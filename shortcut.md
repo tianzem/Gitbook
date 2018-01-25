@@ -12,7 +12,9 @@
 | Ctrl | Multiple Selection |
 | Ctrl + A| Select All |
 | Alt + Shift | Delete Mode |
-| Space | Lock Surface |
+| Space | Lock Surface/Edge |
+| Ctrl + C | Copy |
+| Ctrl + V | Paste |
 | Ctrl + Z | Undo |
 | Ctrl + S | Save |
 

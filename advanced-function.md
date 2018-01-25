@@ -63,7 +63,6 @@ Plane Dimensions: The SurfaceArea/Perimeter/Pitch of each plane.
 Structure-1: The point cloud of the different structures.
 Ground: The point cloud of the ground.
 
-
 ### Adjust Vertices:
 
 ![](/icons/adjustvertices.jpg)
