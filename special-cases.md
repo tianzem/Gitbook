@@ -43,7 +43,7 @@ All the camera locations will be viewable above the 3D model and if you select t
 1. Same as how to deal with the [Overhang]. Lock the plane - Drag the vertex in the 3D view - Check the vertices location in the 2D view.
 2. Always turn on the Edge Dimensions layer and [Align] the relative edges to make sure the penetration is either a square or rectangle.
 
-![](/Images/4.jpg)
+   ![](/Images/4.jpg)
 
 ###Flat Roof:
 

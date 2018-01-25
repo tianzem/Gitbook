@@ -10,7 +10,7 @@
 4. [Adjust Vertices] to finish the Ground Truth wireframe.
 5. Open the [Properties] panel and click the Detect Edge Types to detect all the edge types.  
 
-   ![](/Images/6.jpg)
+   ![](/Images/tools.png)
 
 6. Manually check all the edge types one by one and refer to [Edge Types and Example] to correct the wrong edge type.
 
@@ -38,7 +38,9 @@
 
     ![](/Images/8.jpg)
 
-13. For Kespry projects, Publish the DXF and GEOJSON. For DroneDeploy projects, Publish the DXF.
+13. For Kespry projects, Publish the DXF and GEOJSON. 
+    For DroneDeploy projects, Publish the DXF, the GEOJSON and the DataPackage.
+    For PrecisionHawk projects, Publish the DXF, the GEOJSON and the DataPackage.
 
 14. After click Publish, mark the final project as COMPLETE\_FINAL.
 
