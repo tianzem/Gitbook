@@ -38,7 +38,7 @@
 
     ![](/Images/8.jpg)
 
-13. For Kespry projects, Publish the DXF and GEOJSON. 
+13. For Kespry projects, Publish the DXF and the GEOJSON. 
     For DroneDeploy projects, Publish the DXF, the GEOJSON and the DataPackage.
     For PrecisionHawk projects, Publish the DXF, the GEOJSON and the DataPackage.
 
