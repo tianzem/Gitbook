@@ -22,6 +22,7 @@
   * [Register Wireframe](advanced-function.md#register-wireframe)
   * [Properties](advanced-function.md#properties)
   * [Layers](advanced-function.md#layers)
+  * [Adjust Vertices](advanced-function.md#adjust-vertices)
 * [Tools](tools.md)
   * [Attach](tools.md#attach)
   * [Detach](tools.md#detach)
