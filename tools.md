@@ -12,17 +12,55 @@
 
 [Select] all the surfaces which have been attached and click Detach.
 
+### Create from Edges:
+1. [Select] or hold `Ctrl` to multi select all the edges which should be on the same plane but not detected for any reasons.
+
+ ![](/Images/createfromedges1.png)
+
+2. Click Create from Edges, then the new plane will be created. And it will also turn off the Auto Plane which is on by default.
+
+ ![](/Images/createfromedges2.png)
+
+### Delete:
+
+1. Under [Surface Mode], [Select] or hold `Ctrl` to multi select the planes you want to delete.
+2. Click Delete, then the selected planes will be deleted. And it will also turn off the Auto Plane which is on by default.
+
+
 ### Detect Edge Types:
 
 It will add a new Property "Edge Type" into each edge and assign the detected edge type to this property.
 
+Note: It is not going to overwrite any assigned edge type property. To redetect all the edge types, you need to select all the edges and delete all the edge types first.
+
 ### Detect Cutouts:
+
+It is going to detect all the cutouts in the scene and attach the cutouts plane into the lower plane.
 
 ### Finalize:
 
-### ML Refinement:
+Finalize is going to Detect Cutouts and Detect Edge Types
 
-Machine learning is going to tweak the location of each vertices and save the refined wireframe as a new rough version.
+### ML Refine:
+
+Machine learning is going to tweak the location of each vertices. It will save the current the current wireframe as a Rough wireframe in the current branch. And once it is done, it will save the refined wireframe as a new Wireframe-3-Java version under Autogen branch.
+
+### Validate:
+
+This button is going to trigger an automatic validation to check the quality of the wireframe. 
+ ![](/Images/validate.png)
+Clicking the each condition will select all the objects with the error and focus the camera into all these objects at the same time. The arrows under Count could scroll all the objects.
+
+Different Errors are as follows:
+
+| **Condition** | **Intro** |
+| --- | --- |
+| Isolated Vertex | Vertex does not belong to any edges|
+| Isolated Edge| Edge does not belong to any plane|
+| Coincident Vertices | Two vertices are too close with each other|
+| Colinear Adjacent Edges | Extra vertex in the middle of the edge |
+| Missing EdgeTypeProperty | Edge does not have edge type |
+
 
 [Save]: basic-function.md#save
 [Save As]: basic-function.md#save-as

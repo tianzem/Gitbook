@@ -35,7 +35,8 @@ Import the previous exported wireframe.
 
 ![](/icons/undo.jpg)
 
-Undo the last operation, excluding the [Properties].
+Undo the last operation.
+Notes: Some operation may not be undo properly, like [Attach]/[Detect Cutouts].
 
 ### Select：
 
@@ -55,7 +56,6 @@ Under Create mode, it will create a vertex in the location where you clicked.
 ![](/icons/modify.jpg)
 
 Under Select mode, you can rotate/pan the entire model. All the objects could be selected and modified if you hold the mouse and drag. 
-This is the Write mode for the QA user.
 
 ### Delete：
 
@@ -93,6 +93,15 @@ Under Delete mode, it will delete the vertex you selected.
 [Properties]: advanced-function.md#properties
 [Layers]: advanced-function.md#layers
 [Adjust Vertices]: advanced-function.md#adjust-vertices
+[Attach]: tools.md#attach
+[Detach]: tools.md#detach
+[Create from Edges]: tools.md#create-from-edges
+[Delete]: tools.md#delete
+[Detect Edge Types]: tools.md#detect-edge-types
+[Detect Cutouts]: tools.md#detect-cutouts
+[Finalize]: tools.md#finalize
+[ML Refine]: tools.md#ml-refine
+[Validate]: tools.md#validate
 [Vertex Mode]: mode.md#vertex-mode
 [Edge Mode]: mode.md#edge-mode
 [Surface Mode]: mode.md#surface-mode

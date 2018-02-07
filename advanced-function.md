@@ -4,6 +4,11 @@
 
 This mode is a sub mode of [Edge Mode] and [Surface Mode], please refer to [Edge Mode] and [Surface Mode] to get more information about this Lock Mode.
 
+### Auto Plane
+
+![](/icons/autoplane.jpg)
+
+
 ### Set Scale:
 
 ![](/icons/setscale.jpg)
@@ -97,6 +102,15 @@ Besides, if you Drag the vertex on 3D view, the projected location will be chang
 [Properties]: advanced-function.md#properties
 [Layers]: advanced-function.md#layers
 [Adjust Vertices]: advanced-function.md#adjust-vertices
+[Attach]: tools.md#attach
+[Detach]: tools.md#detach
+[Create from Edges]: tools.md#create-from-edges
+[Delete]: tools.md#delete
+[Detect Edge Types]: tools.md#detect-edge-types
+[Detect Cutouts]: tools.md#detect-cutouts
+[Finalize]: tools.md#finalize
+[ML Refine]: tools.md#ml-refine
+[Validate]: tools.md#validate
 [Vertex Mode]: mode.md#vertex-mode
 [Edge Mode]: mode.md#edge-mode
 [Surface Mode]: mode.md#surface-mode
@@ -109,6 +123,7 @@ Besides, if you Drag the vertex on 3D view, the projected location will be chang
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
 
 
 

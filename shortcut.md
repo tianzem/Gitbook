@@ -4,7 +4,7 @@
 | --- | --- |
 | Ctrl + Scroll Mouse | Change the Size of the Vertices|
 | Shift + Scroll Mouse | Change the Width of the Edges|
-| Ctrl + Shift + Scroll Mouse | Change the size of Dimensions |
+| Ctrl + Shift + Scroll Mouse | Change the Size of Dimensions |
 | 1 | Vertex Mode |
 | 2 | Surface Mode |
 | Alt | Create Mode |
@@ -17,6 +17,7 @@
 | Ctrl + V | Paste |
 | Ctrl + Z | Undo |
 | Ctrl + S | Save |
+| Ctrl + Space | Focus the Camera View to the Selected Objects |
 
 
 
