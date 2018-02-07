@@ -22,7 +22,6 @@
   * [Register Wireframe](advanced-function.md#register-wireframe)
   * [Properties](advanced-function.md#properties)
   * [Layers](advanced-function.md#layers)
-  * AutoPlane
 * [Tools](tools.md)
   * [Attach](tools.md#attach)
   * [Detach](tools.md#detach)

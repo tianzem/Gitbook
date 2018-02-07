@@ -16,7 +16,6 @@ The basic mode. Only under this mode, vertex and edge could be selected and drag
 3. When [Lock Mode] is off (default). The vertex can be only moved on the locked plane.
 4. When [Lock Mode] is on. The vertex can be only moved on the co-planar.
 
-
 [Save]: basic-function.md#save
 [Save As]: basic-function.md#save-as
 [Export]: basic-function.md#export
@@ -36,6 +35,15 @@ The basic mode. Only under this mode, vertex and edge could be selected and drag
 [Properties]: advanced-function.md#properties
 [Layers]: advanced-function.md#layers
 [Adjust Vertices]: advanced-function.md#adjust-vertices
+[Attach]: tools.md#attach
+[Detach]: tools.md#detach
+[Create from Edges]: tools.md#create-from-edges
+[Delete]: tools.md#delete
+[Detect Edge Types]: tools.md#detect-edge-types
+[Detect Cutouts]: tools.md#detect-cutouts
+[Finalize]: tools.md#finalize
+[ML Refine]: tools.md#ml-refine
+[Validate]: tools.md#validate
 [Vertex Mode]: mode.md#vertex-mode
 [Edge Mode]: mode.md#edge-mode
 [Surface Mode]: mode.md#surface-mode
@@ -48,6 +56,13 @@ The basic mode. Only under this mode, vertex and edge could be selected and drag
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
+
+
+
+
+
+
 
 
 

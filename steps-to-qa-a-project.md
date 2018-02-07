@@ -43,7 +43,6 @@
     For PrecisionHawk projects, Publish the DXF, the GEOJSON and the DataPackage.
 
 14. After click Publish, mark the final project as COMPLETE\_FINAL.
-
 [Save]: basic-function.md#save
 [Save As]: basic-function.md#save-as
 [Export]: basic-function.md#export
@@ -63,6 +62,15 @@
 [Properties]: advanced-function.md#properties
 [Layers]: advanced-function.md#layers
 [Adjust Vertices]: advanced-function.md#adjust-vertices
+[Attach]: tools.md#attach
+[Detach]: tools.md#detach
+[Create from Edges]: tools.md#create-from-edges
+[Delete]: tools.md#delete
+[Detect Edge Types]: tools.md#detect-edge-types
+[Detect Cutouts]: tools.md#detect-cutouts
+[Finalize]: tools.md#finalize
+[ML Refine]: tools.md#ml-refine
+[Validate]: tools.md#validate
 [Vertex Mode]: mode.md#vertex-mode
 [Edge Mode]: mode.md#edge-mode
 [Surface Mode]: mode.md#surface-mode
@@ -75,6 +83,13 @@
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
+
+
+
+
+
+
 
 
 

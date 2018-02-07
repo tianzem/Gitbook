@@ -80,6 +80,15 @@ All the camera locations will be viewable above the 3D model and if you select t
 [Properties]: advanced-function.md#properties
 [Layers]: advanced-function.md#layers
 [Adjust Vertices]: advanced-function.md#adjust-vertices
+[Attach]: tools.md#attach
+[Detach]: tools.md#detach
+[Create from Edges]: tools.md#create-from-edges
+[Delete]: tools.md#delete
+[Detect Edge Types]: tools.md#detect-edge-types
+[Detect Cutouts]: tools.md#detect-cutouts
+[Finalize]: tools.md#finalize
+[ML Refine]: tools.md#ml-refine
+[Validate]: tools.md#validate
 [Vertex Mode]: mode.md#vertex-mode
 [Edge Mode]: mode.md#edge-mode
 [Surface Mode]: mode.md#surface-mode
@@ -92,6 +101,13 @@ All the camera locations will be viewable above the 3D model and if you select t
 [Steps to QA a Project]: steps-to-qa-a-project.md
 [Edge Types and Example]: edge-types-and-example.md
 [Shortcut]: shortcut.md
+
+
+
+
+
+
+
 
 
 
