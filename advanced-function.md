@@ -99,6 +99,7 @@ Besides, if you Drag the vertex on 3D view, the projected location will be chang
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
 [Lock Mode]: advanced-function.md#lock-mode
+[Auto Plane]: advanced-function.md#auto-plane
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all

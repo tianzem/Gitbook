@@ -14,7 +14,7 @@
   * [Align](basic-function.md#align)
 * [Advanced Function](advanced-function.md)
   * [Lock Mode](advanced-function.md#lock-mode)
-  * [AutoPlane](advanced-function.md#autoplane)
+  * [Auto Plane](advanced-function.md#auto-plane)
   * [Set Scale](advanced-function.md#set-scale)
   * [Eraser](advanced-function.md#eraser)
   * [Erase All](advanced-function.md#erase-all)

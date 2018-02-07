@@ -9,4 +9,4 @@ change the Z axial, unless you rotate the point cloud and change the view point
 The selected vertex will be dropped onto the nearest point on the point cloud and you are not allowed to put a vertex in the black area without any points.
 
 ###Locked Geometry:
-This mode is only active when a plane is locked. All movements are going be fixed on the locked plane or the coplanar to the locked plane.
+This mode is only active when a plane is locked and it will be turned on automatically when you lock a plane. All movements are going be fixed on the locked plane or the coplanar to the locked plane.

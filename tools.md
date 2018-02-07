@@ -17,29 +17,29 @@
 
  ![](/Images/createfromedges1.png)
 
-2. Click Create from Edges, then the new plane will be created. And it will also turn off the Auto Plane which is on by default.
+2. Click Create from Edges, then the new plane will be created. And it will also turn off the [Auto Plane] which is on by default.
 
  ![](/Images/createfromedges2.png)
 
 ### Delete:
 
 1. Under [Surface Mode], [Select] or hold `Ctrl` to multi select the planes you want to delete.
-2. Click Delete, then the selected planes will be deleted. And it will also turn off the Auto Plane which is on by default.
+2. Click Delete, then the selected planes will be deleted. And it will also turn off the [Auto Plane] which is on by default.
 
 
 ### Detect Edge Types:
 
-It will add a new Property "Edge Type" into each edge and assign the detected edge type to this property.
+It will add a new Edge Type Property into each edge and assign the detected edge type to this property.
 
 Note: It is not going to overwrite any assigned edge type property. To redetect all the edge types, you need to select all the edges and delete all the edge types first.
 
 ### Detect Cutouts:
 
-It is going to detect all the cutouts in the scene and attach the cutouts plane into the lower plane.
+It is going to detect all the cutouts in the scene and [Attach] the cutouts plane into the lower plane.
 
 ### Finalize:
 
-Finalize is going to Detect Cutouts and Detect Edge Types
+Finalize is going to [Detect Cutouts] and [Detect Edge Types].
 
 ### ML Refine:
 
@@ -49,7 +49,7 @@ Machine learning is going to tweak the location of each vertices. It will save t
 
 This button is going to trigger an automatic validation to check the quality of the wireframe. 
  ![](/Images/validate.png)
-Clicking the each condition will select all the objects with the error and focus the camera into all these objects at the same time. The arrows under Count could scroll all the objects.
+Clicking the each condition will select all the objects with the error and focus the camera into all these objects at the same time. The arrows under Count could help you scroll all the objects.
 
 Different Errors are as follows:
 
@@ -73,6 +73,7 @@ Different Errors are as follows:
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
 [Lock Mode]: advanced-function.md#lock-mode
+[Auto Plane]: advanced-function.md#auto-plane
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all

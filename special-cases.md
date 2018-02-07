@@ -4,7 +4,7 @@ You should be able to view all the camera location by clicking the camera icon b
 
 ![](/icons/camera.jpg)
 
-All the camera locations will be viewable above the 3D model and if you select the red camera, the relative camera view will be updated in the 2D view.
+All the camera locations will be viewable above the 3D model in the Camera layer and if you select the red camera, the relative camera view will be updated in the 2D view.
 
 ![](/Images/camera project.jpg)
 
@@ -72,6 +72,7 @@ All the camera locations will be viewable above the 3D model and if you select t
 [Delete]: basic-function.md#delete
 [Align]: basic-function.md#align
 [Lock Mode]: advanced-function.md#lock-mode
+[Auto Plane]: advanced-function.md#auto-plane
 [Set Scale]: advanced-function.md#set-scale
 [Eraser]: advanced-function.md#eraser
 [Erase All]: advanced-function.md#erase-all
