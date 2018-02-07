@@ -8,13 +8,16 @@ This mode is a sub mode of [Edge Mode] and [Surface Mode], please refer to [Edge
 
 ![](/icons/autoplane.jpg)
 
+When Auto Plane is on, all the vertices which satisfy the planarity constraint of angle threshold will be detected as in a plane.
+When Auto Plane is off, it is not going to detect any planes automatically anymore.
+This mode is turned on by default.
 
 ### Set Scale:
 
 ![](/icons/setscale.jpg)
 
 1. Click Set Scale and then select either the line you know the measurements.
-2. If you want to change the unit, click the dropdown menu to transform between Meter and FT.If you want to scale the point cloud, change the unit first and input the new length.
+2. If you want to change the unit, click the dropdown menu to transform between M, FT, FFI and Unitless. If you want to scale the point cloud, change the unit first and input the new length.
 3. After click Apply, and turn on the Edge Dimensions layer, all the measurements have been changed.
 
 ### Eraser
@@ -43,6 +46,7 @@ Erase all the vertices in the screen.
 1. When the imported wireframe is not covered on the point cloud \(because of different coordinates\), this feature can be used to move and rotate the wireframe.
 2. Create a new edge from the imported wireframe to the same point in the point cloud. Then Adjust the endpoint to make sure it is in the accurate location.
 3. Repeat Step 2 based on different points, until there are 4 new edges.
+    [](/images/register.jpg)
 4. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
 
 ### Properties:
