@@ -45,6 +45,8 @@
 13. For Kespry projects, Publish the DXF and the GEOJSON. 
     For DroneDeploy projects, Publish the DXF, the GEOJSON and the DataPackage.
     For PrecisionHawk projects, Publish the DXF, the GEOJSON and the DataPackage.
+    
+    ![](/Images/resources.jpg)
 
 14. After click Publish, mark the final project as COMPLETE\_FINAL.
 [Save]: basic-function.md#save
