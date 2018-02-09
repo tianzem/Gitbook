@@ -37,6 +37,41 @@
 11. If the issue is not fixed, then check Kibana logs to see the possible causes. Click Settings to change the parameter threshold in Project Settings.  
 
     ![](/Images/7.jpg)
+    
+    **Plane:**
+    "checkForPlanarity": false,
+        `When it is set to True, it is going to use the angle threshold to constrain the planarity.`
+    "angleThresholdForPlanarityConstraint": 4,
+        `Intro`
+    "maxAngleOfValidPlanesWithGravityVector": 80,
+        `When the angle between the plane and the gravity vector is more than this number, this plane will not be detected.`
+
+    "checkForSignificantOverlap": true,
+        `When there are two planes overlapping with each other significantly, one of the plane will be deleted in GeoJson.`
+    
+    **Cutout:**
+    "performCutout": true,
+        `To detect cutout or not`
+    "angleThresholdForCutoutDetection": 2,
+        `Only when the angle (the distance between the cutout and the lower roof) is bigger than this number, the cutout will be detected.`
+
+    **Penetration:**
+    "checkForPenetrations": false,
+    `To detect penetrations or not`
+    
+    **Step Flashing:**
+    "polygonExpansionFactorForStepFlashings": 1.05,
+    `Intro`
+    
+    **Chimney:**
+    "minInnerChimneyPerimeterThreshold": 2,
+    `Intro`
+    "maxInnerChimneyPerimeterThreshold": 6,
+    `Intro`
+    "minOuterChimneyLengthThreshold": 0.5,
+    `Intro`
+    "maxOuterChimneyLengthThreshold": 2
+    `Intro`
 
 12. If the point cloud is broken, mark the POINT\_DENSE as PROBLEM, if the point cloud is too bad to draw the wireframe, mark the POINT\_DENSE as UNUSABLE.  
 
