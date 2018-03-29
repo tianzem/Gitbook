@@ -48,6 +48,7 @@
   * [Chimney](special-cases.md#chimney)
   * [Penetration](special-cases.md#penetration)
   * [Flat Roof](special-cases.md#flat-roof)
+  * [Dormer](special-cases.md#dormer)
 * [Steps to QA a Project](steps-to-qa-a-project.md)
 * [Edge Types and Example](edge-types-and-example.md)
 * [Shortcut](shortcut.md)

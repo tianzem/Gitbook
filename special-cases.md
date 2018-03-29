@@ -38,7 +38,7 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 
 ###Penetration:
 
->Penetrations are needed for solar projects.
+>Penetrations are needed for Tesla projects.
 
 1. Same as how to deal with the [Overhang]. Lock the plane - Drag the vertex in the 3D view - Check the vertices location in the 2D view.
 2. Always turn on the Edge Dimensions layer and [Align] the relative edges to make sure the penetration is either a square or rectangle.
@@ -58,6 +58,10 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 2. [Select] and lock the flat plane and then open [Adjust Vertices] to change Triangulation to 1 Image + Locked Plane.
 3. Scroll all the viewable images to find the best one and only use that image to adjust the vertex into the correct location.
 4. Repeat Step 3 to adjust every vertices.
+
+###Dormer:
+
+
 
 
 
