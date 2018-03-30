@@ -46,7 +46,7 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 
    ![](/Images/penetration1.jpg)
 
-3. Change to [Surface Mode] and hold `Ctrl` to multiply select all the squares in this plane and [Attach] all the penetrations onto the big plane. You will see the penetrations turn to blue and all the operations related to the penetration are fixed in the plane.
+3. Change to [Surface Mode] and hold `Ctrl` to multi-select all the squares in this plane and [Attach] all the penetrations onto the parent plane. You will see the penetrations turn to blue and all the operations related to the penetrations are fixed in the plane now.
 
    ![](/Images/penetration2.jpg)
 
@@ -56,11 +56,11 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 
 6. Open the [Adjust Vertices] and check every plane one by one in the 2D images to make sure there is not any missing penetrations.(Any obstruction which will affect the setup of solar panel should be treated as penetration) 
 
-   ![](/Images/penetration3.jpg)
-   
-7. If the roof plane is changed or deleted, you may need to redo the penetrations since it is going to be detached or moved with the plane.
+7. [Detect Edge Types] and you will see all the penetrations will turn to Step Flashing if they are attached correctly.
 
    ![](/Images/penetration3.jpg)
+   
+8. If the roof plane is changed or deleted, you may need to redo the penetrations since it is going to be detached or moved with the plane.
 
 ###Flat Roof:
 
@@ -78,8 +78,15 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 
 ###Dormers:
 
+1. First, finish the dormer as normal and there is no need to draw the outline of the shadow in the lower plane.
 
+   ![](/Images/dormer1.jpg)
 
+2. Lock the plane and adjust the top three vertices of each dormer.
+
+3. After you save and generate the resources, the QA tool is going to take the dormers as cutouts automatically and you need to double check it in the GeoJSON.
+
+   ![](/Images/dormer2.jpg)
 
 
 [Save]: basic-function.md#save
