@@ -41,14 +41,20 @@ It is going to detect all the cutouts in the scene and [Attach] the cutouts plan
 
 Finalize is going to [Detect Cutouts] and [Detect Edge Types].
 
+### Plane Refine:
+
+### Corner Refine:
+
 ### ML Refine:
 
 Machine learning is going to tweak the location of each vertices. It will save the current the current wireframe as a Rough wireframe in the current branch. And once it is done, it will save the refined wireframe as a new Wireframe-3-Java version under Autogen branch.
 
 ### Validate:
 
-This button is going to trigger an automatic validation to check the quality of the wireframe. 
+This button is going to trigger an automatic validation to check the quality of the wireframe.
+ 
  ![](/Images/validate.png)
+ 
 Clicking the each condition will select all the objects with the error and focus the camera into all these objects at the same time. The arrows under Count could help you scroll all the objects.
 
 Different Errors are as follows:

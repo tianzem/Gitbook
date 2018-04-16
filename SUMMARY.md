@@ -31,6 +31,8 @@
   * [Detect Edge Types](tools.md#detect-edge-types)
   * [Detect Cutouts](tools.md#detect-cutouts)
   * [Finalize](tools.md#finalize)
+  * [Plane Refine](tools.md#plane-refine)
+  * [Corner Refine](tools.md#corner-refine)
   * [ML Refine](tools.md#ml-refine)
   * [Validate](tools.md#validate)
 * [Mode](mode.md)
