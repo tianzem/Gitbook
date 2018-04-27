@@ -9,6 +9,8 @@ The basic mode. Only under this mode, vertex and edge could be selected and drag
 3. When [Lock Mode] is off (default). The vertex can be only moved on the locked edge.
 4. When [Lock Mode] is on. The vertex can be only moved on the parallel edge.
 
+![](/Video![](/assets/test.gif)/test.mp4)
+
 ###Surface Mode:
 
 1. Under [Modify] and [Surface Mode], select a plane which you would like the edge to fix in and press `Space` to lock it.
