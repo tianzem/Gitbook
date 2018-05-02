@@ -75,7 +75,7 @@ Under Delete mode, it will delete the vertex you selected.
 
 
 {% em %}Video-Align{% endem %}
-[](https://pointivo-drop.s3.amazonaws.com/CheatSheet/align.gif)
+![](https://pointivo-drop.s3.amazonaws.com/CheatSheet/align.gif)
 
 
 
