@@ -74,9 +74,8 @@ Under Delete mode, it will delete the vertex you selected.
 4. The edges you selected on Step 2 will be aligned with the Target you selected on Step 3 and fixed in the plane you selected on Step 1.
 
 
+{% em %}Video-Align!{% endem %}
 
-
-**Video-Align**
 
 
 
