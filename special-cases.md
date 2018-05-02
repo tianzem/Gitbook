@@ -8,6 +8,8 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 
 ![](/Images/camera project.jpg)
 
+{% em %}Video-Camera{% endem %}
+
 ###Overhang:
 
 >Typically, it is hard to find the image with the vertex under the overhang, but it might be easier to change the vertex in the 3D view.
@@ -18,6 +20,10 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 
 2. Under [Modify], Drag the vertex in the 3D view. Since the plane has been locked, so all the movements are only allowed in that plane.
 3. Turn on the [Adjust Vertices] panel to see the 2D view of the vertices to help you find the exact location of the vertices.
+
+{% em %}Video-Overhang{% endem %}
+
+
 
 ###Trees:
 
@@ -30,11 +36,17 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 2. Use [Intersect Lines] to intersect the two edges to generate the corner point.
 3. Turn on the Edge Dimensions layer to double check the corner location.
 
+
+{% em %}Video-Trees{% endem %}
+
 ###Chimney:
 
 >Chimneys are on the edge of the roof. It is not hard to draw, but if you want to make the GeoJSON looks better, [Align] function is very useful, just align the flashing of the chimney with the nearby edges. 
  
 ![](/Images/3.jpg)
+
+{% em %}Video-Chimney{% endem %}
+
 
 ###Penetration:
 
@@ -75,6 +87,10 @@ All the camera locations will be viewable above the 3D model in the Camera layer
 2. [Select] and lock the flat plane and then open [Adjust Vertices] to change Triangulation to 1 Image + Locked Plane.
 3. Scroll all the viewable images to find the best one and only use that image to adjust the vertex into the correct location.
 4. Repeat Step 3 to adjust every vertices.
+
+{% em %}Video-FlatRoof{% endem %}
+
+
 
 ###Dormers:
 

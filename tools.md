@@ -8,6 +8,8 @@
 
  ![](/Images/attach2.png)
 
+{% em %}Video-Attach{% endem %}
+
 ### Detach:
 
 [Select] all the surfaces which have been attached and click Detach.
@@ -21,11 +23,14 @@
 
  ![](/Images/createfromedges2.png)
 
+{% em %}Video-CreateFromEdges{% endem %}
+
 ### Delete:
 
 1. Under [Surface Mode], [Select] or hold `Ctrl` to multi select the planes you want to delete.
 2. Click Delete, then the selected planes will be deleted. And it will also turn off the [Auto Plane] which is on by default.
 
+{% em %}Video-Delete{% endem %}
 
 ### Detect Edge Types:
 
@@ -36,6 +41,8 @@ Note: It is not going to overwrite any assigned edge type property. To redetect 
 ### Detect Cutouts:
 
 It is going to detect all the cutouts in the scene and [Attach] the cutouts plane into the lower plane.
+
+{% em %}Video-DetectCutouts{% endem %}
 
 ### Finalize:
 

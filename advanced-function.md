@@ -4,6 +4,7 @@
 
 This mode is a sub mode of [Edge Mode] and [Surface Mode], please refer to [Edge Mode] and [Surface Mode] to get more information about this Lock Mode.
 
+
 ### Auto Plane
 
 ![](/icons/autoplane.jpg)
@@ -12,6 +13,8 @@ When Auto Plane is on, all the vertices which satisfy the planarity constraint o
 When Auto Plane is off, it is not going to detect any planes automatically anymore.
 This mode is turned on by default.
 
+{% em %}Video-AutoPlane{% endem %}
+
 ### Set Scale:
 
 ![](/icons/setscale.jpg)
@@ -19,6 +22,8 @@ This mode is turned on by default.
 1. Click Set Scale and then select either the line you know the measurements.
 2. If you want to change the unit, click the dropdown menu to transform between M, FT, FFI and Unitless. If you want to scale the point cloud, change the unit first and input the new length.
 3. After click Apply, and turn on the Edge Dimensions layer, all the measurements have been changed.
+
+{% em %}Video-SetScale{% endem %}
 
 ### Eraser
 
@@ -39,6 +44,8 @@ Erase all the vertices in the screen.
 1. Click Intersect Lines, and select the two edges you would like to intersect.
 2. The two edges will be extended and intersect towards onto one vertex.
 
+{% em %}Video-IntersectLines{% endem %}
+
 ### Register Wireframe:
 
 ![](/icons/registerwireframe.jpg)
@@ -48,6 +55,8 @@ Erase all the vertices in the screen.
 3. Repeat Step 2 based on different points, until there are 4 new edges.
     ![](/Images/register.jpg)
 4. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
+
+{% em %}Video-RegisterWireframe{% endem %}
 
 ### Properties:
 
