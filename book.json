@@ -1,3 +1,3 @@
 {
-    "plugins": ["emphasize", "splitter"]
+    "plugins": ["emphasize", "splitter", "fontsettings"]
 }
