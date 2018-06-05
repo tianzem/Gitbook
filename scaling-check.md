@@ -11,7 +11,6 @@ Every time we receive a DroneDeploy project, we would need to check whether the 
 
 3. Open the Nearmap https://go.nearmap.com/ and search the address on the map browser.
 
-![](/Nearmap/address.jp
 ![](/Video/Nearmap.gif)
 
 4. Measure the same edge or area in the Nearmap.
