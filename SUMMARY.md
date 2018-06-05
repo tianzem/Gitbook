@@ -54,4 +54,5 @@
 * [Steps to QA a Project](steps-to-qa-a-project.md)
 * [Edge Types and Example](edge-types-and-example.md)
 * [Shortcut](shortcut.md)
+* [Scaling Check](scaling-check.md)
 
