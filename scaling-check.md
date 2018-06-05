@@ -15,6 +15,6 @@ Every time we receive a DroneDeploy project, we would need to check whether the 
 ![](http://pointivo-drop.s3.amazonaws.com/TianzeMedia/Nearmap%20Measurement.gif)
 
 5. Compare the two measurements and if the difference is more than 6 inches, let us know on the wireframe channel with the compared picture.
-![](/assets/comparison.jpg)
+![](/Nearmap/comparison.jpg)
 
-6. If the two measurements match, then it is good to QA.
+6. If the two measurements match with each other, then it is good to QA.
