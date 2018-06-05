@@ -9,12 +9,12 @@ Every time we receive a DroneDeploy project, we would need to check whether the 
 ![](/Nearmap/address.jpg)
 
 3. Open the Nearmap https://go.nearmap.com/ and search the address on the map browser. (Don't abuse the map since we have a data usage limitation)
-![](/Nearmap/Nearmap.gif)
+![](http://pointivo-drop.s3.amazonaws.com/TianzeMedia/Nearmap.gif)
 
 4. Measure the same edge or area in the Nearmap.
-![](/Nearmap/NearMap Measurement.gif)
+![](http://pointivo-drop.s3.amazonaws.com/TianzeMedia/Nearmap%20Measurement.gif)
 
 5. Compare the two measurements and if the difference is more than 6 inches, let us know on the wireframe channel with the compared picture.
-![](/Nearmap/comparison.jpg)
+![](/assets/comparison.jpg)
 
 6. If the two measurements match, then it is good to QA.
