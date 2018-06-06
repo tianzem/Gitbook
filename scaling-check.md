@@ -12,6 +12,6 @@ Every time we receive a **DroneDeploy Standard** project, we would need to check
 ![](http://pointivo-drop.s3.amazonaws.com/TianzeMedia/GoogleMap.gif)
 
 4. Compare the two measurements and if the difference is more than 6 inches, change the project to `IN_REVIEW` and let us know on the wireframe channel with the compared picture.
-![](/Nearmap/comparison.jpg)
+![](/GoogleMap/comparison.jpg)
 
 5. If the two measurements match with each other, then it is good to QA.
