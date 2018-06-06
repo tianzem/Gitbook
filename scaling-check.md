@@ -1,4 +1,4 @@
-**Steps to check the scaling issue using Nearmap**
+**Steps to check the scaling issue using GoogleMap**
 
 Every time we receive a **DroneDeploy Standard** project, we would need to check whether the scaling is correct or not first before actually QA the project. 
 
