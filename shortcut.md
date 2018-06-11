@@ -7,14 +7,21 @@
 | Ctrl + Shift + Scroll Mouse | Change the Size of Dimensions |
 | 1 | Vertex Mode |
 | 2 | Surface Mode |
+| Ctrl + 1 | Lock a Edge without Switch Mode |
+| Ctrl + 2 | Lock a Surface without Switch Mode |
+
 | Alt | Create Mode |
 | Shift | Align Mode |
 | Ctrl | Multiple Selection |
-| Ctrl + A| Select All |
+| Ctrl + A | Select All |
 | Alt + Shift | Delete Mode |
 | Space | Lock Surface/Edge |
 | Ctrl + C | Copy |
 | Ctrl + V | Paste |
+| Ctrl + D | Attach |
+| Ctrl + Q | Select All the Children from Parent Plane|
+
+
 | Ctrl + Z | Undo |
 | Ctrl + S | Save |
 | Ctrl + Space | Focus the Camera View to the Selected Objects |
