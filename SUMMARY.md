@@ -55,4 +55,5 @@
 * [Edge Types and Example](edge-types-and-example.md)
 * [Shortcut](shortcut.md)
 * [Scaling Check](scaling-check.md)
+* [Weekly Updates](weekly-updates.md)
 
