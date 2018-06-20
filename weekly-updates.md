@@ -11,6 +11,9 @@ Vertical Planes are going to be **neglected** automatically during the Detect Ed
 
 But, we still highly recommend to Delete the Vertical Planes in the tool since our workflow may not delete a plane with 79 degrees which you definitely want to. And it is always much safer to visualize everything in the tool instead of assuming something. 
 
+
+
+
 **Dormer Cutouts**
 
 ```
@@ -18,6 +21,4 @@ Re Adnan's
 2) Dormer cutouts are not required to be done in the wireframe. 
 They are automatically detected at the time of geojson generation. 
 ```
-
-
-2) Dormer cutouts are not required to be done in the wireframe. They are automatically detected at the time of geojson generation. Follow this procedure for dormers: 
+Although dormer cutouts are automatically detected at the time of geojson generation. 
