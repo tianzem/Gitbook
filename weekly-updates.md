@@ -9,7 +9,7 @@ Vertical Plane is defined as a plane whose slope is greater than 80 degrees. You
 
 Vertical Planes are going to be **neglected** automatically during the Detect Edge Types and Generate GeoJson. So you could imagine there is not going to be any differences between you delete the planes in the tool or just not.
 
-But, we still highly recommend to Delete the Vertical Planes in the tool since our workflow may not delete a plane with 79 degrees which you definitely want to. And it is always much safer to visualize everything in the tool instead of assuming something. 
+But, we still highly recommend to Delete the Vertical Planes in the tool since our workflow may not delete a plane with 79 degrees which you definitely want to. And it is always much safer to visualize everything in the tool instead of assuming something.
 
 ---
 
@@ -18,17 +18,21 @@ But, we still highly recommend to Delete the Vertical Planes in the tool since o
 ```
 Re Adnan's 
 2) Dormer cutouts are not required to be done in the wireframe. 
-They are automatically detected at the time of geojson generation. 
+They are automatically detected at the time of geojson generation.
 ```
+
 Although dormer cutouts are automatically detected at the time of geojson generation, they are still **required** to be done in the tool. Again, there might not be any differences between to detect it in the tool or let it get detected automatically during the geojson generation. But if you do it in the tool, you will see how the cutouts will look like and you could check or even adjust the location of the new vertices.
 
 Besides, if you do the cutout detection in the tool, all the new vertices will become red and you need to make sure there is not any extra red vertices after the detection. If there are, go to the settings in the intranet and turn off the "performcutout"
 
 From
+
 ```
    "performCutout": true
 ```
+
 To
+
 ```
    "performCutout": false
 ```
@@ -44,14 +48,14 @@ Please note that chimney cutouts are still needed to be done in the wireframe an
 
 We just discuss this question. And please follow the new rule.
 
-| Customer | Location |Do or Do not|
-| ------------- | ------------- |------------- |
-| Kespry  | In the middle of an edge  |Do|
-| Kespry  | In the middle of a Plane  |Do not|
-| DroneDeploy| In the middle of an edge  |Do|
-| DroneDeploy| In the middle of a Plane  |Do|
-| DroneDeploy with Label Obstruction | In the middle of an edge  |Do|
-| DroneDeploy with Label Obstruction | In the middle of a Plane  |Do|
+| Customer | Location | Do or Do not |
+| --- | --- | --- |
+| Kespry | In the middle of an edge | Do |
+| Kespry | In the middle of a Plane | Do not |
+| DroneDeploy | In the middle of an edge | Do |
+| DroneDeploy | In the middle of a Plane | Do |
+| DroneDeploy with Label Obstruction | In the middle of an edge | Do |
+| DroneDeploy with Label Obstruction | In the middle of a Plane | Do |
 
 ---
 
@@ -67,3 +71,8 @@ You missed out some small areas as shown in the below image.
 Do not bother this kind of small areas, unless they are reconstructed very well.
 
 ---
+
+
+
+---
+
