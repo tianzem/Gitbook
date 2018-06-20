@@ -72,7 +72,16 @@ Do not bother this kind of small areas, unless they are reconstructed very well.
 
 ---
 
+**In Support Status**
+
+When you think the project has some issues, instead of marking the project In_Support directly, please do the following:
+
+1. Please assign the project to tianze@pointivo.com
+2. Please describe the detailed issues in the wireframe channel and @tianzem.
+3. Change the project to IN_REVIEW then we do not miss the Nagbot notification.
 
 
 ---
+
+
 
