@@ -1,6 +1,6 @@
 # Shortcut
 
-**Shortcuts testGithub**
+**Shortcuts**
 
 | **Button** | **Operation** |
 | --- | --- |
