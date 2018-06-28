@@ -11,7 +11,7 @@
 | Ridge | 2 |  | √ |
 | Flashing | Only around the chimney |  |  |
 | Step Flashing | Only connects towards the wall |  |  |
-| Parapet | Only on the flat roof |  |  |
+| Parapet | Only on the flat roof connects towards the wall |  |  |
 
 **Edge Type Example - QA Project: 6573**
 
