@@ -24,6 +24,7 @@
   * [Intersect Lines](advanced-function/intersect-lines.md)
   * [Snap Mode](snap-mode/README.md)
   * AutoLock
+* Settings
 * [Properties](advanced-function/properties.md)
 * [Tools](tools/README.md)
   * [Attach](tools/attach.md)
@@ -64,4 +65,5 @@
   * [Scaling Check](deprecated/scaling-check.md)
   * [Finalize](tools/finalize.md)
   * [Other Resources](deprecated/other-resources.md)
+* [Steps to QA a project](steps-to-qa-a-project.md)
 
