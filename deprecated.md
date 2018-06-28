@@ -1,2 +1,1 @@
-✅ All the temporarily deprecated features.
-
+⛔ All the temporarily deprecated features.
