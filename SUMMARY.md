@@ -24,7 +24,7 @@
   * [Intersect Lines](advanced-function/intersect-lines.md)
   * [Snap Mode](snap-mode/README.md)
   * AutoLock
-* Settings
+* [Settings](settings.md)
 * [Properties](advanced-function/properties.md)
 * [Tools](tools/README.md)
   * [Attach](tools/attach.md)
