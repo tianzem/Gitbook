@@ -1,2 +1,10 @@
-# Layers
 
+## Layers:
+
+![](../.gitbook/assets/layers.jpg)
+
+You could turn on and off the different layers.
+
+![](../.gitbook/assets/layers.png)
+
+Wireframe: The entire wireframe including all the dimensions and planes. Edge Dimensions: The measurements of the edges. Planes: The green shade of the detected planes. Plane Dimensions: The SurfaceArea/Perimeter/Pitch of each plane. Camera: All the cameras captured in the scene. Structure-1: The point cloud of the different structures. Ground: The point cloud of the ground.
