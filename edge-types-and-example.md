@@ -1,3 +1,5 @@
+# Edge Types and Example
+
 **Common Edge Types**
 
 |  | Number of Planes | Angle | Parallel to Ground |
@@ -7,12 +9,11 @@
 | Hip | 2 | "Λ" | × |
 | Valley | 2 | "V" | × |
 | Ridge | 2 |  | √ |
-| Flashing | Only around the chimney |
-| Step Flashing | Only connects towards the wall |
-| Parapet | Only on the flat roof |
-
+| Flashing | Only around the chimney |  |  |
+| Step Flashing | Only connects towards the wall |  |  |
+| Parapet | Only on the flat roof |  |  |
 
 **Edge Type Example - QA Project: 6573**
 
-![edges](/Images/edge_classification.jpeg)
+![edges](.gitbook/assets/edge_classification.jpeg)
 

@@ -1,0 +1,2 @@
+# Detect Edge Types
+

@@ -1,9 +1,11 @@
+# Shortcut
+
 **Shortcuts**
 
 | **Button** | **Operation** |
 | --- | --- |
-| Ctrl + Scroll Mouse | Change the Size of the Vertices|
-| Shift + Scroll Mouse | Change the Width of the Edges|
+| Ctrl + Scroll Mouse | Change the Size of the Vertices |
+| Shift + Scroll Mouse | Change the Width of the Edges |
 | Ctrl + Shift + Scroll Mouse | Change the Size of Dimensions |
 | 1 | Vertex Mode |
 | 2 | Surface Mode |
@@ -17,15 +19,10 @@
 | Ctrl + C | Copy |
 | Ctrl + V | Paste |
 | Ctrl + D | Attach |
-| Ctrl + Q | Select All the Children from Parent Plane|
+| Ctrl + Q | Select All the Children from Parent Plane |
 | Ctrl + Z | Undo |
 | Ctrl + S | Save |
 | Alt + Shift | Delete Mode |
 | Ctrl + Space | Focus the Camera View to the Selected Objects |
 | Alt + Ctrl | Draw the Polygon with Polygon Shape Property |
-
-
-
-
-
 

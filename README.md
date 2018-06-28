@@ -1,4 +1,4 @@
-# Pointivo Wireframe Tool User Guide
+# Introduction
 
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
 It contains the full documentation for `Pointivo Viewer v376`.
@@ -7,23 +7,23 @@ It contains the full documentation for `Pointivo Viewer v376`.
 
 There are several parts in this cheat sheet.
 
-> [Basic Function](basic-function.md) includes all the basic functions in the tool.
+> [Basic Function](basic-function/) includes all the basic functions in the tool.
 
-![](/Images/basic.jpg)
+![](.gitbook/assets/basic.jpg)
 
-> [Advanced Function](advanced-function.md) describes the detailed explanation of the advanced functions.
+> [Advanced Function](advanced-function/) describes the detailed explanation of the advanced functions.
 
-![](/Images/advanced.jpg)
+![](.gitbook/assets/advanced.jpg)
 
-> [Tools](tools.md) gives the introduction of the three different modes.
+> [Tools](tools/) gives the introduction of the three different modes.
 
-![](/Images/tools.png)
+![](.gitbook/assets/tools%20%281%29.png)
 
-> [Mode](mode.md) includes the different functions related to the surfaces and wireframe.
+> [Mode](mode/) includes the different functions related to the surfaces and wireframe.
 
-![](/Images/mode.jpg)
+![](.gitbook/assets/mode.jpg)
 
-> [Special Cases](special-cases.md) is going to help you how to deal with some difficult cases you may meet during your experience.
+> [Special Cases](special-cases/) is going to help you how to deal with some difficult cases you may meet during your experience.
 >
 > [Steps to QA a Project](steps-to-qa-a-project.md) is the necessary steps you need to know before to QA a real project.
 >
