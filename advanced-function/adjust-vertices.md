@@ -1,5 +1,3 @@
-
-
 ## Adjust Vertices:
 
 ![](../.gitbook/assets/adjustvertices.jpg)
