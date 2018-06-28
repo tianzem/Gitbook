@@ -1,15 +1,19 @@
 # Introduction
 
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
-It contains the full documentation for `Pointivo Viewer v376`.
+It contains the full documentation for `Pointivo Viewer v571`.
 
 ## What is in this docummentation
 
-There are several parts in this cheat sheet.
+There are several parts in this user guide.
 
 > [Basic Function](basic-function/) includes all the basic functions in the tool.
 
 ![](.gitbook/assets/basic.jpg)
+
+> [Mode](mode/) includes the different functions related to the surfaces and wireframe.
+
+![](.gitbook/assets/mode.jpg)
 
 > [Advanced Function](advanced-function/) describes the detailed explanation of the advanced functions.
 
@@ -19,9 +23,7 @@ There are several parts in this cheat sheet.
 
 ![](.gitbook/assets/tools%20%281%29.png)
 
-> [Mode](mode/) includes the different functions related to the surfaces and wireframe.
 
-![](.gitbook/assets/mode.jpg)
 
 > [Special Cases](special-cases/) is going to help you how to deal with some difficult cases you may meet during your experience.
 >
@@ -31,10 +33,7 @@ There are several parts in this cheat sheet.
 >
 > [Shortcut](shortcut.md)
 
-## Other Resources
 
-[Testing Project List](https://docs.google.com/spreadsheets/d/1V2SI43IB1drwqNA9YoSAxvmM10optnzVloJobg5GqSc/edit#gid=0)  
-[Wireframe QA Issue and Fix](https://docs.google.com/presentation/d/1Dvk6KUP5EFZVOGPLhFnmeHY2iZ4dZ6n3FJNz8WnrtHI/edit#slide=id.p)
 
 ## Help and Support
 
@@ -42,7 +41,7 @@ We are passionate about this technology and even more passionate talking about i
 
 ## Contact Info
 
-75 5th St NW Atlanta, GA 30308 Suite 2140  
+3400 Peachtree Rd NE, Atlanta, GA 30326, Suite 700
 \(678\) 801-6223  
 team@pointivo.com
 

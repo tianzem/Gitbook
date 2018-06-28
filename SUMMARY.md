@@ -60,4 +60,5 @@
 * [⛔ Deprecated](deprecated/README.md)
   * [Scaling Check](deprecated/scaling-check.md)
   * [Finalize](tools/finalize.md)
+  * [Other Resources](deprecated/other-resources.md)
 
