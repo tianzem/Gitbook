@@ -54,7 +54,7 @@
 * [Steps to QA a Project](steps-to-qa-a-project.md)
 * [Edge Types and Example](edge-types-and-example.md)
 * [Shortcut](shortcut.md)
-* [Weekly Updates](weekly-updates.md)
+* [🆕 Weekly Updates](weekly-updates.md)
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
   * [Jun 29th 2018](weekly-updates/june-29th-2018.md)
 * [⛔ Deprecated](deprecated.md)
