@@ -56,4 +56,5 @@
 * [Shortcut](shortcut.md)
 * [Scaling Check](scaling-check.md)
 * [Weekly Updates](weekly-updates.md)
+  * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
 
