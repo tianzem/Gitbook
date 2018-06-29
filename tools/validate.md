@@ -1,4 +1,4 @@
-## Validate:
+# Validate
 
 This button is going to trigger an automatic validation to check the quality of the wireframe.
 
@@ -15,3 +15,4 @@ Different Errors are as follows:
 | Coincident Vertices | Two vertices are too close with each other |
 | Colinear Adjacent Edges | Extra vertex in the middle of the edge |
 | Missing EdgeTypeProperty | Edge does not have edge type |
+

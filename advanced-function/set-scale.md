@@ -1,4 +1,4 @@
-## Set Scale:
+# Set Scale
 
 ![](../.gitbook/assets/setscale.jpg)
 

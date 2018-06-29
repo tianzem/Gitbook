@@ -1,4 +1,4 @@
-## Edge Mode:
+# Edge Mode
 
 1. Under [Modify](../basic-function/#modify) and [Vertex Mode](./#vertex-mode), select a edge which you would like the vertices to fix in and press `Space` to lock it.
 2. Under [Modify](../basic-function/#modify) and [Vertex Mode](./#vertex-mode), Hold and Drag the vertex on 3D view. 

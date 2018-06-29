@@ -1,4 +1,4 @@
-## Flat Roof:
+# Flat Roof
 
 > Typically, it is hard to select the corner of the flat roof because of the texture and the parapet.
 

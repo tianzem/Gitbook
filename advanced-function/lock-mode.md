@@ -1,4 +1,4 @@
-## Lock Mode:
+# Lock Mode
 
 ![](../.gitbook/assets/lock.jpg)
 

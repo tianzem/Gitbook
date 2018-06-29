@@ -17,36 +17,35 @@ There are several parts in this user guide.
 
 > [Advanced Function](advanced-function/) describes the detailed explanation of the advanced functions.
 
-![](/assets/advanced.jpg)
+![](.gitbook/assets/advanced.jpg)
 
-> [Settings](settings/) is the panel in the left top corner.
+> [Settings](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/settings/README.md) is the panel in the left top corner.
 
-![](/assets/settings.jpg)
+![](.gitbook/assets/settings.jpg)
 
-> [Properties](properties/) provide the different parameters of Vertex/Edge/Plane.
+> [Properties](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/properties/README.md) provide the different parameters of Vertex/Edge/Plane.
 
-![](/assets/properties.jpg)
+![](.gitbook/assets/properties%20%281%29.jpg)
 
 > [Tools](tools/) gives the introduction of the different tools.
 
-![](/assets/tools.jpg)
+![](.gitbook/assets/tools.jpg)
 
-> [Layers](layers/) gives the introduction of the different tools.
+> [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives the introduction of the different tools.
 
-![](/assets/layers.jpg)
+![](.gitbook/assets/layers%20%281%29.jpg)
 
-> [Adjust Vertices](adjust-vertices/) is the main panel used to adjust the vertices.
+> [Adjust Vertices](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/adjust-vertices/README.md) is the main panel used to adjust the vertices.
 
-![](/assets/adjust.jpg)
+![](.gitbook/assets/adjust.jpg)
 
 > [Special Cases](special-cases/) is going to help you how to deal with some difficult cases you may meet during your experience.
-
-> [Resources](resources/) has the external files for your reference.
-
-> [Weekly Updates](weekly-updates.md) The updates per week.
-
-> [Deprecated](deprecated.md) Recycle Bin
-
+>
+> [Resources](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/resources/README.md) has the external files for your reference.
+>
+> [Weekly Updates](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/weekly-updates.md) The updates per week.
+>
+> [Deprecated](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/deprecated.md) Recycle Bin
 
 ## Help and Support
 
@@ -54,7 +53,6 @@ We are passionate about this technology and even more passionate talking about i
 
 ## Contact Info
 
-3400 Peachtree Rd NE, Atlanta, GA 30326, Suite 700
-\(678\) 801-6223  
+3400 Peachtree Rd NE, Atlanta, GA 30326, Suite 700 \(678\) 801-6223  
 team@pointivo.com
 

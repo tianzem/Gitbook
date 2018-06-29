@@ -1,4 +1,4 @@
-## Undo：
+# Undo
 
 ![](../.gitbook/assets/undo.jpg)
 

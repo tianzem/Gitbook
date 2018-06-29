@@ -1,4 +1,4 @@
-## Penetration:
+# Penetration
 
 > Penetrations are needed for Tesla projects, and you will see "label obstructions" in the description field of the projects.
 

@@ -1,4 +1,4 @@
-## Delete：
+# Delete
 
 ![](../.gitbook/assets/delete.jpg)
 

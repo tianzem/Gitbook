@@ -1,5 +1,4 @@
-##Grade Standard
+# Grade Standard
 
-🚧🚧
-Under Construction by Tianze
-🛑🛑
+🚧🚧 Under Construction by Tianze 🛑🛑
+

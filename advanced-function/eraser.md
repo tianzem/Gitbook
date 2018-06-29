@@ -1,4 +1,4 @@
-## Eraser
+# Eraser
 
 ![](../.gitbook/assets/eraser.jpg)
 

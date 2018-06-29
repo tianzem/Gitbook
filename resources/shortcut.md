@@ -22,7 +22,7 @@
 | Ctrl + Q | Select All the Children from Parent Plane |
 | Ctrl + Z | Undo |
 | Ctrl + S | Save |
-| BackSpace | Delete the selected vertex or edge|
+| BackSpace | Delete the selected vertex or edge |
 | Ctrl + BackSpace | Delete all the vertices and edges around the plane |
 | 🚧 Under Construction By Iven 🚧 | Apply |
 | Alt + Shift | Delete Mode |

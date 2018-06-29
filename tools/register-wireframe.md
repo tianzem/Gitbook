@@ -1,4 +1,4 @@
-## Register Wireframe:
+# Register Wireframe
 
 ![](../.gitbook/assets/registerwireframe.jpg)
 
@@ -8,4 +8,5 @@
 
 ![](../.gitbook/assets/register.jpg)
 
-4. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
+1. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
+
