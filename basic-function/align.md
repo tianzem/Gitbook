@@ -7,5 +7,5 @@
 3. Click [Align](./#align) or press `Shift` to change to [Align](./#align) mode, and click the Target edge.
 4. The edges you selected on Step 2 will be aligned with the Target you selected on Step 3 and fixed in the plane you selected on Step 1.
 
-![](https://pointivo-drop.s3.amazonaws.com/CheatSheet/align.gif)
+![Align Edge](https://pointivo-drop.s3.amazonaws.com/CheatSheet/align.gif)
 
