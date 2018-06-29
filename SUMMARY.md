@@ -58,6 +58,7 @@
   * [Shortcut](shortcut.md)
   * [Quiz](resources/quiz.md)
   * [Grade Standard](resources/grade-standard.md)
+  * [In Support Projects](resources/in-support-projects.md)
 * [🆕 Weekly Updates](weekly-updates/README.md)
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
   * [Jun 29th 2018](weekly-updates/jun-29th-2018.md)
