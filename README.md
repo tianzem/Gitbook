@@ -17,21 +17,31 @@ There are several parts in this user guide.
 
 > [Advanced Function](advanced-function/) describes the detailed explanation of the advanced functions.
 
-![](.gitbook/assets/advanced.jpg)
+![](/assets/advanced.jpg)
 
-> [Tools](tools/) gives the introduction of the three different modes.
+> [Settings](settings/) is the panel in the left top corner.
 
-![](.gitbook/assets/tools%20%281%29.png)
+![](/assets/settings.jpg)
 
+> [Properties](properties/) provide the different parameters of Vertex/Edge/Plane
 
+![](/assets/properties.jpg).
+
+> [Tools](tools/) gives the introduction of the different tools.
+
+![](/assets/tools.jpg)
+
+> [Tools](tools/) gives the introduction of the different tools.
+
+![](/assets/tools.jpg)
 
 > [Special Cases](special-cases/) is going to help you how to deal with some difficult cases you may meet during your experience.
->
-> [Steps to QA a Project](steps-to-qa-a-project.md) is the necessary steps you need to know before to QA a real project.
->
-> [Edge Types and Example](edge-types-and-example.md) will let you know all the edge types.
->
-> [Shortcut](shortcut.md)
+
+> [Resources](resources/) has the external files for your reference.
+
+> [Weekly Updates](weekly-updates.md) The updates per week.
+
+> [Deprecated](deprecated.md) Recycle Bin
 
 
 

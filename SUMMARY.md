@@ -26,6 +26,8 @@
   * AutoLock
 * [Settings](settings.md)
 * [Properties](advanced-function/properties.md)
+  * Label
+  * Distance
 * [Tools](tools/README.md)
   * [Attach](tools/attach.md)
   * [Detach](tools/detach.md)
@@ -60,10 +62,11 @@
   * [Quiz](resources/quiz.md)
   * [Grade Standard](resources/grade-standard.md)
   * [In Support Projects](resources/in-support-projects.md)
+  * [Review Standard](resources/reviewer-standard.md)
 * [🆕 Weekly Updates](weekly-updates/README.md)
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
   * [Jun 29th 2018](weekly-updates/jun-29th-2018.md)
-* [⛔ Deprecated](deprecated/README.md)
+* [🗑 Deprecated](deprecated/README.md)
   * [Scaling Check](deprecated/scaling-check.md)
   * [Finalize](tools/finalize.md)
   * [Other Resources](deprecated/other-resources.md)
