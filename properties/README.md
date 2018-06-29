@@ -1,3 +1,9 @@
+---
+description: Properties provides the different parameters of Vertex/Edge/Plane.
+---
+
+
+
 # Properties
 
 ![](../.gitbook/assets/properties.jpg)

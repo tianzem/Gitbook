@@ -1,3 +1,8 @@
+---
+description: The updates per week.
+---
+
+
 # 🆕 Weekly Updates
 
 This is the Area where we are using to post our updates and keep the communication between Pakistan and Unite State.

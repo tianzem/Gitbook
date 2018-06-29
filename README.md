@@ -19,11 +19,11 @@ There are several parts in this user guide.
 
 ![](.gitbook/assets/advanced.jpg)
 
-> [Settings](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/settings/README.md) is the panel in the left top corner.
+> [Settings](settings/) is the panel in the left top corner.
 
 ![](.gitbook/assets/settings.jpg)
 
-> [Properties](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/properties/README.md) provide the different parameters of Vertex/Edge/Plane.
+> [Properties](properties.md) provide the different parameters of Vertex/Edge/Plane.
 
 ![](.gitbook/assets/properties%20%281%29.jpg)
 
@@ -31,7 +31,7 @@ There are several parts in this user guide.
 
 ![](.gitbook/assets/tools.jpg)
 
-> [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives the introduction of the different tools.
+> [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives the introduction of the different layers.
 
 ![](.gitbook/assets/layers%20%281%29.jpg)
 
