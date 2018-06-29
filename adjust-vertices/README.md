@@ -1,9 +1,6 @@
 ---
 description: Adjust Vertices is the main panel used to adjust the vertices.
-
 ---
-
-
 
 # Adjust Vertices
 
