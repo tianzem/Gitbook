@@ -4,6 +4,13 @@ description: Layers gives the introduction of the different layers.
 
 # Layers
 
+Here are the articles in this section:
+
+{% hint style="info" %}
+This page is under construction to get a better layout.
+{% endhint %}
+
+
 ![](../.gitbook/assets/layers.jpg)
 
 You could turn on and off the different layers.
