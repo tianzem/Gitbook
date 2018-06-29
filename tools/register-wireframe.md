@@ -10,3 +10,6 @@
 
 1. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
 
+{% hint style="warning" %}
+Video is needed
+{% endhint %}
