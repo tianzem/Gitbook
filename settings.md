@@ -7,6 +7,6 @@ description: Settings is the panel in the left top corner.
 Here are the articles in this section:
 
 {% hint style="info" %}
-This page is under construction to get a better layout.
+🚧🚧 Under construction by Tianze 🚧🚧
 {% endhint %}
 
