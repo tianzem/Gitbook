@@ -6,7 +6,6 @@ description: Properties provides the different parameters of Vertex/Edge/Plane.
 
 ![](../.gitbook/assets/properties.jpg)
 
-
 Here are the articles in this section:
 
 {% hint style="info" %}

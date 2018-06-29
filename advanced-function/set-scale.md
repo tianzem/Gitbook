@@ -1,5 +1,9 @@
 # Set Scale
 
+{% hint style="danger" %}
+This feature is not working anymore. Under construction by Iven.
+{% endhint %}
+
 ![](../.gitbook/assets/setscale.jpg)
 
 1. Click Set Scale and then select either the line you know the measurements.

@@ -10,7 +10,6 @@ Here are the articles in this section:
 This page is under construction to get a better layout.
 {% endhint %}
 
-
 ![](../.gitbook/assets/adjustvertices.jpg)
 
 Open Adjust Vertices panel and click the vertex you would like to adjust.
