@@ -14,7 +14,7 @@ Only Kespry and DroneDeploy Standard have the Region of Interest.
 
 
 {% hint style="danger" %}
-There is a bug relating to turn on and off the ROI layer when switching layers 
+There is a bug relating to turn on and off the ROI layer when switching layers.
 {% endhint %}
 
 
