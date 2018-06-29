@@ -15,4 +15,13 @@ Different Errors are as follows:
 | Coincident Vertices | Two vertices are too close with each other |
 | Colinear Adjacent Edges | Extra vertex in the middle of the edge |
 | Missing EdgeTypeProperty | Edge does not have edge type |
+|Inconsistent Plane Normals | The Plane Normals no not point to the same direction |
+
+{% hint style="info" %}
+Inconsistent Plane Normals could be ignored.
+{% endhint %}
+
+{% hint style="info" %}
+Coincident Vertices/Colinear Adjacent Edges could be ignored for some specific cases.
+{% endhint %}
 

@@ -9,3 +9,8 @@ It will be very convenient since you only need to adjust one image for each vert
 {% hint style="danger" %}
 When use AutoLock to adjust the vertex, first you need to make sure the plane is reliable.
 {% endhint %}
+
+{% hint style="warning" %}
+Video is needed
+{% endhint %}
+
