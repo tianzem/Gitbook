@@ -23,17 +23,21 @@ There are several parts in this user guide.
 
 ![](/assets/settings.jpg)
 
-> [Properties](properties/) provide the different parameters of Vertex/Edge/Plane
+> [Properties](properties/) provide the different parameters of Vertex/Edge/Plane.
 
-![](/assets/properties.jpg).
-
-> [Tools](tools/) gives the introduction of the different tools.
-
-![](/assets/tools.jpg)
+![](/assets/properties.jpg)
 
 > [Tools](tools/) gives the introduction of the different tools.
 
 ![](/assets/tools.jpg)
+
+> [Layers](layers/) gives the introduction of the different tools.
+
+![](/assets/layers.jpg)
+
+> [Adjust Vertices](adjust-vertices/) is the main panel used to adjust the vertices.
+
+![](/assets/adjust.jpg)
 
 > [Special Cases](special-cases/) is going to help you how to deal with some difficult cases you may meet during your experience.
 
@@ -42,7 +46,6 @@ There are several parts in this user guide.
 > [Weekly Updates](weekly-updates.md) The updates per week.
 
 > [Deprecated](deprecated.md) Recycle Bin
-
 
 
 ## Help and Support
