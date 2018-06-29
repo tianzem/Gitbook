@@ -63,6 +63,7 @@
   * [Grade Standard](resources/grade-standard.md)
   * [In Support Projects](resources/in-support-projects.md)
   * [Review Standard](resources/reviewer-standard.md)
+  * [Steps to QA a project](steps-to-qa-a-project.md)
 * [🆕 Weekly Updates](weekly-updates/README.md)
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
   * [Jun 29th 2018](weekly-updates/jun-29th-2018.md)
@@ -70,5 +71,4 @@
   * [Scaling Check](deprecated/scaling-check.md)
   * [Finalize](tools/finalize.md)
   * [Other Resources](deprecated/other-resources.md)
-* [Steps to QA a project](steps-to-qa-a-project.md)
 
