@@ -15,5 +15,5 @@
 
 **Edge Type Example - QA Project: 6573**
 
-![edges](https://github.com/tianzem/Gitbook/tree/2e9200fdef84ea3c8c4472af1a82e8fe48c2d6f7/resources/.gitbook/assets/edge_classification.jpeg)
+![edges](../.gitbook/assets/edge_classification.jpeg)
 
