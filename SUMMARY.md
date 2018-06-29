@@ -44,6 +44,7 @@
   * [Validate](tools/validate.md)
 * [Layers](advanced-function/layers.md)
   * [Camera](advanced-function/layers/camera.md)
+  * [Region of Interest](advanced-function/layers/region-of-interest.md)
 * [Adjust Vertices](advanced-function/adjust-vertices.md)
   * [Triangulation](advanced-function/adjust-vertices/triangulation.md)
   * [Plane Sort](advanced-function/adjust-vertices/plane-sort.md)
