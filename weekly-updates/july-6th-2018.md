@@ -49,7 +49,7 @@ Grader Rules:
 
 4. Grader should fill up the grade sheet carefully and provide detailed explanation for every deducted point. 
 
-5. To track the projects which need to be graded, each time the examinee's project is ready for review, please say `"10000 ready for review, version 100000 ready for grade"` in the wireframe channel. 
+5. To track the projects which need to be graded, each time the examinee's project is ready for review, please say `"10000 ready for review, version 100000 ready for grade"` in the wireframe channel. The project should be reviewed as regular, and the grader needs to pick up the IN_REVIEW version when he starts grading the project.
 
 6. Some huge projects are not under consideration for grading, Grade Team will make the decision whether the project is an exception or not. 
 
