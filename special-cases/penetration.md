@@ -1,9 +1,9 @@
 # Penetration
 
-> Penetrations are needed for Tesla projects, and you will see "label obstructions" in the description field of the projects.
+> Penetrations are needed for Tesla projects, and you will see "label obstructions" in the description field of these projects.
 
-1. Finish the entire roof first and get ready for the penetrations.
-2. Start from one of the planes, open the 2D images first to count the total numbers of the penetrations to make sure you won't miss any penetrations in this plane. Lock this plane, go to [Vertex Mode](../mode/#vertex-mode) and draw a small square which covers the penetration.
+1. Finish the entire roof first before starting the penetrations.
+2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure you don't miss any penetrations on this plane. Lock this plane, then go to [Vertex Mode](../mode/#vertex-mode) and draw a small square that covers the penetration.
 
    ![](../.gitbook/assets/penetration1.jpg)
 
