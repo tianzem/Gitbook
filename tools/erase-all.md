@@ -6,5 +6,5 @@ This feature is not working anymore. Under construction by Iven.
 
 ![](../.gitbook/assets/eraseall.jpg)
 
-Erase all the vertices in the screen.
+Erase all the vertices on the screen.
 

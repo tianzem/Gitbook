@@ -2,13 +2,13 @@
 
 ![](../.gitbook/assets/registerwireframe.jpg)
 
-1. When the imported wireframe is not covered on the point cloud \(because of different coordinates\), this feature can be used to move and rotate the wireframe.
-2. Create a new edge from the imported wireframe to the same point in the point cloud. Then Adjust the endpoint to make sure it is in the accurate location.
-3. Repeat Step 2 based on different points, until there are 4 new edges.
+1. When the imported wireframe is not covered on the point cloud \(due to differing coordinates\), the Register Wireframe feature can be used to move and rotate the wireframe.
+2. Create a new edge from the imported wireframe, and connect it to the same point in the point cloud. Then use Adjust Vertices to adjust the endpoint and ensure it is in the accurate location.
+3. Repeat Step 2 for each different point, until there are 4 new edges.
 
 ![](../.gitbook/assets/register.jpg)
 
-1. Hold `Ctrl` to select all the 4 edges and click Register Wireframe.
+1. Hold `Ctrl` to select all 4 edges and click the Register Wireframe button in the Tools tab of Properties.
 
 {% hint style="warning" %}
 Video is needed

@@ -1,9 +1,9 @@
 # Detect Edge Types
 
-1. After completing the rough wireframe, click [Detect Edge Types](./#detect-edge-types) to auto-assign the edge type onto all the edges.
-2. To manually add the Property onto an edge: Go to the Properties tab, select an unassigned edge, select Edge Type in the Add Property drop-down menu, then select the desired Edge Type.
-3. To change the Edge Type of an edge that has already been auto-assigned: Go to the Properties tab, and select the Edge Type from the drop-down menu.
-4. It will add a new Edge Type Property into each edge and assign the detected edge type to this property.
+1. After finalizing the wireframe, go to the Tools tab in Properties, click the [Detect Edge Types](./#detect-edge-types) button to auto-assign the edge types onto all of the edges.
+2. To manually assign the Edge Type Property to an edge: go to the Properties tab, select an unassigned edge. In the Add Property drop-down menu select Edge Type, then select the desired Edge Type in the Edge Type drop-down menu.
+3. To change the Edge Type of an edge that has already been auto-assigned: select the edge you wish to change, go to the Properties tab, then select a different edge type from the Edge Type drop-down menu.
+4. This will add a new Edge Type Property for each selected edge and assign the chosen edge type to this property.
 
-Note: It is not going to overwrite any assigned edge type property. To redetect all the edge types, you need to select all the edges and delete all the edge types first.
+Note: These methods are not going to overwrite any of the other previously auto-assigned edge type properties, only the ones that you manually changed. To re-detect and auto-assign the edge type property again, you will first need to select all of the edges that you want to re-detect. Then, delete the edge types by clicking the circle x button on the far right side of the Edge Type drop-down menu in the Properties tab. After that, go to the Tools tab and click the Detect Edge Types button.
 
