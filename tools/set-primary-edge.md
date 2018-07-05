@@ -1,15 +1,15 @@
 # Set Primary Edge
 
-Every Plane has a auto detected Primary Edge, which is the most parallel with the ground one. And all the attached penetration drawn by Alt + Ctrl is going to align with this primary edge automatically.
+Every plane has a Primary Edge that is automatically detected. This edge will be the one that is the most parallel to the ground, it won't necessarily be the largest edge. Any attached penetrations, specifically drawn by the Alt + Ctrl shortcut, are going to be aligned with this defaulted primary edge.
 
-However, in some specific case, the primary edge could be wrong or we want the penetrations align with the other edge. Then we could set the primary edge manually by this button.
+However, in some specific cases, the primary edge might be incorrect or we may want the penetrations to align with a different edge in the given plane. In those scenarios, we can manually set the primary edge by using the Set Primary Edge button.
 
-1. Select the Plane
-2. Click Set Primary Edge
-3. Select the Edge (You do not need to switch the mode here)
-
-
+1. While in Surface Mode, select the Plane that contains the desired Primary Edge.
+2. Click Set Primary Edge.
+3. Select the Edge you would like to set as primary \(you do not need to switch to Vertex mode here\).
+4. The selected edge is now set as the Primary Edge for this Plane.
 
 {% hint style="warning" %}
 Video is needed
 {% endhint %}
+

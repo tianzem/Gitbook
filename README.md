@@ -7,7 +7,7 @@ It contains the full documentation for `Pointivo Viewer v571`.
 
 There are several parts in this user guide.
 
-> [Basic Function](basic-function/) includes all the basic functions in the tool.
+> [Basic Function](basic-function/) includes all of the basic functions in the tool.
 
 ![](.gitbook/assets/basic.jpg)
 
@@ -15,23 +15,23 @@ There are several parts in this user guide.
 
 ![](.gitbook/assets/mode.jpg)
 
-> [Advanced Function](advanced-function/) describes the detailed explanation of the advanced functions.
+> [Advanced Function](advanced-function/) gives a detailed explanation of the advanced functions.
 
 ![](.gitbook/assets/advanced.jpg)
 
-> [Settings](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/settings/README.md) is the panel in the left top corner.
+> [Settings](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/settings/README.md) is the panel in the top left corner.
 
 ![](.gitbook/assets/settings.jpg)
 
-> [Properties](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/properties.md) provide the different parameters of Vertex/Edge/Plane.
+> [Properties](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/properties.md) provides the different parameters of Vertex/Edge/Plane.
 
 ![](.gitbook/assets/properties%20%281%29.jpg)
 
-> [Tools](tools/) gives the introduction of the different tools.
+> [Tools](tools/) gives an introduction to the different tools.
 
 ![](.gitbook/assets/tools.jpg)
 
-> [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives the introduction of the different layers.
+> [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives an introduction to the different layers.
 
 ![](.gitbook/assets/layers%20%281%29.jpg)
 
@@ -39,9 +39,9 @@ There are several parts in this user guide.
 
 ![](.gitbook/assets/adjust.jpg)
 
-> [Special Cases](special-cases/) is going to help you how to deal with some difficult cases you may meet during your experience.
+> [Special Cases](special-cases/) shows you how to deal with various difficult cases you may encounter during your experience.
 >
-> [Resources](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/resources/README.md) has the external files for your reference.
+> [Resources](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/resources/README.md) has some external files for your reference.
 >
 > [Weekly Updates](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/weekly-updates.md) The updates per week.
 >

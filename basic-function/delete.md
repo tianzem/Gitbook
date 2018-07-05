@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/delete.jpg)
 
-Under Delete mode, it will delete the vertex you selected.[ Eraser](../advanced-function/eraser.md) and [Erase All](../tools/erase-all.md) are the other functions could help you delete multiply vertices.
+Under Delete mode, you can delete a vertex or edge that you select.[ Eraser](../advanced-function/eraser.md) and [Erase All](../tools/erase-all.md) are other functions you can use to delete multiple vertices.
 

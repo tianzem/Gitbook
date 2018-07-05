@@ -6,7 +6,7 @@ When you click the Plane Sort, it is going to sort the vertex list by the size o
 
 Since the AutoLock is on, so you only need to use the Left and Right arrow to go through all the vertices and adjust them with only one image.
 
-Sometimes when you find a plane is wrong, the best way to fix it is to turn off the AutoLock and adjust it as regular. 
+Sometimes when you find a plane is wrong, the best way to fix it is to turn off the AutoLock and adjust it as regular.
 
 To exit the Plane Sort, you could click any column to resort the vertices list.
 
@@ -17,3 +17,4 @@ When use Plane Sort to adjust the vertex, first you need to make sure all the pl
 {% hint style="warning" %}
 Video is needed
 {% endhint %}
+

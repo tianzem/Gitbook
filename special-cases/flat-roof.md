@@ -2,7 +2,7 @@
 
 > Typically, it is hard to select the corner of the flat roof because of the texture and the parapet.
 
-   ![](../.gitbook/assets/flat-roof-corner.jpg)
+![](../.gitbook/assets/flat-roof-corner.jpg)
 
 1. Outline the flat roof as close as the actual corner, do not need to perfect it on the corner but need to make sure the plane is correct.
 

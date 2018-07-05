@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/modify.jpg)
 
-Under Select mode, you can rotate/pan the entire model. All the objects could be selected and modified if you hold the mouse and drag.
+Under Modify mode, you can rotate/pan the entire model. You can also select and modify all of the objects if you use the mouse to click, hold, and drag an object.
 

@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/create.jpg)
 
-Under Create mode, it will create a vertex in the location where you clicked.
+Under Create mode, you will be able to create a vertex in any location you click on.
 

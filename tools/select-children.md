@@ -1,11 +1,12 @@
 # Select Children
 
-When you select a big plane with several attached cutouts, this button is going to help you select all the children then to edit them all together.
+When you select a big plane that contains several attached cutouts, the Select Children button is going to help you select all of the children within that plane. This will allow you to edit them all in unison.
 
 {% hint style="info" %}
-⌨ Shortcut - Ctrl + Q 
+⌨ Shortcut - Ctrl + Q
 {% endhint %}
 
 {% hint style="warning" %}
 Video is needed
 {% endhint %}
+

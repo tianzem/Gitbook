@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/export.jpg)
 
-Export the current wireframe into local computer.
+Exports the current wireframe onto the local computer.
 

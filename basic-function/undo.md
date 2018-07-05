@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/undo.jpg)
 
-Undo the last operation. Notes: Some operation may not be undo properly, like [Attach](../tools/attach.md)/[Detect Cutouts.](../tools/detect-cutouts.md)
+This will undo the last operation. Notes: Some operations may not undo properly, like [Attach](../tools/attach.md)/[Detect Cutouts.](../tools/detect-cutouts.md)
 

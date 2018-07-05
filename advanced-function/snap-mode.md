@@ -4,13 +4,13 @@
 
 ## None:
 
-All the movements will be fixed on the XY plane in the current view. You are not able to change the Z axial, unless you rotate the point cloud and change the view point
+All of the movements will be fixed on the XY plane in the current view. You are not able to make changes on the Z axis unless you rotate the point cloud to change your point of view.
 
 ## Point Cloud:
 
-The selected vertex will be dropped onto the nearest point on the point cloud and you are not allowed to put a vertex in the black area without any points.
+The selected vertex will be dropped onto the nearest point in the point cloud. You will not be able to place a vertex in the black area of the viewport where there is no point cloud.
 
 ## Locked Geometry:
 
-This mode is only active when a plane is locked and it will be turned on automatically when you lock a plane. All movements are going be fixed on the locked plane or the coplanar to the locked plane.
+This mode is only active, and automatically activated, when a plane is locked. All movements will be fixed on the locked plane, or will be fixed on the co-planar of the locked plane.
 
