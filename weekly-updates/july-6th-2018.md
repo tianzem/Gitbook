@@ -59,3 +59,6 @@ Grader Rules:
 
 8. Grade Team reserves the right of final decision on the interpretation of these Terms and Conditions.😎
 
+## ✅2D image adjustment of Penetration is working right now
+
+You should be able to adjust any anchor point of a cutout via 2D images and the entire workflow of the Penetration has been updated.
