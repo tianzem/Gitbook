@@ -34,6 +34,8 @@ I am going to share the write permission of the user guide with **Amir**🧔 and
 
 We have setup the Grading Guide, some testing has been done on our end to make sure it is going to work as expected.
 
+Grading Guide: https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing
+
 | Examinee | Grader |
 | --- | --- |
 | **Katherine**  👧 | **Amir**🧔 and **Adnan**👨‍ |
@@ -53,7 +55,7 @@ Grader Rules:
 
 6. Some huge projects are not under consideration for grading, Grade Team will make the decision whether the project is an exception or not. 
 
-7. Grading is going to start from next Monday and grader is going to grade the first 10 projects which owned by the examinee. 
+7. Grading is going to start from next Monday and grader is going to grade the first 10 projects which owned by the examinee. Ideally, there should be 6 Kespry projects, 2 Standard DroneDeploy projects and 2 Label Obstruction projects.
 
 8. Grade Team reserves the right of final decision on the interpretation of these Terms and Conditions.😎
 
