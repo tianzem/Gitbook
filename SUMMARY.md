@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Basic Function](basic-function/README.md)
@@ -53,7 +53,7 @@
 * [Special Cases](special-cases/README.md)
   * [Overhang](special-cases/overhang.md)
   * [Tree](special-cases/tree.md)
-  * [Penetration](special-cases/penetration2.md)
+  * [Penetration](special-cases/penetration.md)
   * [Flat Roof](special-cases/flat-roof.md)
   * [Dormer](special-cases/dormer.md)
 * [Resources](resources/README.md)
