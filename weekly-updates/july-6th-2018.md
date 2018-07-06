@@ -24,7 +24,9 @@ Once you close the project, your manually deleted or created planes are not goin
 
 When you reopen the project or someone else open the project on different computers, the wireframe tool is going to turn on the Auto Plane mode and reload all the planes.
 
+{% hint style="danger" %}
 All your previous planes will be lost!
+{% endhint %}
 
 ## 📢Weekly Update from Pakistan coming soon in next week
 
@@ -33,6 +35,8 @@ I am going to share the write permission of the user guide with **Amir**🧔 and
 ## 💯The Complete Final Grading Phase of Kathrine and Afraz are going to start next Monday
 
 We have setup the Grading Guide, some testing has been done on our end to make sure it is going to work as expected.
+
+I could highly recommend every grader and examinee take a look at the Grading Guide to make sure you totally understand the grading rules.  
 
 Grading Guide: [https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
