@@ -36,7 +36,9 @@ I am going to share the write permission of the user guide with **Amir**🧔 and
 
 We have setup the Grading Guide, some testing has been done on our end to make sure it is going to work as expected.
 
-I could highly recommend every grader and examinee take a look at the Grading Guide to make sure you totally understand the grading rules.  
+{% hint style="success" %}
+I would highly recommend every grader and examinee take a look at the Grading Guide to make sure you totally understand the grading rules.  
+{% endhint %}
 
 Grading Guide: [https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
