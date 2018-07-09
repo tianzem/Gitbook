@@ -10,7 +10,7 @@ Here are the articles in this section:
 This page is under construction to get a better layout.
 {% endhint %}
 
-This is the Area where we are using to post our updates and keep the communication between Pakistan and Unite State.
+This is the area that we are using to post our updates, and to keep the communication between Pakistan and the United States current.
 
-Each time there are any news, the new features or the new changes will be dumped here to give us a heads up to keep all of us in pace.
+Each time there is any new information, the new features/changes will be dumped here to give all of us a heads-up and to keep us on the same page.
 
