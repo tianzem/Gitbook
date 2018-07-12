@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 * [Basic Function](basic-function/README.md)
@@ -68,6 +68,7 @@
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
   * [Jun 29th 2018](weekly-updates/jun-29th-2018.md)
   * [July 6th 2018](weekly-updates/july-6th-2018.md)
+  * [July 12nd 2018](weekly-updates/july-12nd-2018.md)
 * [⛔ Deprecated](deprecated/README.md)
   * [Scaling Check](deprecated/scaling-check.md)
   * [Finalize](deprecated/finalize.md)
