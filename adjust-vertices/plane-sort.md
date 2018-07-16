@@ -14,7 +14,7 @@ To exit the Plane Sort, you can click on any column to resort back to the vertic
 When using Plane Sort to adjust the vertex, first you need to make sure all the planes are reliable.
 {% endhint %}
 
-{% hint style="warning" %}
-Video is needed
-{% endhint %}
+![](../.gitbook/assets/plane-sort.gif)
+
+
 

@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/createfromedges2.png)
 
-{% hint style="warning" %}
-Video is needed
-{% endhint %}
+![](../.gitbook/assets/create-from-edges.mp4)
+
+![](../.gitbook/assets/create-from-edges%20%281%29.gif)
 
