@@ -10,5 +10,5 @@
 
 1. Hold `Ctrl` to select all 4 edges and click the Register Wireframe button in the Tools tab of Properties.
 
-![](../.gitbook/assets/register-wireframe.gif)
+![](../.gitbook/assets/register-wireframe%20%281%29.gif)
 
