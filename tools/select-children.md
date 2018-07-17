@@ -6,7 +6,5 @@ When you select a big plane that contains several attached cutouts, the Select C
 ⌨ Shortcut - Ctrl + Q
 {% endhint %}
 
-{% hint style="warning" %}
-Video is needed
-{% endhint %}
+![](../.gitbook/assets/select-children.gif)
 
