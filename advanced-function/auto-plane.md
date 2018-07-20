@@ -6,3 +6,5 @@ When Auto Plane is on, all of the vertices that satisfy the planar constraint of
 
 ![](../.gitbook/assets/auto-plane.gif)
 
+The existing geometry, and newly created geometry, in the video is not detected because Auto Plane is turned off. Once Auto Plane is turned on, the geometry is then automatically detected as planes.
+

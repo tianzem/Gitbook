@@ -8,3 +8,5 @@ When you select a big plane that contains several attached cutouts, the Select C
 
 ![](../.gitbook/assets/select-children.gif)
 
+The video shows the manual way to select the children of a plane. To speed this process up, you can select a plane and then use the shortcut of Ctrl + Q to automatically select all of the children without clicking the Select Children button.
+

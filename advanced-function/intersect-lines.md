@@ -7,3 +7,5 @@
 
 ![](../.gitbook/assets/intersect-lines.gif)
 
+Keep in mind that the intersecting vertex, that is created from using Intersect Lines, may not be the accurate location of that vertex and it will still need to be verified and adjusted in Adjust Vertices.
+

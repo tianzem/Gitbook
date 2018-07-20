@@ -12,3 +12,5 @@
 
 ![](../.gitbook/assets/create-from-edges%20%281%29.gif)
 
+\*\*Keep in mind that this tool should only be used at the end of wireframe creation, because Auto Plane will be turned off. If you turn Auto Plane back on, after using Create from Edges, your new manually created planes will no longer be detected as planes.
+
