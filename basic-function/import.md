@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/import.jpg)
 
-Imports the previously exported wireframe.
+Imports a previously exported wireframe.
 
