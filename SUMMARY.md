@@ -68,7 +68,7 @@
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
   * [Jun 29th 2018](weekly-updates/jun-29th-2018.md)
   * [July 6th 2018](weekly-updates/july-6th-2018.md)
-  * [July 12nd 2018](weekly-updates/july-12nd-2018.md)
+  * [July 12th 2018](weekly-updates/july-12nd-2018.md)
   * [July 19th 2018](weekly-updates/july-19th-2018.md)
   * [July 27th 2018](weekly-updates/july-27th-2018.md)
 * [⛔ Deprecated](deprecated/README.md)
