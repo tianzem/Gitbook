@@ -7,7 +7,7 @@
 
 ![](../.gitbook/assets/lock-mode-off_edge-locked.gif)
 
-In the video above, Lock Mode is off \(default\) and the vertex snaps to the locked edge when you modify it. The vertex can only move in the direction of the locked edge.
+In the video above, Lock Mode is off \(default\) and one of the edges is locked. The selected vertex snaps to the locked edge when you modify it. The vertex can only move in the direction of the locked edge.
 
 ![](../.gitbook/assets/lock-mode-on_edge-locked.gif)
 
