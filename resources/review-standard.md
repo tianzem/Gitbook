@@ -8,7 +8,7 @@
 | Tianze | 🥈 | 9:00 to 18:00 EST |
 | Dan | 🥈 | TBD |
 | Brad | 🥈 | TBD |
-| Rose | 🥉 | 18:00 EST to 0:00 EST |
+| Rose | 🥉 | 18:00 to 0:00 EST |
 | Katherine | 🥉 | 9:00 to 18:00 EST |
 | Afraz | 🥉 | TBD |
 
