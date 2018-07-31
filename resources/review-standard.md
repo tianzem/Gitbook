@@ -1,12 +1,13 @@
 # Review Standard
 
-| **Reviwer** | **Level** | **Reviewee** | **Time** |
-| --- | --- | --- | --- |
-| Habib | 🥇 | Anyone | Anytime |
-| Adnan | 🥈 | Afraz | 0:00 to 9:00 EST \(9:00 to 18:00 Pakistan time\) |
-| Amir | 🥈 | Fawad and Adeel | 0:00 to 9:00 EST \(9:00 to 18:00 Pakistan time\) |
-| Tianze | 🥈 | Katherine | 10:00 to 19:00 EST |
-| Rose | 🥉 | TBD | TBD |
+| **Reviwer** | **Level** | **Time** |
+| --- | --- | --- |
+| Habib | 🥇 | Anytime |
+| Adnan | 🥈 | 5:00 to 9:00 EST \(14:00 to 19:00 Pakistan time\) |
+| Amir | 🥈 | 0:00 to 5:00 EST \(9:00 to 14:00 Pakistan time\) |
+| Tianze | 🥈 | 9:00 to 18:00 EST |
+| Rose | 🥉 | 18:00 EST to 0:00 EST |
+| Katherine |🥉 | 9:00 to 18:00 EST |
 
 1. Each reviewer needs to make sure all the `IN_REVIEW` projects are `Complete_Final` by the end of his review time.
 2. Reviewer is not restricted to the reviewee, he has the responsibility to review every project during his review time. For example, if Fawad finish a project during Tianze's review time, Tianze has the responsibility to review that project.
