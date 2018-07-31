@@ -52,6 +52,7 @@
   * [Plane Sort](adjust-vertices/plane-sort.md)
 * [Special Cases](special-cases/README.md)
   * [Overhang](special-cases/overhang.md)
+  * [Chimney](special-cases/chimney.md)
   * [Tree](special-cases/tree.md)
   * [Penetration](special-cases/penetration.md)
   * [Flat Roof](special-cases/flat-roof.md)

@@ -1,6 +1,13 @@
-## Chimney:
+# Chimney
 
-> Chimneys are on the edge of the roof. It is not hard to draw, but if you want to make the GeoJSON looks better, [Align](../basic-function/#align) function is very useful, just align the flashing of the chimney with the nearby edges.
 
-![](../.gitbook/assets/3.jpg)
+
+| Customer | Location | Do or Do not |
+| --- | --- | --- |
+| Kespry | In the middle of an edge | Do |
+| Kespry | In the middle of a Plane | Do not |
+| DroneDeploy | In the middle of an edge | Do |
+| DroneDeploy | In the middle of a Plane | Do |
+| DroneDeploy with Label Obstruction | In the middle of an edge | Do |
+| DroneDeploy with Label Obstruction | In the middle of a Plane | Do |
 
