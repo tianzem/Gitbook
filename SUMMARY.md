@@ -64,6 +64,7 @@
   * [Grade Standard](resources/grade-standard.md)
   * [In Support Projects](resources/in-support-projects.md)
   * [Review Standard](resources/review-standard.md)
+  * [Review Pipeline](resources/review-pipeline.md)
   * [Steps to QA a project](resources/steps-to-qa-a-project.md)
 * [🆕 Weekly Updates](weekly-updates/README.md)
   * [Jun 20th 2018](weekly-updates/jun-20th-2018.md)
