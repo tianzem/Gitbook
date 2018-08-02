@@ -3,7 +3,7 @@
 **Shortcuts**
 
 | **Button** | **Operation** |
-| --- | --- |
+| :--- | :--- |
 | Ctrl + Scroll Mouse | Change the Size of the Vertices |
 | Shift + Scroll Mouse | Change the Width of the Edges |
 | Ctrl + Shift + Scroll Mouse | Change the Size of the Dimensions |

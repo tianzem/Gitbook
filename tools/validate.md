@@ -9,7 +9,7 @@ Clicking on each condition will select all of the objects with the error and wil
 Different Errors are as follow:
 
 | **Condition** | **Intro** |
-| --- | --- |
+| :--- | :--- |
 | Isolated Vertex | Vertex is not attached to any edges |
 | Isolated Edge | Edge does not belong to any plane |
 | Coincident Vertices | Two vertices are too close to one another |

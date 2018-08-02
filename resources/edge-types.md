@@ -3,7 +3,7 @@
 **Common Edge Types**
 
 |  | Number of Planes | Angle | Parallel to Ground |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Eave | 1 |  | √ |
 | Rake | 1 |  | × |
 | Hip | 2 | "Λ" | × |

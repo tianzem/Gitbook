@@ -43,7 +43,7 @@ I would highly recommend every grader and examinee take a look at the Grading Gu
 Grading Guide: [https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
 | Examinee | Grader |
-| --- | --- |
+| :--- | :--- |
 | **Katherine**  👧 | **Amir**🧔 and **Adnan**👨‍ |
 | **Afraz** 👽 | **Rose**👩 and **Tianze**🧑 |
 

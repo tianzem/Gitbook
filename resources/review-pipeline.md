@@ -1,7 +1,3 @@
----
-description: The pipeline to review a project.
----
-
 # Review Pipeline
 
 **Each reviewer, please follow the list in order during reviewing the projects.**

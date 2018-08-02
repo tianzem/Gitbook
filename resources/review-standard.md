@@ -1,7 +1,7 @@
 # Review Standard
 
 | **Reviwer** | **Level** | **Time** |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Habib | 🥇 | Anytime |
 | Adnan | 🥈 | 5:00 to 9:00 EST \(14:00 to 19:00 Pakistan time\) |
 | Amir | 🥈 | 0:00 to 5:00 EST \(9:00 to 14:00 Pakistan time\) |
