@@ -15,9 +15,9 @@ Open the link here 🚩 🚩 🚩
 
 When you are available, please check the queue to make sure there are not any `Past_Due` projects. If there are too many projects in the queue, slack everyone in the `Wireframe-SOS` channel to get our attention.
 
-## 💯The Complete Final Grading Phase of Fawad are going to start next Monday
+## 💯The Complete Final Grading Phase of Fawad is going to start next Monday
 
-The Complete Final Grading Phase of Fawad are going to start next Monday
+The Complete Final Grading Phase of Fawad is going to start next Monday
 
 {% hint style="success" %}
 I would highly recommend every grader and examinee take a look at the Grading Guide to make sure you totally understand the grading rules before the final evaluation officially starts.
