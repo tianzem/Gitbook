@@ -1,7 +1,5 @@
 # Chimney
 
-
-
 | Customer | Location | Do or Do not |
 | :--- | :--- | :--- |
 | Kespry | In the middle of an edge | Do |
