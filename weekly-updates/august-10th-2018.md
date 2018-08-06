@@ -1,6 +1,6 @@
 # August 10th 2018
 
-##  Do not miss the minor structure for Tesla project
+##   ⛔ Do not miss the minor structure for Tesla project
 
 `From DroneDeploy  
 For the Tesla jobs can you guys please do all structures on the property. Look back they see to also want additional buildings that are modeled like the carport.`
