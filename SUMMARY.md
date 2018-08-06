@@ -59,6 +59,8 @@
   * [Dormer](special-cases/dormer.md)
 * [Resources](resources/README.md)
   * [Edge Types](resources/edge-types.md)
+  * [Structure Type](resources/structure-types.md)
+  * [Project Issues](resources/project-issues.md)
   * [Shortcut](resources/shortcut.md)
   * [Quiz](resources/quiz.md)
   * [Grade Standard](resources/grade-standard.md)
