@@ -25,3 +25,12 @@ Please do not miss the secondary structure for DD label obstruction projects. Fo
 
 ![Missing Secondary Structure](../.gitbook/assets/2018-05-30_16-15-00.jpg)
 
+
+##   🏡 Structure Types
+
+##   💉 Project Issues
+
+##   👮 Respect the reviewer feedback
+
+Quote from Review Standard
+`The purpose of reviewing a project is not only to complete final the project, also to let the reviewee know the issues then the reviewee may not make the same kind of mistake anymore. So reviewer needs to post the issues in the wireframe channel and let the reviewee know, then reviewee should go back to fix the issue and let reviewer review again.`
