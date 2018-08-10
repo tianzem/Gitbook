@@ -39,7 +39,15 @@ Please do not miss the secondary structure for DD label obstruction projects. Fo
 
 ## 🏡 Structure Types
 
+You will be able to find all the structure type example and introduction here:
+
+{% page-ref page="../resources/structure-types.md" %}
+
 ## 💉 Project Issues
+
+You will be able to find all the project issue example and introduction here:
+
+{% page-ref page="../resources/project-issues.md" %}
 
 ## 👮 Respect the reviewer feedback
 
@@ -61,6 +69,4 @@ It is not required for every owner to go back to the project to fix every minor 
 {% endhint %}
 
 ![](../.gitbook/assets/2018-08-09_14-19-30.jpg)
-
-## 💯The Complete Final Grading Phase of Fawad
 
