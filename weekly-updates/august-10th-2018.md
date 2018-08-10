@@ -8,8 +8,7 @@ Since there are not any reviewers available over the weekend in the new producti
 US Team - Everyone is required to fill their availability before they take off on Friday. Please put "X" into the cell when you are **NOT available** over this weekend.
 {% endhint %}
 
-Open the link here 🚩 🚩 🚩
-[https://docs.google.com/spreadsheets/d/17SjPC3CaxbrXNMWA-V3gs5UWG\_AlW-YGExpqLdkq2LA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17SjPC3CaxbrXNMWA-V3gs5UWG_AlW-YGExpqLdkq2LA/edit?usp=sharing)
+Open the link here 🚩 🚩 🚩 [https://docs.google.com/spreadsheets/d/17SjPC3CaxbrXNMWA-V3gs5UWG\_AlW-YGExpqLdkq2LA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17SjPC3CaxbrXNMWA-V3gs5UWG_AlW-YGExpqLdkq2LA/edit?usp=sharing)
 
 When you are available, please check the queue to make sure there are not any `Past_Due` projects. If there are too many projects in the queue, slack everyone in the `Wireframe-SOS` channel to get our attention.
 
@@ -47,7 +46,7 @@ Please do not miss the secondary structure for DD label obstruction projects. Fo
 Thanks for all the reviewers during these days first!  
 **Amir**🧔 / **Adnan**👨‍ / **Rose**👩 / **Katherine**👧 / **Tianze**🧑 / **Habib**👨‍💻 / **Dan** 👨‍💼
 
-Quote from Review Standard 
+Quote from Review Standard
 
 `The purpose of reviewing a project is not only to complete final the project, also to let the reviewee know the issues then the reviewee may not make the same kind of mistake anymore. So reviewer needs to post the issues in the wireframe channel and let the reviewee know, then reviewee should go back to fix the issue and let reviewer review again.`
 
@@ -58,14 +57,10 @@ As we all know, reviewer spend a lot of time reviewing the project and sometimes
 It is not required for every owner to go back to the project to fix every minor mistakes, but every project owner, please make sure you read the review feedback and do not leave the review alone.
 
 {% hint style="success" %}
-**A easy thumbs up Emoji reaction or simple Thanks will make our reviewers feel warm.** 
+**A easy thumbs up Emoji reaction or simple Thanks will make our reviewers feel warm.**
 {% endhint %}
 
 ![](../.gitbook/assets/2018-08-09_14-19-30.jpg)
 
 ## 💯The Complete Final Grading Phase of Fawad
-
- 
-
-
 
