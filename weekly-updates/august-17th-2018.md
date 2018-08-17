@@ -46,7 +46,7 @@ There might be some extra or missing penetrations and some penetrations may not 
 
 ## 💯The Complete Final Grading Phase of Fawad
 
-The Complete Final grading phase for Fawad is going well, but is still a couple of projects short from being finished. Fawad has submitted 6 Kespry projects and 2 Tesla projects, he still needs to submit 2 standard DD projects to fill the 10 project requirement. There have not been a lot of standard DD projects submitted during his shift so we may need to substitute those for two other projects. Rose and Katherine have completed the grading for four of Fawad's projects and so far he is doing great! His final scores for those projects are listed below. Keep up the good work Fawad! 
+The Complete Final grading phase for Fawad is going well. Fawad has submitted 6 Kespry projects and 2 Tesla projects. However, there have not been a lot of standard DD projects submitted during his shift so the last 2 standard DD projects were finally submitted on 08/17. Rose and Katherine have completed the grading for four of Fawad's projects and so far he is doing great! His final scores for those projects are listed below. Keep up the good work Fawad! 
 
 | Project ID | Customer | Grader | Reviewer | Grade |
 | :--- | :--- | :--- | :--- | :--- |
