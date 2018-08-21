@@ -14,5 +14,7 @@ description: >-
 | BetterView | 24hrs | GEOJSON, DXF, DATA\_PACKAGE | Skylights Only |
 | PrecisionHawk - Travelers | 1hr | GEOJSON, DXF, DATA\_PACKAGE | All Chimneys |
 
-**\*\* For other PrecisionHawk customers \(not listed above\) and for all NearMap and LadderNow customers, do not do anything!! \*\***
+{% hint style="warning" %}
+**For other PrecisionHawk customers \(not listed above\) and for all NearMap and LadderNow customers, do not do anything!**
+{% endhint %}
 
