@@ -8,11 +8,11 @@ description: >-
 
 | Customer | Turnaround Time | Resources | Penetrations |
 | :--- | :--- | :--- | :--- |
-| Kespry | 1hr | GEOJSON, DXF | Chimneys in the middle of an Edge |
+| Kespry | 1hr | GEOJSON, DXF | Only Chimneys in the middle of an Edge |
 | DroneDeploy - Standard | 2hrs | GEOJSON, DXF, DATA\_PACKAGE | All Chimneys |
 | DroneDeploy - Label Obstruction | 2hrs | GEOJSON, DXF, DATA\_PACKAGE | All Penetrations |
-| BetterView | 24hrs | GEOJSON, DXF, DATA\_PACKAGE | Skylights |
+| BetterView | 24hrs | GEOJSON, DXF, DATA\_PACKAGE | Skylights Only |
 | PrecisionHawk - Travelers | 1hr | GEOJSON, DXF, DATA\_PACKAGE | All Chimneys |
 
-**\*\* For other PrecisionHawk customers \(not listed above\) and all NearMap and LadderNow customers, do not do anything!! \*\***
+**\*\* For other PrecisionHawk customers \(not listed above\) and for all NearMap and LadderNow customers, do not do anything!! \*\***
 

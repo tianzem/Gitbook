@@ -4,7 +4,7 @@ description: >-
   structures within the Structure Type category.
 ---
 
-# Structure Type
+# Structure Types
 
 ## SINGLEFAMILY
 
