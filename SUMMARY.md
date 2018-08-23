@@ -79,6 +79,7 @@
   * [August 3rd 2018](weekly-updates/august-3rd-2018.md)
   * [August 10th 2018](weekly-updates/august-10th-2018.md)
   * [August 17th 2018](weekly-updates/august-17th-2018.md)
+  * [August 24th 2018](weekly-updates/august-24th-2018.md)
 * [⛔ Deprecated](deprecated/README.md)
   * [Scaling Check](deprecated/scaling-check.md)
   * [Finalize](deprecated/finalize.md)
