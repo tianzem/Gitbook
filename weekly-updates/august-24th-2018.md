@@ -29,3 +29,5 @@ Thanks for **Rose**👩 and **Tianze**🧑, they have finished grading all the r
 
 📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
+🎆🎆🎇🎇 I am more than happy to announce that Katherine has passed the grading period and is qualified for Complete\_Final the project without Review. 🎉🎉🎊🎊
+
