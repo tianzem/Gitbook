@@ -8,3 +8,5 @@ We have updated the customer requirements page. Please make sure you understand 
 
 ## The Complete Final Grading for Fawad
 
+
+Thanks for **Rose**👩 and **Tianze**🧑, they have finished grading all the remaining projects from **Afraz**.
