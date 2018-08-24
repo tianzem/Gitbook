@@ -8,8 +8,7 @@ We have updated the customer requirements page. Please make sure you understand 
 
 ## The Complete Final Grading for Fawad
 
-
-Thanks for **Rose**👩 and **Tianze**🧑, they have finished grading all the remaining projects from **Afraz**.
+Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all the remaining projects from **Fawad**.
 
 | Project ID | Customer | Grader | Reviewer | Grade |
 | :--- | :--- | :--- | :--- | :--- |
@@ -29,5 +28,5 @@ Thanks for **Rose**👩 and **Tianze**🧑, they have finished grading all the r
 
 📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
-🎆🎆🎇🎇 I am more than happy to announce that Katherine has passed the grading period and is qualified for Complete\_Final the project without Review. 🎉🎉🎊🎊
+🎆🎆🎇🎇 I am more than happy to announce that **Fawad** has passed the grading period and is qualified for Complete\_Final the project without Review. 🎉🎉🎊🎊
 
