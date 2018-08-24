@@ -12,7 +12,7 @@ Open the link here 🚩 🚩 🚩 [https://docs.google.com/spreadsheets/d/17SjPC
 
 When you are available, please check the queue to make sure there are not any `Past_Due` projects. If there are too many projects in the queue, slack everyone in the `Wireframe-SOS` channel to get our attention.
 
-## Customer Requirements
+## 🏬Customer Requirements
 
 We have updated the customer requirements page. Please make sure you understand how to deal with different project from different customers.
 
