@@ -6,22 +6,22 @@ We have updated the customer requirements page. Please make sure you understand 
 
 {% page-ref page="../resources/customer-requirements.md" %}
 
-## The Complete Final Grading for Fawad
+## 💯The Complete Final Grading for Fawad
 
 Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all the remaining projects from **Fawad**.
 
 | Project ID | Customer | Grader | Reviewer | Grade |
 | :--- | :--- | :--- | :--- | :--- |
-| 11500 | Kespry | Tianze | Rose | 78.65 |
-| 11501 | Kespry | Tianze | Rose | 72.14 |
-| 11502 | Kespry | Rose | Tianze | 89.90 |
-| 11572 | Tesla | Tianze | Rose | 85.97 |
-| 11629 | Kespry | Tianze | Rose | 89.68 |
-| 11781 | Tesla | Tianze | Rose | 83.55 |
-| 11883 | Kespry | Rose | Tianze | 75.15 |
-| 11977 | Kespry | Tianze | Rose | 89.06 |
-| 11984 | DD | Tianze | Rose | 79.68 |
-| 12052 | DD | Rose | Tianze | 68.00 |
+| 13148 | Kespry | Rose | Katherine | 78.65 |
+| 13199 | Kespry | Rose | Katherine | 72.14 |
+| 13261 | Kespry | Rose | Katherine | 89.90 |
+| 13262 | Kespry | Katherine | Rose | 85.97 |
+| 13313 | Kespry | Katherine | Rose | 89.68 |
+| 13973 | Kespry | Katherine | Rose | 83.55 |
+| 13200 | Tesla | Rose | Katherine | 75.15 |
+| 13204 | Tesla | Rose | Katherine | 89.06 |
+| 13774 | DD | Katherine | Rose | 79.68 |
+| 13782 | DD | Katherine | Rose | 68.00 |
 |  |  |  | DroneDeploy Average | 79.30 |
 |  |  |  | Kespry Average | 82.43 |
 |  |  |  | Total Average | 81.18 |
