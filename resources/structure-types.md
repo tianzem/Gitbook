@@ -32,8 +32,6 @@ Any combination of SINGLEFAMILY, MULTIFAMILY, or COMMERCIAL structures.
 
 ![MIXED Example 1](../.gitbook/assets/mixed-1.gif)
 
-
-
 ![MIXED Example 2](../.gitbook/assets/mixed-2.gif)
 
 ![MIXED Example 3](../.gitbook/assets/mixed-3.gif)

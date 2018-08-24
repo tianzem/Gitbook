@@ -14,7 +14,9 @@ When you are available, please check the queue to make sure there are not any `P
 
 ## 🏬Customer Requirements
 
-We have updated the customer requirements page. Please make sure you understand how to deal with different project from different customers.
+{% hint style="info" %}
+We have updated the customer requirements page. Please make sure you understand how to deal with different projects from different customers.
+{% endhint %}
 
 {% page-ref page="../resources/customer-requirements.md" %}
 
