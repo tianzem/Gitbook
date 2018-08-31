@@ -14,15 +14,17 @@ When you are available, please check the queue to make sure there are not any `P
 
 ## 🌅Labor Day
 
-Next Monday, September 3 is Labor Day in United States. More help is needed from PK team over that timme. 
+Next Monday, September 3 is Labor Day in United States. More help is needed from PK team over that time.
 
-
+{% hint style="warning" %}
+PK Team - When the queue is filled with projects, please get online if you are free. We will be appreciated with your word and you could let Amir or Adnan know if you spend a lot of extra time. Thanks in advance! 
+{% endhint %}
 
 ## 🎐QA Checklist Updated
 
-Thanks for Amir setting up this QA checklist. You could find all detailed steps, some special cases you may need to pay attention to and some external resources link in this spreadsheet. 
+Thanks for Amir setting up this QA checklist. You could find all detailed steps, some special cases you need to pay extra attention to and some external resources link in this spreadsheet.
 
- 🚩 🚩 🚩Open the link [here](https://docs.google.com/spreadsheets/d/1Ci_qLUJCno80AGSsMy2xQoCxV6RXD-OPa7cUdawhwic/edit#gid=0)
+🚩 🚩 🚩Open the link [here](https://docs.google.com/spreadsheets/d/1Ci_qLUJCno80AGSsMy2xQoCxV6RXD-OPa7cUdawhwic/edit#gid=0)
 
 ## 💯The DroneDeploy Complete Final Grading Phase of Afraz is going to start from next Monday
 
@@ -41,3 +43,4 @@ Grading Guide: [https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkY
 Grade Standard:
 
 {% page-ref page="../resources/grade-standard.md" %}
+
