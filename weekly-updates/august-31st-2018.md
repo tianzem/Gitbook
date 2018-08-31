@@ -44,3 +44,5 @@ Grade Standard:
 
 {% page-ref page="../resources/grade-standard.md" %}
 
+##  👱‍Welcome Benedikt on board!
+
