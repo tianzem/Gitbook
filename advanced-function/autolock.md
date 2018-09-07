@@ -12,7 +12,7 @@ When using AutoLock to adjust a vertex, you need to make sure that the plane is 
 
 ![](../.gitbook/assets/auto-lock.gif)
 
-Once you select Plane Sort, in Adjust Vertices, you can either click on a vertex within the 3D view or click on the vertex ID in the Adjust Vertices list to select a vertex and automatically lock the largest plane that the selected vertex is on. 
+Once you select Plane Sort, in Adjust Vertices, you can either click on a vertex within the 3D view or click on the vertex ID in the Adjust Vertices list to select a vertex and automatically lock the largest plane that the selected vertex is on.
 
 In order to get out of Auto Lock mode, you must uncheck the box next to Auto Lock, underneath the Snap drop-down menu in the top toolbar of the 3D tool.
 

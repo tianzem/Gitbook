@@ -16,5 +16,3 @@ When using Plane Sort to adjust the vertex, first you need to make sure all the 
 
 ![](../.gitbook/assets/plane-sort.gif)
 
-
-

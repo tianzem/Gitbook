@@ -24,5 +24,3 @@ Check this box when you finish the project. It will open the latest saved versio
 {% endtab %}
 {% endtabs %}
 
-
-

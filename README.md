@@ -25,7 +25,7 @@ There are several parts in this user guide.
 
 > [Properties](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/properties.md) provides the different parameters of Vertex/Edge/Plane.
 
-![](.gitbook/assets/properties%20%281%29.jpg)
+![](.gitbook/assets/properties-1.jpg)
 
 > [Tools](tools/) gives an introduction to the different tools.
 
@@ -33,7 +33,7 @@ There are several parts in this user guide.
 
 > [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives an introduction to the different layers.
 
-![](.gitbook/assets/layers%20%281%29.jpg)
+![](.gitbook/assets/layers-1.jpg)
 
 > [Adjust Vertices](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/adjust-vertices/README.md) is the main panel used to adjust the vertices.
 

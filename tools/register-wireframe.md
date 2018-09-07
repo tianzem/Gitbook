@@ -10,7 +10,7 @@
 
 1. Hold `Ctrl` to select all 4 edges and click the Register Wireframe button in the Tools tab of Properties.
 
-![](../.gitbook/assets/register-wireframe%20%281%29.gif)
+![](../.gitbook/assets/register-wireframe-1.gif)
 
 The vertices of the wireframe you are registering will already be verified from the original project it was exported from. You still need to go through and check the placement of the vertices after clicking Register Wireframe to re-verify that they are indeed in the correct location. You may need to use Adjust Vertices to tweak some of the vertex locations to make them more accurate. This is why it is important to ensure the accuracy of the endpoint vertex location before clicking Register Wireframe.
 
