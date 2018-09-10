@@ -48,4 +48,5 @@
   * [Penetration](special-cases/penetration.md)
   * [Flat Roof](special-cases/flat-roof.md)
   * [Dormer](special-cases/dormer.md)
+* [Shortcut](shortcut.md)
 

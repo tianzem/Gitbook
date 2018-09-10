@@ -19,14 +19,6 @@ There are several parts in this user guide.
 
 ![](.gitbook/assets/advanced.jpg)
 
-> [Settings](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/settings/README.md) is the panel in the top left corner.
-
-![](.gitbook/assets/settings.jpg)
-
-> [Properties](https://github.com/tianzem/Gitbook/tree/9daf3d0ae4e5dcd3fdfdc7aef81c25a9fcfb17c2/properties.md) provides the different parameters of Vertex/Edge/Plane.
-
-![](.gitbook/assets/properties-1.jpg)
-
 > [Tools](tools/) gives an introduction to the different tools.
 
 ![](.gitbook/assets/tools.jpg)
@@ -40,12 +32,6 @@ There are several parts in this user guide.
 ![](.gitbook/assets/adjust.jpg)
 
 > [Special Cases](special-cases/) shows you how to deal with various difficult cases you may encounter during your experience.
->
-> [Resources](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/resources/README.md) has some external files for your reference.
->
-> [Weekly Updates](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/weekly-updates.md) The updates per week.
->
-> [Deprecated](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/deprecated.md) Recycle Bin
 
 ## Help and Support
 

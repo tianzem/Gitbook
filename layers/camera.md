@@ -1,9 +1,5 @@
 # Camera
 
-{% hint style="info" %}
-🚧🚧 Under construction by Tianze 🚧🚧
-{% endhint %}
-
 You should be able to view all of the camera locations by clicking the camera icon beside each image.
 
 ![](../.gitbook/assets/camera.jpg)
