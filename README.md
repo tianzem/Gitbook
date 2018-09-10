@@ -1,7 +1,7 @@
 # Introduction
 
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
-It contains the full documentation for `Pointivo Viewer v571`.
+It contains the full documentation for `Pointivo Viewer v658`.
 
 ## What is in this docummentation
 
@@ -23,11 +23,11 @@ There are several parts in this user guide.
 
 ![](.gitbook/assets/tools.jpg)
 
-> [Layers](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/layers/README.md) gives an introduction to the different layers.
+> [Layers](layers/) gives an introduction to the different layers.
 
 ![](.gitbook/assets/layers-1.jpg)
 
-> [Adjust Vertices](https://github.com/tianzem/Gitbook/tree/57b312b2392acd1ec61ea89008b818bb15ad8965/adjust-vertices/README.md) is the main panel used to adjust the vertices.
+> [Adjust Vertices](adjust-vertices/) is the main panel used to adjust the vertices.
 
 ![](.gitbook/assets/adjust.jpg)
 
