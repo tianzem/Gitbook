@@ -48,5 +48,7 @@
   * [Penetration](special-cases/penetration.md)
   * [Flat Roof](special-cases/flat-roof.md)
   * [Dormer](special-cases/dormer.md)
+  * [3D Penetration](special-cases/3d-penetration.md)
+  * [Parapet Walls](special-cases/parapet-walls.md)
 * [Shortcut](shortcut.md)
 

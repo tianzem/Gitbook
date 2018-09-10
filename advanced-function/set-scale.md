@@ -1,7 +1,7 @@
 # Set Scale
 
 {% hint style="danger" %}
-This feature is not working anymore. Under construction by Iven.
+This feature is not working anymore. Under construction.
 {% endhint %}
 
 ![](../.gitbook/assets/setscale.jpg)
