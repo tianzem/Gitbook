@@ -16,6 +16,7 @@ Different Errors are as follow:
 | Colinear Adjacent Edges | Extra vertex in the middle of an edge |
 | Missing EdgeTypeProperty | Edge does not have an Edge Type assigned |
 | Inconsistent Plane Normals | The Plane Normals do not point in the same direction |
+| Parent/Child Plane Shared Edges | The edge of a cutout is shared with its parent plane |
 
 {% hint style="info" %}
 Inconsistent Plane Normals can be ignored.
@@ -24,4 +25,13 @@ Inconsistent Plane Normals can be ignored.
 {% hint style="info" %}
 Coincident Vertices/Colinear Adjacent Edges can be ignored for certain specific cases.
 {% endhint %}
+
+{% hint style="info" %}
+Refer to [Cutout Standard from Kespry](https://pointivo.gitbook.io/user-guide/weekly-updates/jun-29th-2018#cutout-standard-from-kespry) to get more information about Parent/Child Plane Shared Edges. 
+
+For Kespry - Please take this validation as highest priority, and this scenario is illegal in any Kespry projects.  
+For other customers - Ignore this validation
+{% endhint %}
+
+
 
