@@ -48,7 +48,17 @@ DATAPACKAGE\_JSON:
 
 ## 🆕Update - Images panel
 
+If you open the image panel, you will see all the images including the ortho image with all the camera locations. This is where we are going to do the 2D annotation and more detailed training/workflow is coming.
+
+![](../.gitbook/assets/2018-09-12_11-38-51.jpg)
+
+![](../.gitbook/assets/2018-09-12_11-41-01.jpg)
+
 ## 🆕Update - Total review time
+
+Total review time is available via Intranet, but it is hidden by default. It shows how long the project stay in the IN\_REVIEW status, instead of how long the reviewer spend in reviewing this project.
+
+![](../.gitbook/assets/2018-09-12_11-43-47.jpg)
 
 ## 💯The DroneDeploy Complete Final Grading Phase of Afraz
 
