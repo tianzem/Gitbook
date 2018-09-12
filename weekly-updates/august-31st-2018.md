@@ -17,7 +17,7 @@ When you are available, please check the queue to make sure there are not any `P
 Next Monday, September 3 is Labor Day in the United States. Probably, more help is needed from PK team over that time.
 
 {% hint style="warning" %}
-PK Team - When the queue is filled with projects, please get online if you are free. All of your work is greatly appreciated and you could let Amir or Adnan know if you spend a lot of extra time. Thanks in advance! 
+PK Team - When the queue is filled with projects, please get online if you are free. All of your work is greatly appreciated and you could let Amir or Adnan know if you spend a lot of extra time. Thanks in advance!
 {% endhint %}
 
 ## 🎐QA Checklist Updated
@@ -44,5 +44,5 @@ Grade Standard:
 
 {% page-ref page="../resources/grade-standard.md" %}
 
-##  👱‍Welcome Benedikt on board!
+## 👱‍Welcome Benedikt on board!
 
