@@ -62,3 +62,16 @@ Total review time is available via Intranet, but it is hidden by default. It sho
 
 ## 💯The DroneDeploy Complete Final Grading Phase of Afraz
 
+Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all the remaining projects from **Afraz**.
+
+| Project ID | Customer | Grader | Reviewer | Grade |
+| :--- | :--- | :--- | :--- | :--- |
+|  | DroneDeploy | Rose | Katherine |  |
+|  | DroneDeploy | Rose | Katherine |  |
+|  | Tesla | Rose | Katherine |  |
+|  | Tesla | Katherine | Rose |  |
+| | | | DroneDeploy Total Average |  |
+
+📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
+
+🎆🎆🎇🎇 I am more than happy to announce that **Afraz** has passed the DroneDeploy grading period and is qualified for Complete\_Final all the projects without Review. 🎉🎉🎊🎊
