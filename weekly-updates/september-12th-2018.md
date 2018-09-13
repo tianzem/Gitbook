@@ -42,15 +42,15 @@ DATAPACKAGE\_JSON:
 
 {% page-ref page="../advanced-function/eraser.md" %}
 
-## 🆕Update - Validation
+## 🔄Update - Validation
 
 {% page-ref page="../tools/validate.md" %}
 
-## 🆕Update - Project Issues
+## 🔄Update - Project Issues
 
 {% page-ref page="../resources/project-issues.md" %}
 
-## 🆕Update - Images panel
+## 🆕New - Images panel
 
 If you open the image panel, you will see all the images including the ortho image with all the camera locations. This is where we are going to do the 2D annotation and more detailed training/workflow is coming.
 
@@ -58,7 +58,11 @@ If you open the image panel, you will see all the images including the ortho ima
 
 ![](../.gitbook/assets/2018-09-12_11-41-01.jpg)
 
-## 🆕Update - Total review time
+## 🆕New - Inspect Tool
+
+## 🆕New - 3D Canvas
+
+## 🆕New - Total review time
 
 Total review time is available via Intranet, but it is hidden by default. It shows how long the project stay in the IN\_REVIEW status, instead of how long the reviewer spend in reviewing this project.
 
