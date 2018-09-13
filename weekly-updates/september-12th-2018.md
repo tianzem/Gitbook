@@ -46,6 +46,10 @@ DATAPACKAGE\_JSON:
 
 {% page-ref page="../tools/validate.md" %}
 
+## 🆕Update - Project Issues
+
+{% page-ref page="../resources/project-issues.md" %}
+
 ## 🆕Update - Images panel
 
 If you open the image panel, you will see all the images including the ortho image with all the camera locations. This is where we are going to do the 2D annotation and more detailed training/workflow is coming.
@@ -70,8 +74,9 @@ Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all 
 |  | DroneDeploy | Rose | Katherine |  |
 |  | Tesla | Rose | Katherine |  |
 |  | Tesla | Katherine | Rose |  |
-| | | | DroneDeploy Total Average |  |
+|  |  |  | DroneDeploy Total Average |  |
 
 📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
 🎆🎆🎇🎇 I am more than happy to announce that **Afraz** has passed the DroneDeploy grading period and is qualified for Complete\_Final all the projects without Review. 🎉🎉🎊🎊
+
