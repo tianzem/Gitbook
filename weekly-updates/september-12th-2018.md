@@ -42,11 +42,11 @@ DATAPACKAGE\_JSON:
 
 {% page-ref page="../advanced-function/eraser.md" %}
 
-## 🔄Update - Validation
+## 🔄Update - Validation - Parent/Child Plane Shared Edges
 
 {% page-ref page="../tools/validate.md" %}
 
-## 🔄Update - Project Issues
+## 🔄Update - Project Issues - Project Type Mismatch
 
 {% page-ref page="../resources/project-issues.md" %}
 
