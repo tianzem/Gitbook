@@ -60,7 +60,7 @@ If you open the image panel, you will see all of the images including the ortho 
 
 ## 🆕New - Inspect Tool
 
-## 🆕New - 3D Canvas
+## 🆕New - 3D View Cube
 
 ## 🆕New - Total review time
 

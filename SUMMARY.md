@@ -24,6 +24,7 @@
   * [Intersect Lines](advanced-function/intersect-lines.md)
   * [Snap Mode](advanced-function/snap-mode.md)
   * [AutoLock](advanced-function/autolock.md)
+  * [Inspect](advanced-function/inspect.md)
 * [Settings](settings.md)
 * [Properties](properties/README.md)
   * [Label](properties/label.md)
