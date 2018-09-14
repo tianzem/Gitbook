@@ -60,7 +60,13 @@ If you open the image panel, you will see all of the images including the ortho 
 
 ## 🆕New - Inspect Tool
 
+{% page-ref page="../advanced-function/inspect.md" %}
+
 ## 🆕New - 3D View Cube
+
+![](../.gitbook/assets/3d-view-cube-icon.gif)
+
+This tool is located in the upper right corner of the 3D viewer. It is a 3D compass that shows where the North direction is located with respect to the current view of the point cloud.
 
 ## 🆕New - Total review time
 
