@@ -68,6 +68,10 @@ Total review time is available via Intranet, but it is hidden by default. It sho
 
 ![](../.gitbook/assets/2018-09-12_11-43-47.jpg)
 
+##  🗼 Hierarchy Pyramid
+
+![](../.gitbook/assets/untitled-1.jpg)
+
 ## 💯The DroneDeploy Complete Final Grading Phase of Afraz
 
 Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all remaining projects from **Afraz**.
