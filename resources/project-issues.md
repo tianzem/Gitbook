@@ -84,7 +84,7 @@ A Smoothed Point Cloud is often the result of meshing, and will cause the surfac
 
 ## Project Type Mismatch
 
-This Project Issue is only for Standard DroneDeploy project.
+This Project Issue is only for Standard DroneDeploy projects.
 
 When the actual project structure type does not match the input structure type, please mark this project issue and at the same time, change the structure type to what it should be.
 
@@ -92,7 +92,7 @@ For example, we receive a huge Commercial building but it was detected as Single
 
 ![](../.gitbook/assets/2018-09-13_14-11-59.jpg)
 
-Refer to Structure Types page to understand the definition of different structure types.
+Refer to Structure Types page to understand the definition of the different structure types.
 
 {% page-ref page="structure-types.md" %}
 

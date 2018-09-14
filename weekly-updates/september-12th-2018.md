@@ -52,7 +52,7 @@ DATAPACKAGE\_JSON:
 
 ## 🆕New - Images panel
 
-If you open the image panel, you will see all the images including the ortho image with all the camera locations. This is where we are going to do the 2D annotation and more detailed training/workflow is coming.
+If you open the image panel, you will see all of the images including the ortho image with all of the camera locations. This is where we are going to do the 2D annotations and a more detailed training/workflow is coming.
 
 ![](../.gitbook/assets/2018-09-12_11-38-51.jpg)
 
@@ -64,21 +64,21 @@ If you open the image panel, you will see all the images including the ortho ima
 
 ## 🆕New - Total review time
 
-Total review time is available via Intranet, but it is hidden by default. It shows how long the project stay in the IN\_REVIEW status, instead of how long the reviewer spend in reviewing this project.
+Total review time is available via Intranet, but it is hidden by default. It shows how long the project stays in the IN\_REVIEW status, instead of how long the reviewer spends reviewing the project.
 
 ![](../.gitbook/assets/2018-09-12_11-43-47.jpg)
 
 ## 💯The DroneDeploy Complete Final Grading Phase of Afraz
 
-Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all the remaining projects from **Afraz**.
+Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all remaining projects from **Afraz**.
 
 | Project ID | Customer | Grader | Reviewer | Grade |
 | :--- | :--- | :--- | :--- | :--- |
-|  | DroneDeploy | Rose | Katherine |  |
-|  | DroneDeploy | Rose | Katherine |  |
-|  | Tesla | Rose | Katherine |  |
-|  | Tesla | Katherine | Rose |  |
-|  |  |  | DroneDeploy Total Average |  |
+| 14741 | Tesla | Katherine | Rose | 99 |
+| 14821 | Tesla | Katherine | Rose | 87 |
+| 14585 | Tesla | Rose | Katherine | 92 |
+| 14698 | DroneDeploy | Rose | Katherine | 81.7 |
+|  |  |  | DroneDeploy Total Average | 89.9 |
 
 📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
