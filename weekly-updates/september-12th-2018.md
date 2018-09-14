@@ -94,3 +94,36 @@ Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all 
 
 🎆🎆🎇🎇 I am more than happy to announce that **Afraz** has passed the DroneDeploy grading period and is qualified for Complete\_Final all the projects without Review. 🎉🎉🎊🎊
 
+## 💯The DroneDeploy Complete Final Grading Phase of Afraz
+
+Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all remaining projects from **Afraz**.
+
+| Project ID | Customer | Grader | Reviewer | Grade |
+| :--- | :--- | :--- | :--- | :--- |
+| 14741 | Tesla | Katherine | Rose | 99 |
+| 14821 | Tesla | Katherine | Rose | 87 |
+| 14585 | Tesla | Rose | Katherine | 92 |
+| 14698 | DroneDeploy | Rose | Katherine | 81.7 |
+| | | | DroneDeploy Total Average | 89.9 |
+
+📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
+
+🎆🎆🎇🎇 I am more than happy to announce that **Afraz** has passed the DroneDeploy grading period and is qualified for Complete\_Final all the projects without Review. 🎉🎉🎊🎊
+
+## 💯The Complete Final Grading Phase of Adeel is going to start from next Monday
+
+{% hint style="success" %}
+I would highly recommend every grader and examinee take a look at the Grading Guide to make sure you totally understand the grading rules before the final evaluation officially starts.
+{% endhint %}
+
+Grading Guide: [https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
+
+| Examinee | Grader | Supervisor |
+| :--- | :--- |:--- |
+| **Adeel** | **Afraz** and **Fawad**| **Rose** and **Katherine** |
+
+Afraz's and Fawad's grading experience will be evaluated as well, it will be taken as a reference of whether they are qualitied for Reviewer.
+
+Grade Standard:
+
+{% page-ref page="../resources/grade-standard.md" %}
