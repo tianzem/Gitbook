@@ -1,6 +1,8 @@
 # Penetration
 
-> Penetrations are required for Tesla projects, and you will see "label obstructions" in the description field of the intranet for these projects.
+{% hint style="warning" %}
+Penetrations are required for Tesla projects only. You will see "label obstructions" in the description field of the intranet for these projects.
+{% endhint %}
 
 1. Finish the entire roof first before starting the penetrations.
 2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure that you don't miss any penetrations on this plane. Hold `Ctrl+Alt` and hover your mouse on the plane, you will see the primary edge is highlighted \(you could [Set Primary Edge](../tools/set-primary-edge.md) here\). Click your mouse to draw the anchor vertex, drag your mouse to change the size of the cutout and click your mouse again to place the location of the diagonal vertex.
