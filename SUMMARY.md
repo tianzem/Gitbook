@@ -64,6 +64,7 @@
   * [Edge Types](resources/edge-types.md)
   * [Structure Types](resources/structure-types.md)
   * [Project Issues](resources/project-issues.md)
+  * [How to Deal with a Broken Point Cloud](resources/how-to-deal-with-a-broken-point-cloud.md)
   * [Shortcut](resources/shortcut.md)
   * [Quiz](resources/quiz.md)
   * [Grade Standard](resources/grade-standard.md)
