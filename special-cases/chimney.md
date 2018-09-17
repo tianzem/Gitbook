@@ -1,3 +1,9 @@
+---
+description: >-
+  The purpose of this page is to show whether or not customers require us to
+  account for the chimneys on a structure.
+---
+
 # Chimney
 
 | Customer | Location | Do or Do not |

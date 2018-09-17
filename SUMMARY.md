@@ -48,6 +48,7 @@
 * [Layers](layers/README.md)
   * [Camera](layers/camera.md)
   * [Region of Interest](layers/region-of-interest.md)
+* [Images](images.md)
 * [Adjust Vertices](adjust-vertices/README.md)
   * [Triangulation](adjust-vertices/triangulation.md)
   * [Plane Sort](adjust-vertices/plane-sort.md)

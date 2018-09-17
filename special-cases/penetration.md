@@ -15,12 +15,14 @@
 
    ![](../.gitbook/assets/penetration3%20%281%29.jpg)
 
-5. Open the [Adjust Vertices](../advanced-function/#adjust-vertices) panel and check every plane, one by one, in the 2D images to make sure there are not any missing penetrations. \(Any immobile obstruction which has a potential affect on setting up a solar panel should be treated as penetration, including the satellite dish and the pipes\)
-6. Click [Detect Edge Types](../tools/#detect-edge-types) and you will see that all of the penetrations will turn to Step Flashing if they are attached correctly. Keep in mind that chimney edges will also be detected as Step Flashing and will need to be manually changed to Flashing.
+5. Open the [Adjust Vertices](../adjust-vertices/) panel and check every plane, one by one, in the 2D images to make sure there are not any missing penetrations. \(Any immobile obstruction which has a potential affect on setting up a solar panel should be treated as penetration, including the satellite dish and the pipes\)
+6. Click [Detect Edge Types](../tools/detect-edge-types.md) and you will see that all of the penetrations will turn to Step Flashing if they are attached correctly. Keep in mind that chimney edges will also be detected as Step Flashing and will need to be manually changed to Flashing.
 
    ![](../.gitbook/assets/penetration4.jpg)
 
 7. If the roof plane is changed or deleted, you may need to redo the penetrations since they are going to be detached or will have moved with the plane.
 
+{% hint style="info" %}
 For penetrations that are the same type, like pipes and vents, you can copy \(ctrl + c\) and paste \(ctrl + v\) an existing penetration and then move the copied version to the new location. You can also drag a penetration from one plane to another without having to remake the same penetration on a different plane.
+{% endhint %}
 

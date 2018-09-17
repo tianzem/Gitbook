@@ -52,11 +52,7 @@ DATAPACKAGE\_JSON:
 
 ## 🆕New - Images panel
 
-If you open the image panel, you will see all of the images including the ortho image with all of the camera locations. This is where we are going to do the 2D annotations and a more detailed training/workflow is coming.
-
-![](../.gitbook/assets/2018-09-12_11-38-51.jpg)
-
-![](../.gitbook/assets/2018-09-12_11-41-01.jpg)
+{% page-ref page="../images.md" %}
 
 ## 🆕New - Inspect Tool
 
@@ -91,22 +87,6 @@ Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all 
 |  |  |  | DroneDeploy Total Average | 89.9 |
 
 📑 The detailed grades could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
-
-🎆🎆🎇🎇 I am more than happy to announce that **Afraz** has passed the DroneDeploy grading period and is qualified for Complete\_Final all the projects without Review. 🎉🎉🎊🎊
-
-## 💯The DroneDeploy Complete Final Grading Phase of Afraz
-
-Thanks for **Rose** 👩 and **Katherine** 👧, they have finished grading all remaining projects from **Afraz**.
-
-| Project ID | Customer | Grader | Reviewer | Grade |
-| :--- | :--- | :--- | :--- | :--- |
-| 14741 | Tesla | Katherine | Rose | 99 |
-| 14821 | Tesla | Katherine | Rose | 87 |
-| 14585 | Tesla | Rose | Katherine | 92 |
-| 14698 | DroneDeploy | Rose | Katherine | 81.7 |
-|  |  |  | DroneDeploy Total Average | 89.9 |
-
-📑 The detailed gradings could be found at [here.](https://docs.google.com/spreadsheets/d/18hYex09FSQzJUyOKFiIXiJkYAuo9PdqV6dYNS7FKaBQ/edit?usp=sharing)
 
 🎆🎆🎇🎇 I am more than happy to announce that **Afraz** has passed the DroneDeploy grading period and is qualified for Complete\_Final all the projects without Review. 🎉🎉🎊🎊
 
