@@ -91,4 +91,5 @@
   * [Finalize](deprecated/finalize.md)
   * [Other Resources](deprecated/other-resources.md)
   * [Old Penetration](deprecated/old-penetration.md)
+* [New Tool Update 10/24/18](new-tool-update-10-24-18.md)
 
