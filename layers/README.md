@@ -1,20 +1,30 @@
 ---
-description: Layers gives the introduction of the different layers.
+description: Layers gives an introduction to the optional layers.
 ---
 
 # Layers
 
-Here are the articles in this section:
-
-{% hint style="info" %}
-This page is under construction to get a better layout.
-{% endhint %}
-
-![](../.gitbook/assets/layers.jpg)
+![](../.gitbook/assets/layers-button.png)
 
 You can turn on and off the different layers.
 
-![](../.gitbook/assets/layers.png)
+![](../.gitbook/assets/layers%20%281%29.png)
 
-Wireframe: The entire wireframe including all of the dimensions and planes. Edge Dimensions: The measurements of the edges. Planes: The green shade of the detected planes. Plane Dimensions: The SurfaceArea/Perimeter/Pitch of each plane. Camera: All of the cameras captured in the scene. Structure-1: The point cloud of the different structures. Ground: The point cloud of the ground.
+Wireframe: The entire wireframe including all of the dimensions and planes.   
+Planes:  
+  -Plane Normals:   
+  -Plane Dimensions: The SurfaceArea/Perimeter/Pitch of each plane.  
+  -Plane Annotations:  
+Edges:  
+  -Edge Dimensions: The measurements of the edges.   
+  -Edge Annotations:  
+Vertices:  
+  -Vertex Labels:  
+  -Vertex Annotations:  
+Cameras: All of the cameras captured in the scene.  
+Region of Interest:  
+Ortho Map:  
+Pointclouds:  
+  -Ground: The point cloud of the ground.  
+  -Structure-1: The point cloud of the different structures. 
 

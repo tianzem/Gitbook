@@ -2,7 +2,7 @@
 description: Properties provides the different parameters of Vertex/Edge/Plane.
 ---
 
-# Properties
+# Inspector
 
 ![](../.gitbook/assets/properties.jpg)
 

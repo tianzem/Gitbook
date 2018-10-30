@@ -1,7 +1,9 @@
 # Introduction
 
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
-It contains the full documentation for `Pointivo Viewer v571`.
+It contains the full documentation for `Pointivo Viewer v780`.
+
+![](.gitbook/assets/main-toolbar.png)
 
 ## What is in this docummentation
 
@@ -9,35 +11,23 @@ There are several parts in this user guide.
 
 > [Basic Function](basic-function/) includes all of the basic functions in the tool.
 
-![](.gitbook/assets/basic.jpg)
+![](.gitbook/assets/basic-functions-toolbar.png)
 
 > [Mode](mode/) includes the different functions related to the surfaces and wireframe.
 
-![](.gitbook/assets/mode.jpg)
+![](.gitbook/assets/vertex-and-surface-mode.png)
 
 > [Advanced Function](advanced-function/) gives a detailed explanation of the advanced functions.
 
-![](.gitbook/assets/advanced.jpg)
+![](.gitbook/assets/advanced-functions-toolbar.png)
+
+> [Inspector](properties/), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
+
+![](.gitbook/assets/verification-toolbar%20%282%29.png)
 
 > [Settings](settings.md) is the panel in the top right corner.
 
-![](.gitbook/assets/settings.jpg)
-
-> [Properties](properties/) provides the different parameters of Vertex/Edge/Plane.
-
-![](.gitbook/assets/properties%20%281%29.jpg)
-
-> [Tools](tools/) gives an introduction to the different tools.
-
-![](.gitbook/assets/tools.jpg)
-
-> [Layers](layers/) gives an introduction to the different layers.
-
-![](.gitbook/assets/layers%20%281%29.jpg)
-
-> [Adjust Vertices](adjust-vertices/) is the main panel used to adjust the vertices.
-
-![](.gitbook/assets/adjust.jpg)
+![](.gitbook/assets/settings-panel.png)
 
 > [Special Cases](special-cases/) shows you how to deal with various difficult cases you may encounter during your experience.
 >
