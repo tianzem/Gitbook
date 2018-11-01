@@ -4,7 +4,7 @@ description: >-
   within the main toolbar.
 ---
 
-# Basic Function
+# Basic Functions
 
 ![](../.gitbook/assets/basic-functions-toolbar.png)
 

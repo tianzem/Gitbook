@@ -3,33 +3,33 @@
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
 It contains the full documentation for `Pointivo Viewer v780`.
 
-![](.gitbook/assets/main-toolbar.png)
-
 ## What is in this docummentation
 
-There are several sections within this user guide.
+![](.gitbook/assets/main-toolbar.png)
 
-> [Basic Function](basic-function/) includes all of the basic functions in the tool.
+### **There are several sections within this user guide.**
 
 ![](.gitbook/assets/basic-functions-toolbar.png)
 
-> [Mode](mode/) includes the different functions related to the surfaces and wireframe.
+> [Basic Functions](basic-function/) include all of the basic functions in the tool.
 
 ![](.gitbook/assets/vertex-and-surface-mode.png)
 
-> [Advanced Function](advanced-function/) gives a detailed explanation of the advanced functions.
+> [Mode](mode/) includes the different functions related to the surfaces and wireframe.
 
 ![](.gitbook/assets/advanced-functions-toolbar.png)
 
-> [Inspector](properties/), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
+[Advanced Functions](advanced-function/) gives a detailed explanation of the advanced functions.
 
 ![](.gitbook/assets/verification-toolbar%20%282%29.png)
 
-> [Settings](settings.md) is the panel in the top right corner.
+> [Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
 
 ![](.gitbook/assets/settings-panel.png)
 
-> [Special Cases](special-cases/) shows you how to deal with various difficult cases you may encounter during your experience.
+> [Settings](settings.md) is the panel in the top right corner.
+
+> [Special Cases](special-cases/) demonstrates how to deal with difficult cases you may encounter during your experience.
 >
 > [Resources](resources/) has some external files for your reference.
 >

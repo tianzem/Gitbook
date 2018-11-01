@@ -4,7 +4,7 @@ description: >-
   within the main toolbar.
 ---
 
-# Advanced Function
+# Advanced Functions
 
 ![](../.gitbook/assets/advanced-functions-toolbar.png)
 

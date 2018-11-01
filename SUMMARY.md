@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Basic Function](basic-function/README.md)
+* [Basic Functions](basic-function/README.md)
   * [Save & Save As](basic-function/save-as.md)
   * [Import](basic-function/import.md)
   * [Export](basic-function/export.md)
@@ -15,7 +15,7 @@
 * [Mode](mode/README.md)
   * [Vertex Mode](mode/vertex-mode.md)
   * [Surface Mode](mode/surface-mode.md)
-* [Advanced Function](advanced-function/README.md)
+* [Advanced Functions](advanced-function/README.md)
   * [Lock Mode](advanced-function/lock-mode.md)
   * [Auto Plane](advanced-function/auto-plane.md)
   * [Eraser](advanced-function/eraser.md)
@@ -23,9 +23,7 @@
   * [Snap Mode](advanced-function/snap-mode.md)
   * [AutoLock](advanced-function/autolock.md)
 * [Settings](settings.md)
-* [Inspector](properties/README.md)
-  * [Label](properties/label.md)
-  * [Distance](properties/distance.md)
+* [Inspector](properties.md)
 * [Tools](tools/README.md)
   * [Attach](tools/attach.md)
   * [Detach](tools/detach.md)
