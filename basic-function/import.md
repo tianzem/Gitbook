@@ -2,5 +2,5 @@
 
 ![](../.gitbook/assets/import-button.png)
 
-Imports a previously exported wireframe.
+Click Import to upload a previously exported wireframe.
 

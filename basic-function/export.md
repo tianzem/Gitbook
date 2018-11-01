@@ -4,15 +4,15 @@
 
 {% tabs %}
 {% tab title="Download Wireframe" %}
-Export the current wireframe.json onto the local computer, this is the file you are going to import if you want to continue your work next time.
+Exports the current wireframe.json onto the local computer. This is the file you will import to continue your work on a disrupted project, or to register the wireframe onto a duplicate point cloud.
 {% endtab %}
 
 {% tab title="Download XLSX" %}
-Export the current wireframe.xlsx onto the local computer.
+Exports the current wireframe.xlsx onto the local computer.
 
 ![](../.gitbook/assets/2018-09-12_11-18-20.jpg)
 
-All the Edge/Plane/Penetration information are stored in this xlsx file via different unit types. 
+All of the Edge/Plane/Penetration information is stored in this .xlsx file via different unit types. 
 {% endtab %}
 {% endtabs %}
 
