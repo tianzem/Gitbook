@@ -1,6 +1,6 @@
 # Import
 
-![](../.gitbook/assets/import.jpg)
+![](../.gitbook/assets/import-button.png)
 
 Imports a previously exported wireframe.
 

@@ -1,14 +1,19 @@
 ---
 description: >-
-  Advanced Function describes the detailed explanation of the advanced
-  functions.
+  The Advanced Function section will break down all of the advanced functions
+  within the main toolbar.
 ---
 
 # Advanced Function
 
+![](../.gitbook/assets/advanced-functions-toolbar.png)
+
 Here are the articles in this section:
 
-{% hint style="info" %}
-This page is under construction to get a better layout.
-{% endhint %}
+[Lock Mode](lock-mode.md)  
+[Auto Plane](auto-plane.md)  
+[Eraser](eraser.md)  
+[Intersect Lines](intersect-lines.md)  
+[Snap Mode](snap-mode.md)  
+[AutoLock](autolock.md)
 

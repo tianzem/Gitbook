@@ -56,8 +56,6 @@ DATAPACKAGE\_JSON:
 
 ## 🆕New - Inspect Tool
 
-{% page-ref page="../advanced-function/inspect.md" %}
-
 ## 🆕New - 3D View Cube
 
 ![](../.gitbook/assets/3d-view-cube-icon.gif)

@@ -1,6 +1,6 @@
 # Export
 
-![](../.gitbook/assets/2018-09-12_11-14-03.jpg)
+![](../.gitbook/assets/export-button.png)
 
 {% tabs %}
 {% tab title="Download Wireframe" %}

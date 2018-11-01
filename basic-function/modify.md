@@ -1,6 +1,6 @@
 # Modify
 
-![](../.gitbook/assets/modify.jpg)
+![](../.gitbook/assets/modify-button.png)
 
-Under Modify mode, you can rotate/pan the entire model. You can also select and modify all of the objects if you use the mouse to left-click, hold, and drag an object.
+Under Modify mode, you can rotate/pan the entire model. You can also move and edit vertices, edges, and surfaces.
 

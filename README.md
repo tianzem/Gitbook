@@ -7,7 +7,7 @@ It contains the full documentation for `Pointivo Viewer v780`.
 
 ## What is in this docummentation
 
-There are several parts in this user guide.
+There are several sections within this user guide.
 
 > [Basic Function](basic-function/) includes all of the basic functions in the tool.
 
