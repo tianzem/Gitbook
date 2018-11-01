@@ -1,10 +1,14 @@
-# Save As
+# Save & Save As
 
-![](../.gitbook/assets/saveas.jpg)
+![](../.gitbook/assets/save-button.png)
 
-This will save the current wireframe into another branch if you switch to, or create, a different Tag name. It will generate a new sequential version number, and it also saves a wireframe.json under s3://pointivo-projects/ProjectID/out/WIREFRAME
+Saves the current wireframe into the working qa branch, generates a new sequential version number, and also saves a wireframe.json under s3://pointivo-projects/ProjectID/out/WIREFRAME
 
-![](../.gitbook/assets/save_as.png)
+
+
+![](../.gitbook/assets/save-as-button.png)
+
+Save As will save the current wireframe into another branch if you switch to, or create, a different Tag name. It will generate a new sequential version number, and it also saves a wireframe.json under s3://pointivo-projects/ProjectID/out/WIREFRAME
 
 {% tabs %}
 {% tab title="Name" %}
@@ -23,6 +27,8 @@ The branch that this version of the wireframe will be stored in.
 Check this box when you finish the project. It will open the latest saved version of the wireframe the next time you open the project.
 {% endtab %}
 {% endtabs %}
+
+![](../.gitbook/assets/save_as.png)
 
 
 

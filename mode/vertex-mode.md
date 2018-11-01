@@ -1,4 +1,4 @@
 # Vertex Mode
 
-The basic mode in the 3D Tool. This is the only mode that the vertices and edges can be selected and dragged in the 3D view.
+This is the default mode in the 3D Tool.  It is the only mode that the vertices and edges can be selected and manipulated in the 3D view.
 

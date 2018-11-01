@@ -4,9 +4,7 @@ description: Mode includes the different functions related to the surfaces and w
 
 # Mode
 
-Here are the articles in this section:
+![](../.gitbook/assets/vertex-and-surface-mode.png)
 
-{% hint style="info" %}
-This page is under construction to get a better layout.
-{% endhint %}
+There are 2 modes available in the tool: Vertex and Surface. Edges are part of Vertex mode.
 

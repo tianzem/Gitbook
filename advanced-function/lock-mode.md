@@ -1,6 +1,30 @@
+---
+description: >-
+  Lock Mode is an advanced setting that allows the user to lock a specific edge
+  or surface, then edit/create any vertices, edges, or planes in a location that
+  is parallel to the locked edge or surface.
+---
+
 # Lock Mode
 
-![](../.gitbook/assets/lock.jpg)
+![](../.gitbook/assets/lock-mode.png)
 
-This mode is a sub-mode of [Edge Mode](../mode/edge-mode.md) and [Surface Mode](../mode/surface-mode.md), please refer to [Edge Mode](../mode/edge-mode.md) and [Surface Mode](../mode/surface-mode.md) to get more information about this Lock Mode setting.
+## Lock Mode - Edge
+
+1. Under [Modify](../basic-function/modify.md) and [Vertex Mode](../mode/vertex-mode.md), select an edge that you would like the vertices to lock onto and press `Space` to lock the edge.
+2. Under [Modify](../basic-function/modify.md) and [Vertex Mode](../mode/vertex-mode.md), Click and Drag a vertex in the 3D viewport. 
+3. When [Lock Mode](lock-mode.md) is off \(default\). The vertex can be only moved on the locked edge.
+4. When [Lock Mode](lock-mode.md) is on. The vertex can be only moved on the parallel edge.
+
+\*\*\*\***lock mode off\_edge locked video**
+
+In the video above, Lock Mode is off \(default\) and one of the edges is locked. The selected vertex snaps to the locked edge when you modify it. The vertex can only move in the direction of the locked edge.
+
+\*\*\*\***lock mode on\_edge locked video**
+
+In the above video, Lock Mode is on and one of the edges is locked. When you modify the vertex it moves in the parallel direction of the locked edge. You can put the vertex anywhere on the point cloud but once an edge is locked, and Lock Mode is turned on, the vertex will only move in the parallel direction of the locked edge.
+
+## Lock Mode - Surface
+
+
 

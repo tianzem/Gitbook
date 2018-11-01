@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [Basic Function](basic-function/README.md)
-  * [Save](basic-function/save.md)
-  * [Save As](basic-function/save-as.md)
+  * [Save & Save As](basic-function/save-as.md)
   * [Import](basic-function/import.md)
   * [Export](basic-function/export.md)
   * [Undo](basic-function/undo.md)
@@ -15,7 +14,6 @@
   * [Align](basic-function/align.md)
 * [Mode](mode/README.md)
   * [Vertex Mode](mode/vertex-mode.md)
-  * [Edge Mode](mode/edge-mode.md)
   * [Surface Mode](mode/surface-mode.md)
 * [Advanced Function](advanced-function/README.md)
   * [Lock Mode](advanced-function/lock-mode.md)
