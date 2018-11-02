@@ -2,7 +2,7 @@
 
 This button is going to trigger an automatic validation to check the quality of the wireframe.
 
-![](../.gitbook/assets/validate.png)
+![](../../.gitbook/assets/validate.png)
 
 Clicking on each condition will select all of the objects with the error and will focus the camera view all of the selected objects at once. Count tells you the number of objects for each condition, and the arrows under Count allow you to scroll through each object within the conditions.
 

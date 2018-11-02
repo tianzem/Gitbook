@@ -1,7 +1,7 @@
-# Camera
+# Cameras
 
 {% hint style="info" %}
-🚧🚧 Under construction by Tianze 🚧🚧
+Page under construction!
 {% endhint %}
 
 You should be able to view all of the camera locations by clicking the camera icon beside each image.

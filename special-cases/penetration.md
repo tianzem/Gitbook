@@ -5,7 +5,7 @@ Penetrations are required for Tesla projects only. You will see "label obstructi
 {% endhint %}
 
 1. Finish the entire roof first before starting the penetrations.
-2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure that you don't miss any penetrations on this plane. Hold `Ctrl+Alt` and hover your mouse on the plane, you will see the primary edge is highlighted \(you could [Set Primary Edge](../tools/set-primary-edge.md) here\). Click your mouse to draw the anchor vertex, drag your mouse to change the size of the cutout and click your mouse again to place the location of the diagonal vertex.
+2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure that you don't miss any penetrations on this plane. Hold `Ctrl+Alt` and hover your mouse on the plane, you will see the primary edge is highlighted \(you could [Set Primary Edge](../tools/wireframe-tools/set-primary-edge.md) here\). Click your mouse to draw the anchor vertex, drag your mouse to change the size of the cutout and click your mouse again to place the location of the diagonal vertex.
 
    ![](../.gitbook/assets/penetration1%20%281%29.jpg)
 
@@ -17,8 +17,8 @@ Penetrations are required for Tesla projects only. You will see "label obstructi
 
    ![](../.gitbook/assets/penetration3%20%281%29.jpg)
 
-5. Open the [Adjust Vertices](../adjust-vertices/) panel and check every plane, one by one, in the 2D images to make sure there are not any missing penetrations. \(Any immobile obstruction which has a potential affect on setting up a solar panel should be treated as penetration, including the satellite dish and the pipes\)
-6. Click [Detect Edge Types](../tools/detect-edge-types.md) and you will see that all of the penetrations will turn to Step Flashing if they are attached correctly. Keep in mind that chimney edges will also be detected as Step Flashing and will need to be manually changed to Flashing.
+5. Open the [Adjust Vertices](../tools/adjust-vertices/) panel and check every plane, one by one, in the 2D images to make sure there are not any missing penetrations. \(Any immobile obstruction which has a potential affect on setting up a solar panel should be treated as penetration, including the satellite dish and the pipes\)
+6. Click [Detect Edge Types](../tools/wireframe-tools/detect-edge-types.md) and you will see that all of the penetrations will turn to Step Flashing if they are attached correctly. Keep in mind that chimney edges will also be detected as Step Flashing and will need to be manually changed to Flashing.
 
    ![](../.gitbook/assets/penetration4.jpg)
 
