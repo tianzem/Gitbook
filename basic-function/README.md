@@ -8,8 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/basic-functions-toolbar.png)
 
-* [Save](save-as.md)
-* [Save As](save-as.md)
+* [Save & Save As](save-as.md)
 * [Import](import.md)
 * [Export](export.md)
 * [Undo](undo.md)
