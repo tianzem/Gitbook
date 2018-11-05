@@ -1,8 +1,6 @@
 # Region of Interest
 
-{% hint style="info" %}
-Page under construction!
-{% endhint %}
+![](../.gitbook/assets/region-of-interest_project18426.gif)
 
 When you turn on the Region of Interest layer, an unselectable greyed-out box will show up and surround the ROI that the customer wants measured.
 

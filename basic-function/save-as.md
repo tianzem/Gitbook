@@ -1,6 +1,6 @@
 # Save & Save As
 
-![](../.gitbook/assets/save-button.png)
+![hotkey: Ctrl + s](../.gitbook/assets/save-button.png)
 
 Saves the current wireframe into the working qa branch, generates a new sequential version number, and also saves a wireframe.json under s3://pointivo-projects/ProjectID/out/WIREFRAME
 

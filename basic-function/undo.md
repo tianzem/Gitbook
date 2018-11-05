@@ -1,6 +1,6 @@
 # Undo
 
-![](../.gitbook/assets/undo-button.png)
+![hotkey: Ctrl + z](../.gitbook/assets/undo-button.png)
 
 This will undo the last operation. 
 

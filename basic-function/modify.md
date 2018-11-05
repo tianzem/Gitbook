@@ -1,6 +1,6 @@
 # Modify
 
-![](../.gitbook/assets/modify-button.png)
+![hotkey: tap Alt OR Shift](../.gitbook/assets/modify-button.png)
 
 Under Modify mode, you can rotate/pan the entire model. You can also move and edit vertices, edges, and surfaces.
 

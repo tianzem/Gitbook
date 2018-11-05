@@ -25,9 +25,9 @@ It contains the full documentation for `Pointivo Viewer v780`.
 
 > [Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
 
-![](.gitbook/assets/settings-panel.png)
-
 > [Settings](settings.md) is the panel in the top right corner.
+
+![](.gitbook/assets/settings-panel.png)
 
 > [Special Cases](special-cases/) demonstrates how to deal with difficult cases you may encounter during your experience.
 >
