@@ -11,11 +11,11 @@ It contains the full documentation for `Pointivo Viewer v780`.
 
 ![](.gitbook/assets/basic-functions-toolbar.png)
 
-> [Basic Functions](basic-function/) include all of the basic functions in the tool.
+[Basic Functions](basic-function/) include all of the basic functions in the tool.
 
 ![](.gitbook/assets/vertex-and-surface-mode.png)
 
-> [Mode](mode/) includes the different functions related to the surfaces and wireframe.
+[Mode](mode/) includes the different functions related to the surfaces and wireframe.
 
 ![](.gitbook/assets/advanced-functions-toolbar.png)
 
@@ -23,19 +23,27 @@ It contains the full documentation for `Pointivo Viewer v780`.
 
 ![](.gitbook/assets/verification-toolbar%20%282%29.png)
 
-> [Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
+[Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
 
-> [Settings](settings.md) is the panel in the top right corner.
+![](.gitbook/assets/3d-2d-camera-and-ortho-buttons.png)
+
+The [Preset & Projection View](preset-and-projection-view.md) buttons allow users to control the viewport's dimension and camera type settings.
+
+![](.gitbook/assets/viewcube-icon_nothing-selected.png)
+
+The [View Cube](view-cube.md) is the compass of the 3D viewport.
+
+[Settings](settings.md) is the panel in the top right corner.
 
 ![](.gitbook/assets/settings-panel.png)
 
-> [Special Cases](special-cases/) demonstrates how to deal with difficult cases you may encounter during your experience.
->
-> [Resources](resources/) has some external files for your reference.
->
-> [Weekly Updates](weekly-updates/) The updates per week.
->
-> [Deprecated](deprecated/) Recycle Bin
+[Special Cases](special-cases/) demonstrates how to deal with difficult cases you may encounter during your experience.
+
+[Resources](resources/) has some external files for your reference.
+
+[Weekly Updates](weekly-updates/) The updates per week.
+
+[Deprecated](deprecated/) Recycle Bin
 
 ## Help and Support
 

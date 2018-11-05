@@ -1,12 +1,12 @@
 # Region of Interest
 
-![](../.gitbook/assets/region-of-interest_project18426.gif)
+The Region of Interest \(ROI\) is an opaque, unselectable, grey box that surrounds the area of structures that the customer wants to measure.
 
-When you turn on the Region of Interest layer, an unselectable greyed-out box will show up and surround the ROI that the customer wants measured.
+![](../.gitbook/assets/region-of-interest_project18426.gif)
 
 Sometimes the ROI might be a little offset or not very accurate. Whenever the ROI is confusing, please notify us about that project in the wireframe channel \(screenshots of the issue, along with the project number, are helpful as well\).
 
 {% hint style="info" %}
-Only Kespry and DroneDeploy Standard have the Region of Interest.
+Only Kespry and DroneDeploy\_Standard have a Region of Interest included.
 {% endhint %}
 

@@ -4,3 +4,6 @@ This layer controls the visibility of the Edges, and also more detailed informat
 
 ![](../.gitbook/assets/edges-layer_project18426.gif)
 
+  
+In the image above, two of the Edge Dimensions are outlined in yellow and an Eave, Hip, and Ridge are pointed to in red.
+

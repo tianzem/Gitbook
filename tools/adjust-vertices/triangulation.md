@@ -1,3 +1,9 @@
+---
+description: >-
+  There are 3 types of Triangulation in the 3D Tool: 1 Image + Locked Plane, 2
+  Images, and 3 Images.
+---
+
 # Triangulation
 
 1. 1 Image + Locked Plane: You should Lock a plane first if you want to change the Triangulation to this mode. Under this mode, only 1 image is needed to adjust the vertex. The vertex will be fixed on the locked plane, and its location will be changed based on the 2D target you select.
