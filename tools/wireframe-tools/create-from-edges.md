@@ -10,6 +10,10 @@
 
 ![](../../.gitbook/assets/create-from-edges.mp4)
 
+{% hint style="warning" %}
+Updated Video Coming Soon!
+{% endhint %}
+
 ![](../../.gitbook/assets/create-from-edges%20%281%29.gif)
 
 {% hint style="warning" %}

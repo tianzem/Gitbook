@@ -1,3 +1,10 @@
+---
+description: >-
+  There are a variety of Edge Types available in the 3D tool, and each of them
+  are used to distinguish different parts of the roof. This page lists the
+  requirements for each edge type.
+---
+
 # Edge Types
 
 **Common Edge Types**
@@ -10,8 +17,8 @@
 | Valley | 2 | "V" | × |
 | Ridge | 2 |  | √ |
 | Flashing | Only around the chimney |  |  |
-| Step Flashing | Only connects towards the wall |  |  |
-| Parapet | Only on the flat roof that connects towards the wall |  |  |
+| Step Flashing | Must be against a wall |  |  |
+| Parapet | Only on flat roofs that are surrounded by, and enclosed in, a wall/ledge |  |  |
 
 **Edge Type Example - QA Project: 6573**
 

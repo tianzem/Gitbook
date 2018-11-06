@@ -9,6 +9,10 @@ However, in some specific cases, the primary edge might be incorrect or we may w
 3. Select the Edge you would like to set as primary \(you do not need to switch to [Vertex mode](../../mode/vertex-mode.md) here\).
 4. The selected edge is now set as the Primary Edge for this Plane.
 
+{% hint style="warning" %}
+Updated Video Coming Soon!
+{% endhint %}
+
 ![](../../.gitbook/assets/set-primary-edge.gif)
 
 After selecting and setting the new primary edge, you will need to go back to vertex mode to create a penetration aligned with your new primary edge.
