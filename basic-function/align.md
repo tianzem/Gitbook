@@ -7,9 +7,5 @@
 3. Click Align, or press and hold `Shift` to change to Align mode, and click on the Target edge.
 4. The edges you selected in Step 2 will be aligned with the Target edge you selected in Step 3 and will also be fixed to the plane you locked in Step 1.
 
-{% hint style="warning" %}
-VIDEO COMING SOON
-{% endhint %}
-
-In the video, the plane is not locked. The selected edge is still aligning with the target edge, but the plane may be altered somewhat even though it doesn't appear to be in this example.
+![](../.gitbook/assets/align_proj12131_11_7_18.gif)
 

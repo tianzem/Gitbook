@@ -16,19 +16,11 @@ description: >-
 3. When [Lock Mode](lock-mode.md) is off \(default\). The vertex can be only moved on the locked edge.
 4. When [Lock Mode](lock-mode.md) is on. The vertex can be only moved on the parallel edge.
 
-\*\*\*\***lock mode off\_edge locked video**
-
-{% hint style="warning" %}
-VIDEO COMING SOON
-{% endhint %}
+![](../.gitbook/assets/lock-mode-off_edge-locked_proj12131_11_2018.gif)
 
 In the video above, Lock Mode is off \(default\) and one of the edges is locked. The selected vertex snaps to the locked edge when you modify it. The vertex can only move in the direction of the locked edge.
 
-\*\*\*\***lock mode on\_edge locked video**
-
-{% hint style="warning" %}
-VIDEO COMING SOON
-{% endhint %}
+![](../.gitbook/assets/lockmodeon_edgelocked_proj12131.gif)
 
 In the above video, Lock Mode is on and one of the edges is locked. When you modify the vertex it moves in the parallel direction of the locked edge. You can put the vertex anywhere on the point cloud but once an edge is locked, and Lock Mode is turned on, the vertex will only move in the parallel direction of the locked edge.
 
