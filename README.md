@@ -3,7 +3,7 @@
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
 It contains the full documentation for `Pointivo Viewer v780`.
 
-## What is in this docummentation
+## What is in this docummentation?
 
 ![](.gitbook/assets/main-toolbar.png)
 
