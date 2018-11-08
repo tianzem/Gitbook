@@ -7,7 +7,3 @@ With the Images panel open click on Inspect \(or hit Ctrl + i and hold\), then c
 
 ![](../.gitbook/assets/inspect-example_qaproject8583.gif)
 
-{% hint style="warning" %}
-Video coming soon!
-{% endhint %}
-
