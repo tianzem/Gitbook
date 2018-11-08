@@ -13,8 +13,8 @@ description: >-
 
 1. Under [Modify](../basic-function/modify.md) and [Vertex Mode](../mode/vertex-mode.md), select an edge for the vertices to lock onto and press `Space` to lock the edge.
 2. Under [Modify](../basic-function/modify.md) and [Vertex Mode](../mode/vertex-mode.md), Click and Drag a vertex in the 3D tool. 
-3. When [Lock Mode](lock-mode.md) is off \(default\). The vertex can be only moved on the locked edge.
-4. When [Lock Mode](lock-mode.md) is on. The vertex can be only moved in a parallel direction to the locked edge.
+3. When Lock Mode is off \(default\), the vertex can be only moved on the locked edge.
+4. When Lock Mode is on, the vertex can be only moved in a parallel direction to the locked edge.
 
 ![](../.gitbook/assets/lock-mode-off_edge-locked_proj12131_11_2018.gif)
 
