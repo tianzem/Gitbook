@@ -6,7 +6,7 @@ description: Layers gives an introduction to the optional layers.
 
 ![](../.gitbook/assets/layers-button.png)
 
-You can turn on and off the different layers.
+The different layers can be turned on and off.
 
 ![](../.gitbook/assets/layers%20%281%29.png)
 

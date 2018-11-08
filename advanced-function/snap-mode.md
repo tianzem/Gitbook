@@ -4,11 +4,11 @@
 
 ## None:
 
-All of the movements will be fixed on the XY plane in the current view. You are not able to make changes on the Z axis unless you rotate the point cloud to change your point of view.
+All of the movements will be fixed on the XY plane in the current view. Users are not able to make changes on the Z axis unless the point cloud is rotated to change the point of view.
 
 ## Point Cloud:
 
-The selected vertex will be dropped onto the nearest point in the point cloud. You will not be able to place a vertex in the black area of the viewport where there is no point cloud.
+The selected vertex will be dropped onto the nearest point in the point cloud. Users will not be able to place a vertex in the black area of the viewport where there is no point cloud.
 
 ## Locked Geometry:
 

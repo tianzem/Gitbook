@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Download Wireframe" %}
-Exports the current wireframe.json onto the local computer. This is the file you will import to continue your work on a disrupted project, or to register the wireframe onto a duplicate point cloud.
+Exports the current wireframe.json onto the local computer. This is the file users will import to continue your work on a disrupted project, or to register the wireframe onto a duplicate point cloud.
 {% endtab %}
 
 {% tab title="Download XLSX" %}

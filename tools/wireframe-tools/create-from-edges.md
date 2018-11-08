@@ -13,6 +13,6 @@
 ![](../../.gitbook/assets/create-from-edges_proj18520_11_7_18.gif)
 
 {% hint style="warning" %}
-Keep in mind that this tool should only be used at the end of wireframe creation, because Auto Plane will be turned off. If you turn Auto Plane back on, after using Create from Edges, your new manually created planes will no longer be detected as planes and you will have to repeat this process
+Keep in mind that this tool should only be used at the end of wireframe creation, because Auto Plane will be turned off. If Auto Plane is turned back on, after using Create from Edges, the new manually created planes will no longer be detected as planes and this process will have to be repeated.
 {% endhint %}
 

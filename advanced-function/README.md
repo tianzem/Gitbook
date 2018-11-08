@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Advanced Function section will break down all of the advanced functions
+  The Advanced Functions section will break down all of the advanced functions
   within the main toolbar.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/advanced-functions-toolbar.png)
 
-Here are the articles in this section:
+Here are the pages in this section:
 
 [Lock Mode](lock-mode.md)  
 [Auto Plane](auto-plane.md)  

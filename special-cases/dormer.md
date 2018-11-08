@@ -5,13 +5,13 @@
    ![](../.gitbook/assets/dormer1.jpg)
 
 2. Lock the plane and adjust the top three vertices of each dormer.
-3. After you save and generate the resources, the QA tool is going to recognize the dormers as cutouts automatically. You need to double check that the dormer cutouts were detected in the GeoJSON.
+3. After saving and generating the resources, the QA tool is going to recognize the dormers as cutouts automatically. Make sure to double check that the dormer cutouts were detected in the GeoJSON.
 
 ![](../.gitbook/assets/dormer2.jpg)
 
-Although dormer cutouts are automatically detected at the time of GeoJson generation, they are still **required** to be done in the 3Dtool. Again, there might not be any difference between detecting it in the tool versus letting it get detected automatically during the GeoJson generation. However, if you do it in the 3Dtool, you get to see what the cutouts will look like and you can check, or even adjust, the location of the new cutout vertices.
+Although dormer cutouts are automatically detected at the time of GeoJson generation, they are still **required** to be done in the 3Dtool. Again, there might not be any difference between detecting it in the tool versus letting it get detected automatically during the GeoJson generation. However, doing it in the 3Dtool, allows users to see what the cutouts will look like and the location of the new cutout vertices can be checked and adjusted.
 
-Furthermore, if you do the cutout detection in the 3Dtool, all of the new vertices will be red and you will need to make sure that there are not any extra unwanted red vertices after the detection. If there are, go to the Settings in the intranet and turn off the "performcutout" setting:
+Furthermore, if the cutout detection is done in the 3Dtool, all of the new vertices will be red and the user will need to make sure that there are not any extra, unwanted red vertices after the detection. If there are, go to the Settings in the intranet and turn off the "performcutout" setting:
 
 From
 

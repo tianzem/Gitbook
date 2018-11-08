@@ -1,6 +1,6 @@
 # Images
 
-If you open the Images panel, you will see all of the 2D images \(including the Ortho image\) along with all of the camera locations. This is where we are going to do the 2D annotations and a more detailed training/workflow is coming too.
+When the Images panel is opened, users will see all of the 2D images \(including the Ortho image\) along with all of the camera locations. This is where the 2D annotations will be completed. A more detailed training/workflow will be added soon.
 
 ![](.gitbook/assets/2018-09-12_11-38-51.jpg)
 

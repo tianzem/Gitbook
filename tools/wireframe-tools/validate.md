@@ -4,7 +4,7 @@ This button is going to trigger an automatic validation to check the quality of 
 
 ![](../../.gitbook/assets/validate-button.png)
 
-Clicking on each condition will select all of the objects with the error in the 3D tool and it will focus the camera view on all of the selected objects at once. Count tells you the number of objects for each condition, and the arrows under Count allow you to scroll through each object within the conditions.
+Clicking on each condition will select all of the objects with the error in the 3D tool and it will focus the camera view on all of the selected objects at once. Count displays the number of objects for each condition, and the arrows under Count will scroll through each object within the conditions.
 
 Different Errors are as follow:
 

@@ -8,7 +8,7 @@ The Detect Penetrations button, in the Wireframe Tools subgroup, is going to det
 
 ![](../../.gitbook/assets/detect-penetrations-button_qaproject8583.gif)
 
-Under a new Branch called Penetrations, you will see the new version with Penetrations
+Under a new Branch called Penetrations, there will be a new version with Penetrations
 
 ![](../../.gitbook/assets/2018-08-16_13-38-21.jpg)
 

@@ -20,6 +20,6 @@ Updated Video Coming Soon!
 ![](../../.gitbook/assets/register-wireframe%20%281%29.gif)
 
 {% hint style="info" %}
-The vertices of the wireframe you are registering will already be verified from the original project it was exported from. You still need to go through and check the placement of the vertices after clicking Register Wireframe to re-verify that they are indeed in the correct location. You may need to use Adjust Vertices to tweak some of the vertex locations to make them more accurate. This is why it is important to ensure the accuracy of the endpoint vertex location is correct before clicking Register Wireframe.
+The vertices of the wireframe being registered will already be verified from the original project it was exported from. The vertices will still need to be checked after clicking Register Wireframe to re-verify that they are in the correct location. Adjust Vertices may need to be used to tweak some of the vertex locations to make them more accurate. This is why it is important to ensure that the accuracy of the endpoint vertex location is correct before clicking Register Wireframe.
 {% endhint %}
 

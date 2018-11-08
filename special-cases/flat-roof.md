@@ -4,7 +4,7 @@ Typically, it is hard to select the exact corner of the flat roof due to the tex
 
 ![](../.gitbook/assets/flat-roof-corner.jpg)
 
-1. Outline the flat roof as close to the actual corner as possible. It does not need to be exactly on the corner, but you do need to make sure that the plane is correctly aligned.
+1. Outline the flat roof as close to the actual corner as possible. It does not need to be exactly on the corner, but the plane does need to be correctly aligned.
 
    ![](../.gitbook/assets/flat-roof.jpg)
 

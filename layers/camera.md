@@ -2,11 +2,11 @@
 
 This layer controls the visibility of the cameras in relation to the point cloud.
 
-All of the camera locations will be seen above the 3D point cloud when the Camera layer is on. If you select one of the red cameras, then the relative camera view will be updated in the 2D viewport.
+All of the camera locations will be seen above the 3D point cloud when the Camera layer is on. If a user selects one of the red cameras, then the relative camera view will be updated in the 2D viewport.
 
 ![](../.gitbook/assets/cameras-layer_project18521.gif)
 
-You can also view all of the camera locations/views available for each vertex. Select a vertex, then click on the white square icon beside each 2D image in the Adjust Vertices panel.
+The camera locations/views available for each vertex can also be viewed. Select a vertex, then click on the white square icon beside each 2D image in the Adjust Vertices panel.
 
 ![](../.gitbook/assets/camera-toggle-buttons.png)
 
