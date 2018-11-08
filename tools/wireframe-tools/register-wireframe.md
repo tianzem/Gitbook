@@ -1,7 +1,5 @@
 # Register Wireframe
 
-
-
 When an imported wireframe is not covered on the point cloud \(due to differing coordinates\), the Register Wireframe feature can be used to move, rotate, and snap the wireframe onto the point cloud.
 
 ![](../../.gitbook/assets/register-wireframe-button.png)
@@ -13,11 +11,7 @@ When an imported wireframe is not covered on the point cloud \(due to differing 
 
 1. Hold `Ctrl` to select all 4 edges and click the Register Wireframe button in the Tools tab of Properties.
 
-{% hint style="warning" %}
-Updated Video Coming Soon!
-{% endhint %}
-
-![](../../.gitbook/assets/register-wireframe%20%281%29.gif)
+![](../../.gitbook/assets/registerwireframe_proj18055_11_2018.gif)
 
 {% hint style="info" %}
 The vertices of the wireframe being registered will already be verified from the original project it was exported from. The vertices will still need to be checked after clicking Register Wireframe to re-verify that they are in the correct location. Adjust Vertices may need to be used to tweak some of the vertex locations to make them more accurate. This is why it is important to ensure that the accuracy of the endpoint vertex location is correct before clicking Register Wireframe.

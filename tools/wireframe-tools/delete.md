@@ -1,3 +1,9 @@
+---
+description: >-
+  The Delete button in the Wireframe Tools is the easiest way to delete a plane
+  without deleting its surrounding vertices and edges.
+---
+
 # Delete
 
 1. Under [Surface Mode](../../mode/surface-mode.md), [Select](../../basic-function/select.md) or hold `Ctrl` and click to multi-select the planes that will be deleted.
