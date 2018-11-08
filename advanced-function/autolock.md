@@ -1,22 +1,18 @@
 # AutoLock
 
-When you first open a project, Autolock is turned off by default. It will be turned on automatically after Plane Sort is completed.
+When you first open a project, Autolock is turned off by default. Users can manually turn Autolock on by clicking the white box, or it will automatically turn on after Plane Sort is completed.
 
-When AutoLock is turned on, each time you select a vertex in 3D, the biggest plane that the selected vertex belongs to will be locked. The triangulation mode will switch to 1 Image + Locked Plane.
+When AutoLock is turned on, each time a vertex is selected in 3D, the biggest plane that the selected vertex belongs to will be locked. The triangulation mode will switch to 1 Image + Locked Plane.
 
-This feature is very convenient since it requires you to adjust each vertex in only one of the 2D images.
+This feature is very convenient since it allows users to adjust each vertex in only one of the 2D images, and have it reflected in the other two 2D images.
 
-{% hint style="warning" %}
-UPDATED VIDEO COMING SOON
-{% endhint %}
+![](../.gitbook/assets/autolock_proj12131_11_2018.gif)
 
 {% hint style="danger" %}
-When using AutoLock to adjust a vertex, you need to make sure that the plane is accurate first.
+When using AutoLock to adjust a vertex, make sure that the plane is accurate first.
 {% endhint %}
 
-![](../.gitbook/assets/auto-lock.gif)
+Once Plane Sort is selected in [Adjust Vertices](../tools/adjust-vertices/), users can either click on a vertex within the 3D view or click on the vertex ID in the [Adjust Vertices](../tools/adjust-vertices/) list to select a vertex and automatically lock the largest plane that the selected vertex is on. 
 
-Once you select Plane Sort, in [Adjust Vertices](../tools/adjust-vertices/), you can either click on a vertex within the 3D view or click on the vertex ID in the [Adjust Vertices](../tools/adjust-vertices/) list to select a vertex and automatically lock the largest plane that the selected vertex is on. 
-
-In order to get out of Auto Lock mode, you must uncheck the box next to Auto Lock, underneath the Snap drop-down menu in the top toolbar of the 3D tool.
+In order to get out of AutoLock mode, you must uncheck the box next to AutoLock, underneath the Snap drop-down menu in the top toolbar of the 3D tool.
 
