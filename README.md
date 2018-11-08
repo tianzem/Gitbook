@@ -1,7 +1,7 @@
 # Introduction
 
 This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
-It contains the full documentation for `Pointivo Viewer v780`.
+It contains the full documentation for `Pointivo Viewer v794`.
 
 ## What is in this docummentation?
 
