@@ -2,13 +2,15 @@
 
 Kespry is doing testing flights on site by the pilot sometimes, and they are not expecting any results from this kind of testing projects. There is no need to put these broken point cloud to `IN_REVIEW` or `IN_SUPPORT`, since they could be done easily.
 
-**Case 1:** Ground/Dirt/Grass without any structures.
+**Case 1:** Ground/Dirt/Grass/Rubble without any structures.
 
-**Example:** `12243`
+**Example:** `12243, 21658`
 
-**Solution:** Typically, the autogen is empty since no structures are detected. So please draw a rectangle on the ground and publish. There is no need to worry about the edge types since they do not make any sense.
+**Solution:** Typically, the autogen is empty since no structures are detected. So please draw a rectangle on the ground and publish. If there are outlier vertices on trees or neighboring structures, then delete all of those and then draw the rectangle on the ground. There is no need to worry about the edge types since they do not make any sense.
 
 ![](../.gitbook/assets/12243-ug.gif)
+
+![](../.gitbook/assets/burned-structure-example.png)
 
 **Case 2:** Most of the roofing is not captured.
 
