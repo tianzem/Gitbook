@@ -5,7 +5,8 @@
    ![](../.gitbook/assets/dormer1.jpg)
 
 2. Lock the plane and adjust the top three vertices of each dormer.
-3. After saving and generating the resources, the QA tool is going to recognize the dormers as cutouts automatically. Make sure to double check that the dormer cutouts were detected in the GeoJSON.
+3. In the Wireframe Tools tab of the Tools panel, click Detect Cutouts. The base of the dormer will automatically be wireframed as a cutout on the parent plane.
+4. After saving and generating the resources, make sure to double check that the dormer cutouts were detected in the GeoJSON.
 
 ![](../.gitbook/assets/dormer2.jpg)
 

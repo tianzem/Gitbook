@@ -1,20 +1,14 @@
 # Detect Cutouts
 
-This button will detect all of the cutouts in the scene and will [Attach](attach.md) the cutouts plane onto the lower plane.
+The Detect Cutouts button will detect all of the cutouts in the scene and will [Attach](attach.md) the cutouts plane onto the lower plane. The best example of this is detecting the cutouts of dormers.
 
-Although dormer cutouts are automatically detected at the time of geojson generation, they are still **required** to be done in the tool. Again, there might not be any noticeable differences between detecting them in the tool or letting them get detected automatically during the geojson generation. However, when the cutouts are detected in the tool users can see what the cutouts look like before geojson generation. The location of the new vertices will also be able to be checked and adjusted.
+* First, finish the dormer as normal. There is no need to draw the outline of the shadow that is underneath the dormer in the lower plane.
+* Lock the plane and adjust the top three vertices of each dormer.
 
-Additionally, cutout detection is performed in the tool, all of the new cutout vertices will be red and the user will need to make sure that there are not any extra, unwanted red vertices after the detection. If there are, click on the Settings button in the Actions section of the intranet and turn off the "performcutout" setting.
+![](../../.gitbook/assets/dormers.png)
 
-From
+* In the Wireframe Tools tab of the Tools panel, click Detect Cutouts. The base of the dormer automatically be wireframed as a cutout of the parent plane.
+* After saving and generating the resources, make sure to double check that the dormer cutouts were detected in the GeoJSON.
 
-```text
-"performCutout": true
-```
-
-To
-
-```text
-"performCutout": false
-```
+![](../../.gitbook/assets/detect-cutouts-geojson.png)
 

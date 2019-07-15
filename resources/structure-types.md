@@ -48,7 +48,7 @@ Factories, warehouses, stores, malls, offices, schools. Look for buildings with 
 
 ## UNKNOWN
 
-Churches, modern buildings, sheds, barns, outdoor areas. Look for metal roofs, slate roofs, terracotta roofs, etc.
+Sheds, barns, outdoor areas. Look for metal roofs, slate roofs, terracotta roofs, etc.
 
 ![UNKNOWN Example 1](../.gitbook/assets/unknown-1.gif)
 

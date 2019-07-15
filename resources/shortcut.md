@@ -18,12 +18,18 @@ description: A list of shortcuts/hotkeys to help users navigate the 3D tool fast
 | Space | Lock Surface/Edge |
 | Alt | Create Mode |
 | Shift | Align Mode |
-| A | Pan Left |
+| N \(in 2D image window\) | Next |
+| A \(in 2D image window\) | Apply |
+| S \(in 2D image window\) | Shuffles all three 2D images |
+| A \(in 3D window\) | Pan Left |
 | D | Pan Right |
 | Q | Rotate Right |
 | E | Rotate Left |
 | W | Zoom In |
 | S | Zoom Out |
+| P | Point Cloud on/off |
+| R | ROI on/off |
+| L | Edge Dimension Labels on/off |
 | Ctrl | Multiple Selection |
 | Ctrl + A | Select All |
 | Ctrl + C | Copy |
@@ -38,6 +44,5 @@ description: A list of shortcuts/hotkeys to help users navigate the 3D tool fast
 | Alt + Shift | Delete Mode - Hold Alt + Shift and click on a vertex or edge to delete |
 | Ctrl + Space | Focus the Camera View to the Selected Objects |
 | Alt + Ctrl | Draw the Polygon with Polygon Shape Property |
-| Left-click in the 3D tool + tap Alt \(or Shift\) | Modify Mode |
-| 🚧 Under Construction By Iven 🚧 | Apply |
+| tap Alt or Shift \(in 3D window\) | Modify Mode |
 

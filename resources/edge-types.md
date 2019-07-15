@@ -16,9 +16,9 @@ description: >-
 | Hip | 2 | "Λ" | × |
 | Valley | 2 | "V" | × |
 | Ridge | 2 |  | √ |
-| Flashing | Only around the chimney |  |  |
-| Step Flashing | Must be against a wall |  |  |
-| Parapet | Only on flat roofs that are surrounded by, and enclosed in, a wall/ledge |  |  |
+| Flashing | Must be against a wall or chimney | × | √ |
+| Step Flashing | Must be against a wall or chimney | √ | × |
+| Parapet | Only on flat roofs that are surrounded by, and enclosed in, a low wall/ledge |  |  |
 
 **Edge Type Example - QA Project: 6573**
 
