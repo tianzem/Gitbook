@@ -59,6 +59,8 @@ Factories, churches/cathedrals, hotels, warehouses, restaurants, malls, offices,
 
 ![COMMERCIAL - School](../.gitbook/assets/commercial-3.gif)
 
+![COMMERCIAL - Church](../.gitbook/assets/commercial_small_48429.png)
+
 ## UNKNOWN
 
 Sheds, barns, outdoor areas. Look for metal roofs, slate roofs, terracotta roofs, etc.
