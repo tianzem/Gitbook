@@ -55,6 +55,8 @@ Factories, churches/cathedrals, hotels, warehouses, restaurants, malls, offices,
 
 ![COMMERCIAL - Restaurant](../.gitbook/assets/commercial-2.gif)
 
+![COMMERCIAL - Small Store - used google maps to confirm](../.gitbook/assets/commercial_small_48468.png)
+
 ![COMMERCIAL - School](../.gitbook/assets/commercial-3.gif)
 
 ## UNKNOWN
