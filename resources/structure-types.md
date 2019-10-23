@@ -75,7 +75,7 @@ Factories, churches/cathedrals, hotels, warehouses, restaurants, malls, offices,
 
 ## UNKNOWN
 
-Use this type when the point cloud of the structure is extremely broken, or destroyed, and the intended structure type is unrecognizable.
+A structure is included but the point cloud of the structure is extremely broken, and the intended structure type is unrecognizable.
 
 ![UNKNOWN](../.gitbook/assets/unknown-or-none_49071.png)
 

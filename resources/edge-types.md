@@ -18,9 +18,10 @@ description: >-
 | Ridge | 2 |  | √ |
 | Flashing | Must be against a wall or chimney | × | √ |
 | Step Flashing | Must be against a wall or chimney | √ | × |
-| Parapet | Only on flat roofs that are surrounded by, and enclosed in, a low wall/ledge |  |  |
+| Parapet | Only on flat roofs that are surrounded by, and enclosed in, a low wall/ledge | × | √ |
+| Transition | 2 \(This is an edge that represents a pitch change. It will always be parallel to the ground and will be at the intersection of 2 planes, where one plane is above it and the other is below it\) | × | √ |
 
 **Edge Type Example - QA Project: 6573**
 
-![edges](../.gitbook/assets/edge_classification.jpeg)
+![](../.gitbook/assets/edge-types-update.jpg)
 

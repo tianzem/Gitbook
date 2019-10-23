@@ -1,6 +1,6 @@
 # In Support Projects
 
-All the `In Support` projects from Kespry and DroneDeploy are contained in this spreadsheet.
+Please refer to this documentation, and follow its procedures, for putting a project in\_support:
 
-[https://docs.google.com/spreadsheets/d/1WpOPiknY1jJheQPssPJpwXsIXtUqssAnFuThFYhPKe4/edit\#gid=0](https://docs.google.com/spreadsheets/d/1WpOPiknY1jJheQPssPJpwXsIXtUqssAnFuThFYhPKe4/edit#gid=0)
+[https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects](https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects)
 
