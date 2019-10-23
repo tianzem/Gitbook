@@ -23,5 +23,15 @@ description: >-
 
 **Edge Type Example - QA Project: 6573**
 
-![](../.gitbook/assets/edge-types-update.jpg)
+![standard singlefamily structure with assigned edge types](../.gitbook/assets/edge-types-update.jpg)
+
+## Special Case Valleys
+
+project 49213
+
+![](../.gitbook/assets/parallel-valleys.jpg)
+
+{% hint style="danger" %}
+Although these edges appear parallel to ground, in reality they are slightly sloped to prevent rain water from getting stuck. Therefore, they are Valleys instead of transitions. Another way to know that these are not transition edges is that a transition edge is parallel to ground with one plane above it and one plane below it. These edges have both connected planes above them, so they can't be transition.
+{% endhint %}
 
