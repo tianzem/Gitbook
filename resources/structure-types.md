@@ -69,6 +69,8 @@ Factories, churches/cathedrals, hotels, warehouses, restaurants, malls, offices,
 
 ![COMMERCIAL - Restaurant](../.gitbook/assets/commercial-2.gif)
 
+![COMMERCIAL - Clubhouse - no driveway, parking spaces connecting to the structure&apos;s pathways](../.gitbook/assets/commercial-or-something-else_49013.png)
+
 ![COMMERCIAL - Covered mailboxes in multifamily neighborhood](../.gitbook/assets/commercial-or-unknown_48331.png)
 
 ![COMMERCIAL - Small Store - used google maps to confirm](../.gitbook/assets/commercial_small_48468.png)
