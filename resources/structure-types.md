@@ -45,6 +45,10 @@ A structure that houses more than 1 family. This can be anything from a condomin
 
 ![MULTIFAMILY - large](../.gitbook/assets/multifamily_apartments_unknown-project-number.png)
 
+{% hint style="info" %}
+Occasionally there will be a point cloud of a multifamily structure \(like the one above\), but the ROI is only around one individual section/'house' of the structure. In this case the structure type would follow the ROI and become singlefamily instead of multifamily. The ROI would be around a single family portion of the multifamily structure.
+{% endhint %}
+
 ## MIXED
 
 {% hint style="warning" %}
