@@ -8,7 +8,7 @@ The 3D Preset button is the default view of the 3D Tool. Clicking it will automa
 
 The 2D Preset button will switch the view to 2D, and it will switch the Projection to Orthographic View. It will lock the point cloud to the true north direction on the grid of the View Cube, and the point cloud will be rotated and re-centered to match that direction. The projected view will automatically highlight the Orthographic Projection button instead of the Perspective Projection button.
 
-The Recenter Button will re-center the point cloud within the 3D Tool, and it will re-center it at whatever rotation angle the point cloud was previously left at.
+The Re-center Button will re-center the point cloud within the 3D Tool, and will rotate the cloud back to its original angle.
 
 The Perspective Projection button \(camera\) is the default projection view for the 3D Tool. When switching from 2D preset to 3D preset, the Perspective Projection button will automatically switch on as well. This is the view required to fully operate the 3D Tool.
 
