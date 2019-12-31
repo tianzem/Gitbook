@@ -6,9 +6,5 @@ description: >-
 
 # Special Cases
 
-Here are the articles in this section:
-
-{% hint style="info" %}
-This page is under construction to get a better layout.
-{% endhint %}
+The Special Cases section shows how to tackle different tricky geometry or scenarios within a given structure.
 

@@ -48,7 +48,7 @@ DATAPACKAGE\_JSON:
 
 ## 🔄Update - Project Issues - Project Type Mismatch
 
-{% page-ref page="../resources/project-issues.md" %}
+{% page-ref page="../project-issues.md" %}
 
 ## 🆕New - Images panel
 

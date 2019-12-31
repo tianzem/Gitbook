@@ -41,13 +41,13 @@ Please do not miss the secondary structure for DD label obstruction projects. Fo
 
 You will be able to find all the structure type example and introduction here:
 
-{% page-ref page="../resources/structure-types.md" %}
+{% page-ref page="../structure-types.md" %}
 
 ## 💉 Project Issues
 
 You will be able to find all the project issue example and introduction here:
 
-{% page-ref page="../resources/project-issues.md" %}
+{% page-ref page="../project-issues.md" %}
 
 ## 👮 Respect the reviewer feedback
 

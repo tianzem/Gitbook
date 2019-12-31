@@ -23,15 +23,25 @@ description: >-
 
 **Edge Type Example - QA Project: 6573**
 
-![standard singlefamily structure with assigned edge types](../.gitbook/assets/edge-types-update.jpg)
+![standard singlefamily structure with assigned edge types](.gitbook/assets/edge-types-update.jpg)
 
 ## Special Case Valleys
 
 project 49213
 
-![](../.gitbook/assets/parallel-valleys.jpg)
+![](.gitbook/assets/parallel-valleys.jpg)
 
 {% hint style="danger" %}
 Although these edges appear parallel to ground, in reality they are slightly sloped to prevent rain water from getting stuck. Therefore, they are Valleys instead of transitions. Another way to know that these are not transition edges is that a transition edge is parallel to ground with one plane above it and one plane below it. These edges have both connected planes above them, so they can't be transition.
+{% endhint %}
+
+## Special Case Parapets
+
+project 51087
+
+![](.gitbook/assets/small-sloped-parapet-edges_51087_12_6_19.png)
+
+{% hint style="danger" %}
+Usually we define a parapet edge as being parallel to ground and surrounded by a parapet wall. However, for cases like the structure above all edges would be Parapets. The 2 sloped edges are only slightly angled and the roof plane is all surrounded by a parapet wall.
 {% endhint %}
 
