@@ -52,7 +52,7 @@ DATAPACKAGE\_JSON:
 
 ## 🆕New - Images panel
 
-{% page-ref page="../images.md" %}
+{% page-ref page="../images/" %}
 
 ## 🆕New - Inspect Tool
 

@@ -20,7 +20,7 @@ This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool
 
 ![](.gitbook/assets/picture3.png)
 
-[Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
+[Inspector](properties.md), [Images](images/), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
 
 ![](.gitbook/assets/picture4%20%281%29.png)
 

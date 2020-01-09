@@ -6,7 +6,7 @@ description: >-
 
 # Advanced Functions
 
-![](../.gitbook/assets/picture3%20%282%29.png)
+![](../.gitbook/assets/adv-functions.png)
 
 Here are the pages in this section:
 

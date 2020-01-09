@@ -1,6 +1,6 @@
 # Snap Mode
 
-![](../.gitbook/assets/snap_mode.png)
+![](../.gitbook/assets/snap.png)
 
 ## None:
 
