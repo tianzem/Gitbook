@@ -1,4 +1,4 @@
-# Planes
+# Plane
 
 This layer controls the overall visibility of the planes/surfaces and also more detailed information such as Normals, Dimensions, and Annotations. The Planes layer does not include edges or vertices.
 
