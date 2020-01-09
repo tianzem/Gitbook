@@ -2,7 +2,7 @@
 
 This layer controls the visibility of the properties and dimensions of each vertex. 
 
-![](../.gitbook/assets/vertices-layer_project-18362.gif)
+![](../.gitbook/assets/vtx-2.gif)
 
-In the image above, the circled vertex has a default vertex Name of vertex 370. The default name and X, Y, Z dimensions show up for each selected vertex, but in this example the user has also added a label to the vertex as "V370". Vertex Labels is a sub-layer of the Vertices layer, and is useful to trigger it on/off when a specific vertex is trying to be found by quickly glancing at the overall wireframe.
+
 
