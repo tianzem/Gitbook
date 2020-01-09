@@ -1,4 +1,4 @@
-# Select
+# Widgets
 
 ![](../.gitbook/assets/select-button.png)
 

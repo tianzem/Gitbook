@@ -40,7 +40,7 @@ DATAPACKAGE\_JSON:
 
 ## 🔄Update - Eraser
 
-{% page-ref page="../advanced-function/eraser.md" %}
+{% page-ref page="../basic-function/eraser-1.md" %}
 
 ## 🔄Update - Validation - Parent/Child Plane Shared Edges
 

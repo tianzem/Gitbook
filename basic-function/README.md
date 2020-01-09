@@ -6,18 +6,22 @@ description: >-
 
 # Basic Functions
 
-![](../.gitbook/assets/basic-functions-toolbar.png)
+![Basic functions](../.gitbook/assets/picture2.png)
 
 * [Save & Save As](save-as.md)
 * [Import](import.md)
 * [Export](export.md)
 * [Undo](undo.md)
-* [Select](select.md)
-* [Create](create.md)
-* [Modify](modify.md)
-* [Delete](delete.md)
-* [Align](align.md)
 * [Inspect](inspect.md)
-
-
+* Geometry
+  * [Select](select.md)
+  * [Create](geometry/create.md)
+  * [Modify](geometry/modify.md)
+  * [Delete](geometry/delete.md)
+  * [Align](geometry/align.md)
+* Rectangle
+* Polygon
+* Widgets
+* Eraser
+* Measure
 

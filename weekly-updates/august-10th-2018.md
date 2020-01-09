@@ -21,7 +21,7 @@ For the Tesla jobs can you guys please do all structures on the property. Look b
 Please do not miss the secondary structure for DD label obstruction projects. Following are some examples, in which we have missed the minor structure/garage during the last three months.
 {% endhint %}
 
-![Missing Secondary Structure](../.gitbook/assets/image%20%282%29.png)
+![Missing Secondary Structure](../.gitbook/assets/image%20%283%29.png)
 
 ![Missing Secondary Structure](../.gitbook/assets/screen-shot-2018-07-25-at-8.00.06-am.png)
 

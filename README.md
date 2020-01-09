@@ -1,41 +1,40 @@
 # Introduction
 
-This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.  
-It contains the full documentation for `Pointivo Viewer v794`.
+This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool`.
 
-## What is in this docummentation?
-
-![](.gitbook/assets/main-toolbar.png)
+## What is in this documentation?
 
 ### **There are several sections within this user guide.**
 
-![](.gitbook/assets/basic-functions-toolbar.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 [Basic Functions](basic-function/) include all of the basic functions in the tool.
 
-![](.gitbook/assets/vertex-and-surface-mode.png)
+![](.gitbook/assets/picture2%20%281%29.png)
 
 [Mode](mode/) includes the different functions related to the surfaces and wireframe.
 
-![](.gitbook/assets/advanced-functions-toolbar.png)
+![](.gitbook/assets/vertex-and-surface-mode.png)
 
 [Advanced Functions](advanced-function/) gives a detailed explanation of the advanced functions.
 
-![](.gitbook/assets/verification-toolbar%20%282%29.png)
+![](.gitbook/assets/picture3.png)
 
 [Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
 
-![](.gitbook/assets/3d-2d-camera-and-ortho-buttons.png)
+![](.gitbook/assets/picture4%20%281%29.png)
 
 The [Preset & Projection View](preset-and-projection-view.md) buttons allow users to control the viewport's dimension and camera type settings.
 
-![](.gitbook/assets/viewcube-icon_nothing-selected.png)
+![](.gitbook/assets/picture5.png)
 
 The [View Cube](view-cube.md) is the compass of the 3D viewport.
 
+![](.gitbook/assets/picture6%20%281%29.png)
+
 [Settings](settings.md) is the panel in the top right corner.
 
-![](.gitbook/assets/settings-panel.png)
+![](.gitbook/assets/p8.png)
 
 [Special Cases](special-cases/) demonstrates how to deal with difficult cases you may encounter during your experience.
 
@@ -44,13 +43,4 @@ The [View Cube](view-cube.md) is the compass of the 3D viewport.
 [Weekly Updates](weekly-updates/) The updates per week.
 
 [Deprecated](deprecated/) Recycle Bin
-
-## Help and Support
-
-We are passionate about this technology and even more passionate talking about it. If you’re interested in what we are doing, think it’s cool, or have an idea to give our technology the ability to see through walls, then please feel free to [reach out](http://pointivo.com/contact/).
-
-## Contact Info
-
-3400 Peachtree Rd NE, Atlanta, GA 30326, Suite 700 \(678\) 801-6223  
-team@pointivo.com
 
