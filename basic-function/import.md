@@ -8,5 +8,12 @@ Import is mainly used when dealing with duplicate projects. When a project is a 
 
 Import can also be used to salvage a wireframe, when there are errors in the tool that won't allow the wireframe to be saved. The user can export the wireframe, while still inside the project, then close the project or refresh the window. When the project reloads, the wireframe can be imported back into the project and the user won't lose any work.
 
-How to notice a duplicate project, and locate the original:
+#### How to notice a duplicate project, and locate the original:
+
+* Duplicate projects will have the address in red font, instead of black, in the Location section on the intranet.
+* The Location button will also have red font, instead of black, and it will have numbers, like 1/1 or 1/2. These numbers denote how many duplicate projects there are, with the same address, and how many projects with nearby addresses \(not duplicates\) 
+
+![](../.gitbook/assets/location-image-with-text.png)
+
+* Users can copy the address from the Location section, and paste it into the Address column of the intranet queue. This will bring up all of the projects with that same address.
 
