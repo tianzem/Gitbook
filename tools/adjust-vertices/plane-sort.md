@@ -1,6 +1,6 @@
 # Plane Sort
 
-![](../../.gitbook/assets/plane-sort-button.png)
+![](../../.gitbook/assets/plane-sort.png)
 
 In the top right corner of the vertex list, there is a button that allows users to utilize Plane Sort and control the visibility of the different columns in the [Adjust Vertices](./) tab.
 

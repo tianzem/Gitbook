@@ -6,7 +6,7 @@ description: Adjust Vertices is the main panel used to adjust the vertices.
 
 Adjust Vertices is the first tab within the Tools panel. It is used to adjust and verify the placement location of the vertices.
 
-![](../../.gitbook/assets/tool_adjust-vertices-tab_qaproject8583%20%281%29.gif)
+![](../../.gitbook/assets/adj-vert.png)
 
 Open the Adjust Vertices panel and click the vertex that needs adjusting. Use the triangulation options and Plane Sort along with the 2D images to adjust the vertex into the correct location. 
 

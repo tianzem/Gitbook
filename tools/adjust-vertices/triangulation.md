@@ -6,7 +6,7 @@ description: >-
 
 # Triangulation
 
-![](../../.gitbook/assets/triangulation-buttons.png)
+![](../../.gitbook/assets/triangulation-01.png)
 
 1. 1 Image + Locked Plane: Lock a plane first before changing the Triangulation to this mode. Under this mode, only 1 image is needed to adjust the vertex. The vertex will be fixed on the locked plane, and its location will be changed based on the selected 2D target.
 2. 2 Images: The default triangulation is 2 Images, the location of the vertices can be changed on two images to adjust the vertex. The vertex location will be projected on the third image at the same time. Remember to `Scroll` the images to find the best one.
