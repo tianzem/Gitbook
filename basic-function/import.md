@@ -15,5 +15,5 @@ Import can also be used to salvage a wireframe when there are errors in the tool
 
 ![](../.gitbook/assets/location-image-with-text.png)
 
-* Users can copy the address from the Location section, and paste it into the Address column of the intranet queue. This will bring up all of the projects with that same address.
+* Users can copy the address, from the Location section, and paste it into the Address column of the intranet queue. This will bring up all of the projects with that same address, and the original project's wireframe.json can be exported from there.
 
