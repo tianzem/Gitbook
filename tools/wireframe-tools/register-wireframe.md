@@ -9,11 +9,11 @@ When an imported wireframe does not automatically snap to the point cloud \(due 
 3. Repeat Step 2 for each different vertex, until there are 4 new edges.
    * There can be more than 4 vertices/edges created.
    * Try to place these new vertices on multiple levels of the point cloud.
-     * connecting them on differing plane levels, will yield better results in the registration.
+     * Connecting them on differing plane levels, will yield better results in the registration.
 
 ![](../../.gitbook/assets/register.jpg)
 
-1. Hold `Ctrl` to select all newly created edges, and click the Register Wireframe button in the Tools tab of Properties.
+1. Hold `Ctrl` and left-click each edge to select all newly created edges. Then click the Register Wireframe button in the Wireframe Tools tab of the Tools section.
 
 ![](../../.gitbook/assets/registerwireframe_proj18055_11_2018.gif)
 
