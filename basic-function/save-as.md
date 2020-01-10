@@ -1,14 +1,14 @@
 # Save & Save As
 
-![hotkey: Ctrl + s](../.gitbook/assets/save-button.png)
+![hotkey: Ctrl + S](../.gitbook/assets/save-button.png)
 
-Saves the current wireframe into the working qa branch, generates a new sequential version number, and also saves a wireframe.json under s3://pointivo-projects/ProjectID/out/WIREFRAME
+Saves the current wireframe into the working qa branch, and generates a new sequential version number.
 
 
 
-![](../.gitbook/assets/save-as-button.png)
+![No hotkey](../.gitbook/assets/save-as-button.png)
 
-Save As will save the current wireframe into another branch if you switch to, or create, a different Tag name. It will generate a new sequential version number, and it also saves a wireframe.json under s3://pointivo-projects/ProjectID/out/WIREFRAME
+Save As will save the current wireframe into another branch if you select, or create, a different Branch. In the "Save Wireframe" pop-up window, click the dropdown box next to Branch and type the new branch name. Hit Save, and it will generate a new sequential version number.
 
 ![](../.gitbook/assets/picture10.png)
 
