@@ -4,6 +4,8 @@ description: Layers gives an introduction to the optional layers.
 
 # Layers
 
+
+
 ![](../.gitbook/assets/layers-button.png)
 
 The different layers can be turned on and off.
@@ -12,7 +14,7 @@ The different layers can be turned on and off.
 
 -[Wireframe](wireframe.md): The entire wireframe including all of the dimensions and planes.
 
--Bounding boxes
+-[Bounding boxes](https://app.gitbook.com/@pointivo/s/user-guide/~/drafts/-LyDP5O381QEuYTFEsMI/layers/bounding-boxes)
 
 -[Vertices](vertices.md): The connecting points within a wireframe.  
    --Vertex Labels:   
@@ -32,7 +34,7 @@ The different layers can be turned on and off.
       --Plane Annotations: Annotations that have been added to a plane  
    --Plane Normals:
 
--Widget  
+-[Widget](https://app.gitbook.com/@pointivo/s/user-guide/layers/widget)  
    --Widget Labels  
        --Widget Name  
        --Widget Annotations   

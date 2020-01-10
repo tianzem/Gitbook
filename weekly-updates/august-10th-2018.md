@@ -47,7 +47,7 @@ You will be able to find all the structure type example and introduction here:
 
 You will be able to find all the project issue example and introduction here:
 
-{% page-ref page="../project-issues.md" %}
+{% page-ref page="../project/project-issues.md" %}
 
 ## 👮 Respect the reviewer feedback
 
