@@ -15,7 +15,7 @@ When an imported wireframe does not automatically snap to the point cloud \(due 
 
 1. Hold `Ctrl` and left-click each edge to select all newly created edges. Then click the Register Wireframe button in the Wireframe Tools tab of the Tools section.
 
-![](../../../.gitbook/assets/registerwireframe_proj18055_11_2018.gif)
+![](../../../.gitbook/assets/wireframe-register.gif)
 
 {% hint style="info" %}
 The vertices of the wireframe being registered will already be verified from the original project it was exported from. The vertices will still need to be checked after clicking Register Wireframe to re-verify that they are in the correct location. Adjust Vertices may need to be used to tweak some of the vertex locations to make them more accurate. This is why it is important to ensure that the endpoint vertex location is accurate before clicking Register Wireframe.
