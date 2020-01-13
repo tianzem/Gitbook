@@ -7,7 +7,7 @@ description: >-
 
 # Lock Mode
 
-![](../.gitbook/assets/lock-mode.png)
+![no Hotkey available](../.gitbook/assets/lock-mode.png)
 
 Lock Mode is an advanced setting that allows users to lock an edge, or plane, and then edit/create an vertices, edges, or planes in a location that is parallel to the locked edge or plane. This function is useful when dealing with broken/noisy point clouds. 
 
