@@ -2,7 +2,7 @@
 
 When an imported wireframe does not automatically snap to the point cloud \(due to differing coordinates\), the Register Wireframe feature can be used to automatically move, rotate, and snap the wireframe onto the point cloud.
 
-![](../../../.gitbook/assets/register-wireframe-button.png)
+![](../../../.gitbook/assets/register.png)
 
 1. Create a new edge from one of the vertices on the imported wireframe, and connect it to the same location it should be on in the point cloud. 
 2. Then use [Adjust Vertices](../../adjust-vertices/), with 2image or 3image triangulation, to adjust the endpoint on the cloud and ensure it is in the accurate location.
