@@ -6,7 +6,7 @@
 
 The Detect Penetrations button, in the Wireframe Tools subgroup, is going to detect all of the penetrations automatically.
 
-![](../../../.gitbook/assets/detect-penetrations-button_qaproject8583.gif)
+![](../../../.gitbook/assets/detect-penetrations-button_qaproject8583.jpg)
 
 Under a new Branch called Penetrations, there will be a new version with Penetrations
 
