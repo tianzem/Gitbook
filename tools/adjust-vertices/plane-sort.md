@@ -12,7 +12,7 @@ Sometimes issues arrive in a plane and it no longer matches the point cloud. The
 
 To exit Plane Sort, the user can click on any column to resort back to the original vertices list. The box underneath the Snap drop-down menu, in the main toolbar, can be unchecked to turn off AutoLock.
 
-![](../../.gitbook/assets/planesort_proj18572_11_2018_two.gif)
+![](../../.gitbook/assets/plane-sort-2.gif)
 
 {% hint style="danger" %}
 When using Plane Sort to adjust the vertex, first you need to make sure all of the planes are reliable.
