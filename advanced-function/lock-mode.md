@@ -1,7 +1,7 @@
 ---
 description: >-
-  Lock Mode is an advanced setting that allows the user to lock a specific edge
-  or surface, then edit/create any vertices, edges, or planes in a location that
+  Lock Mode is an advanced setting that allows the user to lock a specific edge,
+  or plane, then edit/create any vertices, edges, or planes in a location that
   is parallel to the locked edge or surface.
 ---
 
