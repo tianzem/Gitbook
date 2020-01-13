@@ -2,8 +2,8 @@
 
 ![hotkey: hold Shift](../../.gitbook/assets/align-button.png)
 
-1. Under [Modify](modify.md), and [Surface Mode](../../mode/surface-mode.md), select the plane that the edge will be fixed to and press `Space` to lock it. \(this step is optional, but it ensures the edges are aligned on a fixed plane\)
-2. Under [Modify](modify.md), and [Vertex Mode](../../mode/vertex-mode.md), select the edge \(or Hold `Ctrl` to select multiple edges\) requiring alignment.
+1. Under [Modify](modify.md), and [Surface Mode](), select the plane that the edge will be fixed to and press `Space` to lock it. \(this step is optional, but it ensures the edges are aligned on a fixed plane\)
+2. Under [Modify](modify.md), and [Vertex Mode](), select the edge \(or Hold `Ctrl` to select multiple edges\) requiring alignment.
 3. Click the Align button, or press and hold `Shift` to change to Align mode, then click on the Target edge.
 4. The edges you selected in Step 2 will be aligned with the Target edge you selected in Step 3. They will also be fixed to the plane you locked in Step 1.
 

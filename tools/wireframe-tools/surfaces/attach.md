@@ -1,6 +1,6 @@
 # Attach
 
-1. Under [Surface Mode](../../../mode/surface-mode.md), [Select](../../../basic-function/select.md) or hold `Ctrl` and click to multi-select the upper planes that are going to be attached to the lower plane.
+1. Under [Surface Mode](), [Select](../../../basic-function/select.md) or hold `Ctrl` and click to multi-select the upper planes that are going to be attached to the lower plane.
 
 ![](../../../.gitbook/assets/attach1.png)
 

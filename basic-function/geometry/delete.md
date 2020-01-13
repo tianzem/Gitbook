@@ -9,7 +9,7 @@ If the Delete button is used, instead of the hotkey, then the tool will stay in 
 If the Delete hotkey is used, then the tool will default back to Modify as soon as the hotkeys are released.
 
 {% hint style="info" %}
-The delete function can only be used in [Vertex mode](../../mode/vertex-mode.md). Nothing will be deleted if the tool is in [Surface mode](../../mode/surface-mode.md)
+The delete function can only be used in [Vertex mode](). Nothing will be deleted if the tool is in [Surface mode]()
 {% endhint %}
 
 [Eraser](../eraser-1.md) and [Erase All](../../tools/wireframe-tools/wireframe/erase-all.md) are other functions with the capability to delete multiple vertices.
