@@ -7,6 +7,8 @@ The Detect Cutouts button will detect all of the cutouts in the scene and will [
 
 ![](../../../.gitbook/assets/dormers.png)
 
+![](../../../.gitbook/assets/detect-cutout.gif)
+
 * In the Wireframe Tools tab of the Tools panel, click Detect Cutouts. The base of the dormer automatically be wireframed as a cutout of the parent plane.
 * After saving and generating the resources, make sure to double check that the dormer cutouts were detected in the GeoJSON.
 
