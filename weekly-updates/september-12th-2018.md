@@ -44,7 +44,7 @@ DATAPACKAGE\_JSON:
 
 ## 🔄Update - Validation - Parent/Child Plane Shared Edges
 
-{% page-ref page="../tools/wireframe-tools/validate.md" %}
+{% page-ref page="../tools/wireframe-tools/wireframe/validate.md" %}
 
 ## 🔄Update - Project Issues - Project Type Mismatch
 

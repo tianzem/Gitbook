@@ -5,7 +5,7 @@ Penetrations are required for Tesla projects only. You will see "label obstructi
 {% endhint %}
 
 1. Finish the entire roof first before starting the penetrations.
-2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure that none of the penetrations are missed on this plane. Hold `Ctrl+Alt` and hover the mouse on the plane. Notice that the primary edge is highlighted \(you could [Set Primary Edge](../tools/wireframe-tools/set-primary-edge.md) here\). Left-click to draw the anchor vertex, drag the mouse to change the size of the cutout and left-click again to place the location of the diagonal vertex.
+2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure that none of the penetrations are missed on this plane. Hold `Ctrl+Alt` and hover the mouse on the plane. Notice that the primary edge is highlighted \(you could [Set Primary Edge](../tools/wireframe-tools/surfaces/set-primary-edge.md) here\). Left-click to draw the anchor vertex, drag the mouse to change the size of the cutout and left-click again to place the location of the diagonal vertex.
 
    ![](../.gitbook/assets/penetrationpage-image1-update_project18479.gif)
 
@@ -18,7 +18,7 @@ Penetrations are required for Tesla projects only. You will see "label obstructi
    ![](../.gitbook/assets/penetrationpage-image3-update_project18479.gif)
 
 5. Open the [Adjust Vertices](../tools/adjust-vertices/) panel and check every plane, one by one, in the 2D images to make sure there are no missing penetrations. \(Any immobile obstruction which has a potential affect on setting up a solar panel should be treated as a penetration, including satellite dishes and pipes\)
-6. Click [Detect Edge Types](../tools/wireframe-tools/detect-edge-types.md) and and all of the penetration edges will turn to Step Flashing if they are attached correctly. Keep in mind that chimney edges will also automatically be detected as Step Flashing and they will need to be manually changed to Flashing.
+6. Click [Detect Edge Types](../tools/wireframe-tools/wireframe/detect-edge-types.md) and and all of the penetration edges will turn to Step Flashing if they are attached correctly. Keep in mind that chimney edges will also automatically be detected as Step Flashing and they will need to be manually changed to Flashing.
 
    ![](../.gitbook/assets/penetrationpage-image4-update_project18479.gif)
 
