@@ -8,7 +8,7 @@ description: Settings is the panel in the left top corner.
 
 Clicking the gear, in the top right corner of the window, opens the Settings menu:
 
-![](.gitbook/assets/settings-panel-big.png)
+![](.gitbook/assets/settings.png)
 
 * Unit of Measure:
 * Slope Display Unit:
