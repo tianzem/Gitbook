@@ -8,11 +8,11 @@ If the Create button is used, then a new vertex will be created after each left-
 
 To use the hotkey: Press and hold Alt + left-click anywhere on the point cloud. Then, while still holding Alt, drag the mouse to another location and left-click on the point cloud again. This creates a connecting edge between the two vertices and will continue to create vertices/edges for as long as these steps are being executed. To end the connection, right-click anywhere in the 3D window. When Alt is released, the Create function will turn off and the tool will default back to Modify. 
 
-{% hint style="warning" %}
-Create only works when in Vertex mode. Nothing will be created when the tool is in Surface mode.
+{% hint style="info" %}
+[Snap mode](../../advanced-function/snap-mode.md) also affects the location, and placement, when creating vertices. 
 {% endhint %}
 
-{% hint style="info" %}
-Snap mode will also affect the location of the created vertices. If Point Cloud snap mode is on, then the created vertices will snap to the cloud upon first click. If Locked Geometry snap mode is on, then the created vertices will snap
+{% hint style="warning" %}
+Create only works when the tool is in Vertex mode. Nothing will be created when the tool is in Surface mode.
 {% endhint %}
 

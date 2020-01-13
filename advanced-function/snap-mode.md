@@ -12,5 +12,5 @@ The selected vertex will be dropped onto the nearest point in the point cloud. U
 
 ## Locked Geometry:
 
-This mode is only active, and automatically activated, when a plane is locked. All movements will be fixed on the locked plane, or will be fixed on the co-planar of the locked plane.
+This mode is only active, and automatically activated, when a plane or edge is locked. All movements will be fixed on the locked plane/edge, or they will be fixed on the co-planar of the locked plane/edge.
 
