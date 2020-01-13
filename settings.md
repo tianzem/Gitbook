@@ -14,7 +14,9 @@ Clicking the gear, in the top right corner of the window, opens the Settings men
 * Slope Display Unit:
 * Wireframe Vertex Size:
 * Wireframe Edge Size: 
+* Edge Label Size:
 * Point Cloud Point Size: 
+* Eraser Radius:
 * Features: 
   * Enable Smart Zoom: 
 * Images: 
@@ -24,6 +26,7 @@ Clicking the gear, in the top right corner of the window, opens the Settings men
   * Popup Notifications: 
 * Viewport:
   * Camera Type: 
+  * Anti-Aliasing
 * Pointcloud: 
   * Elevation Reference: 
   * Elevation Correction: 
