@@ -1,6 +1,10 @@
 # Modify
 
-![hotkey: tap Alt OR Shift](../../.gitbook/assets/modify-button.png)
+![hotkey: tap Alt OR tap Shift](../../.gitbook/assets/modify-button.png)
 
-Under Modify mode, users can rotate/pan the entire model. The vertices, edges, and surfaces/planes can be created and edited too.
+Modify is similar to Select, but with more functionality. Unlike Select, in Modify the vertices, edges, and surfaces can be selected, adjusted, created, and deleted. The model can be rotated and panned as well. Surface vs Vertex mode affects Modify. If the tool is in Vertex mode, then no planes can be altered or selected. If the tool is in Surface mode, then no vertices/edges can be altered or selected.
+
+{% hint style="info" %}
+The Modify hotkey \(tap Alt or Shift\) can be used to return to Modify mode when the tool is set to Select, Create, Delete, or Align.
+{% endhint %}
 
