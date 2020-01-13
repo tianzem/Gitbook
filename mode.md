@@ -6,7 +6,7 @@ description: Mode includes the different functions related to the surfaces and w
 
 ![](.gitbook/assets/vertex-and-surface-mode.png)
 
-There are 2 modes available in the 3D tool: Vertex and Surface -- Edges are part of Vertex mode. These modes are important because they determine what a user is able to select, and manipulate, in the 3D tool. It is important to ensure you are in the correct mode when altering vertices, edges, and surfaces. Functions under Surface mode will not work on surfaces if the tool is in Vertex mode, and vice versa.
+There are 2 modes available in the 3D tool: Vertex and Surface -- edges are included in Vertex mode. These modes are important because they determine what a user is able to select, and manipulate, in the 3D tool. It is important to ensure you are in the correct mode when altering vertices, edges, and surfaces. Functions under Surface mode will not work on surfaces if the tool is in Vertex mode, and vice versa.
 
 ![hotkey: 1](.gitbook/assets/vertex-button%20%282%29.png)
 
