@@ -4,7 +4,7 @@ description: 'Hotkey: P'
 
 # Point Clouds
 
-The Point Clouds layer controls the visibility of the point cloud and any sub-layers it may include -- 'Ground' and 'Structure' are common sub-layers. The sub-layers allow users to turn off smaller sections of the point cloud, without turning off the entire thing. This can be useful on large point clouds that cause the project to lag. Turning off part, or all, of the point cloud will increase the speed of the tool. The video below only has a main Point Clouds layer, no sub-layers.
+The Point Clouds layer controls the visibility of the point cloud and any sub-layers it may include -- 'Ground' and 'Structure' are common sub-layers. The sub-layers allow users to turn off smaller sections of the point cloud, without turning off the entire thing. This can be useful on large point clouds that cause the project to lag. Turning off part, or all, of the point cloud will increase the speed of the tool. The video below only has a main Point Clouds layer, no sub-layers. The Point Clouds layer is on by default for all projects.
 
 ![](../.gitbook/assets/pc.gif)
 

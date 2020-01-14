@@ -1,5 +1,5 @@
 ---
-description: No hotkey available.
+description: No hotkey available
 ---
 
 # Vertex

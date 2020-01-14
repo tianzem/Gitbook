@@ -1,6 +1,10 @@
+---
+description: No hotkey available
+---
+
 # Bounding Boxes
 
 {% hint style="info" %}
-Ignore this feature for now.
+Ignore this layer for now.
 {% endhint %}
 

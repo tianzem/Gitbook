@@ -1,5 +1,5 @@
 ---
-description: No hotkey available for this layer
+description: No hotkey available
 ---
 
 # Cameras

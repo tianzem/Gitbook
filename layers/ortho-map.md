@@ -1,6 +1,10 @@
+---
+description: 'Hotkey: O'
+---
+
 # Ortho Map
 
-This layer controls the visibility of both the Street Map and Satellite view sub-layers of the Ortho Map Layer.
+The Ortho Map layer controls the visibility of both the Street Map and Satellite view sub-layers of the Ortho Map Layer.
 
 ![Layer: Ortho Map - Street Map](../.gitbook/assets/ortho-map-street-map-layer_project18426.gif)
 
