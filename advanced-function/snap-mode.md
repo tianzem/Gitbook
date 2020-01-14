@@ -1,6 +1,6 @@
 # Snap Mode
 
-![](../.gitbook/assets/snap.png)
+![No hotkey available](../.gitbook/assets/snap.png)
 
 Snap mode affects vertex, edge, and plane manipulation in the 3D window. For vertices, all 3 snap modes affects vertex manipulation. For edges and surfaces, only Locked Geometry affects the edge and/or surface manipulation. If Locked Geometry is off, leaving either None or Point Cloud snap on, then the surfaces and edges can be moved in any direction without being snapped to the cloud.
 

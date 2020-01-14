@@ -6,11 +6,15 @@ This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool
 
 ### **There are several sections within this user guide.**
 
-![](.gitbook/assets/image%20%281%29.png)
+![Toolbar Overall](.gitbook/assets/image%20%281%29.png)
 
-[Basic Functions](basic-function/) include all of the basic functions in the tool.
+[Basic Functions](basic-function/) provides a breakdown of all of the basic functions in the tool:
 
-![](.gitbook/assets/picture2%20%281%29.png)
+![](.gitbook/assets/basic-funtions.png)
+
+[3D Scene Manipulation Tools](3d-scene-manipulation-tools/) include all of the necessary tools to create and alter a wireframe:
+
+![](.gitbook/assets/3d-scene-manipulation-tools.png)
 
 [Mode](mode.md) describes the two main settings/modes for wireframing: Vertex Mode and Surface Mode.
 

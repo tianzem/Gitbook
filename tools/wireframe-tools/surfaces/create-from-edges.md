@@ -1,6 +1,6 @@
 # Create from Edges
 
-1. [Select](../../../basic-function/select.md), or hold `Ctrl` and click to multi-select, all of the edges that should have formed a plane but were not detected as a plane for some reason.
+1. [Select](../../../3d-scene-manipulation-tools/select.md), or hold `Ctrl` and click to multi-select, all of the edges that should have formed a plane but were not detected as a plane for some reason.
 
 ![](../../../.gitbook/assets/createfromedges1.png)
 

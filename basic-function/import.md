@@ -1,6 +1,6 @@
 # Import
 
-![](../.gitbook/assets/import-button.png)
+![No hotkey available](../.gitbook/assets/import-button.png)
 
 Click Import to upload a previously exported wireframe into a project.
 

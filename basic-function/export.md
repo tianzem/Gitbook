@@ -1,6 +1,6 @@
 # Export
 
-![](../.gitbook/assets/export-button.png)
+![No hotkey available](../.gitbook/assets/export-button.png)
 
 Export will download the current wireframe.json. This function can be used when there are issues while working on a project, i.e. loss of internet, or an error while trying to save a wireframe. Exporting the wireframe allows the user to close the project, reopen it, import the exported wireframe, and then continue working on the project. Exporting can also be used when there is a duplicate of a past project. Users will export the wireframe from the original project, import it into the duplicate project, and then register the wireframe onto the duplicate point cloud. This ensures that the duplicate structure has the same dimensions, and geometry, in both projects.
 

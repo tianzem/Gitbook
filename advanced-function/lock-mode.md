@@ -7,7 +7,7 @@ description: >-
 
 # Lock Mode
 
-![no Hotkey available](../.gitbook/assets/lock-mode.png)
+![No hotkey available](../.gitbook/assets/lock-mode.png)
 
 Lock Mode is an advanced setting that allows users to lock an edge, or plane, and then edit/create an vertices, edges, or planes in a location that is parallel to the locked edge or plane. This function is useful when dealing with broken/noisy point clouds. 
 
@@ -15,8 +15,8 @@ On certain broken clouds there will be underhangs that are visible, but may be t
 
 ## Lock Mode - Edge
 
-1. Under [Modify](../basic-function/geometry/modify.md) and [Vertex Mode](../mode.md), select an edge for the vertices to lock onto and press `Space` to lock the edge.
-2. Under [Modify](../basic-function/geometry/modify.md) and [Vertex Mode](../mode.md), Click and Drag a vertex in the 3D tool. 
+1. Under [Modify](../3d-scene-manipulation-tools/geometry/modify.md) and [Vertex Mode](../mode.md), select an edge for the vertices to lock onto and press `Space` to lock the edge.
+2. Under [Modify](../3d-scene-manipulation-tools/geometry/modify.md) and [Vertex Mode](../mode.md), Click and Drag a vertex in the 3D tool. 
 3. When Lock Mode is off \(default\), the vertex can be only moved on the locked edge.
 4. When Lock Mode is on, the vertex can be only moved in a parallel direction to the locked edge.
 
@@ -30,8 +30,8 @@ In the above video, Lock Mode is on and one of the edges is locked. When the ver
 
 ## Lock Mode - Surface
 
-1. Under [Modify](../basic-function/geometry/modify.md) and [Surface Mode](../mode.md), select a plane to lock a vertex onto and press `Space` to lock the plane.
-2. Under [Modify](../basic-function/geometry/modify.md) and [Vertex Mode](../mode.md), Hold and Drag the vertex in the 3D tool. 
+1. Under [Modify](../3d-scene-manipulation-tools/geometry/modify.md) and [Surface Mode](../mode.md), select a plane to lock a vertex onto and press `Space` to lock the plane.
+2. Under [Modify](../3d-scene-manipulation-tools/geometry/modify.md) and [Vertex Mode](../mode.md), Hold and Drag the vertex in the 3D tool. 
 3. When Lock Mode is off \(default\). The vertex can be only moved on the locked plane.
 4. When Lock Mode is on. The vertex can be only moved in a parallel/co-planar direction to the locked plane.
 

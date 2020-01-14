@@ -2,7 +2,7 @@
 
 > Tree shadows will destroy a part of the point cloud, usually it will be a corner.
 
-1. [Create](../basic-function/geometry/create.md) the two uncompleted edges near the corner.
+1. [Create](../3d-scene-manipulation-tools/geometry/create.md) the two uncompleted edges near the corner.
 
    ![](../.gitbook/assets/2.jpg)
 
