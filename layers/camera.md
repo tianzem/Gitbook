@@ -1,14 +1,16 @@
+---
+description: No hotkey available for this layer
+---
+
 # Cameras
 
-This layer controls the visibility of the cameras in relation to the point cloud.
+This layer controls the visibility of the project's Cameras in relation to the point cloud. When there is no [ROI](region-of-interest.md) in a project, or if the ROI is unclear, the Cameras layer can be used to determine which structure they are predominately above.
 
-All of the camera locations will be seen above the 3D point cloud when the Camera layer is on. If a user selects one of the red cameras, then the relative camera view will be updated in the 2D viewport.
+When the Cameras layer is on, all of the camera locations will be seen as red pyramids floating above the point cloud. This can be seen in the first video below.
 
 ![](../.gitbook/assets/cameras.gif)
 
-The camera locations/views available for each vertex can also be viewed. Select a vertex, then click on the white square icon beside each 2D image in the Adjust Vertices panel.
+Hovering over one of the cameras will show a 2D image sample of what is visible from that camera. Double-clicking on a camera will manipulate the 3D viewport to be zoomed-in on the specific section of point cloud covered by that camera. This action is shown in the video below:
 
 ![](../.gitbook/assets/cam-ortho.gif)
-
-In the image above, the vertex in the yellow circle is selected and the 2D images correspond to that vertex. After clicking on the white box on the left of the first 2D image, the Cameras layer automatically turns on. The red cameras will be the only cameras with images/frames of the selected vertex. All of the other cameras will be greyed-out. Selecting any of the red highlighted cameras will change the frame of the 2D image to match the selected camera.
 
