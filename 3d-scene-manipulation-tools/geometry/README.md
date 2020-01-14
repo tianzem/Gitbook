@@ -1,6 +1,8 @@
 # Geometry
 
-The Geometry panel must be selected in order to use any of the main 3D scene tools, such as:
+{% hint style="warning" %}
+The Geometry panel must be active/selected in order to use any of the main 3D scene tools.
+{% endhint %}
 
 * [Select](select.md)
 * [Create](create.md)
