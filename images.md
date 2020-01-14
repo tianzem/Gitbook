@@ -1,12 +1,12 @@
 # Images
 
-![](.gitbook/assets/images-s.png)
+![No hotkey available](.gitbook/assets/images-button.png)
 
-When the Images panel is opened, users will see all of the 2D images \(including the Ortho image\) along with all of the camera locations. This is where the 2D annotations will be completed. A more detailed training/workflow will be added soon.
+In order to use this panel, the [Inspect panel](basic-function/inspect.md) must also be utilized. When the Images panel is opened, and Inspect, users will see all of the 2D images that have a view of the inspected location. In the upper right corner of the Images panel, there will be a number of items listed. That number shows how many images, of the inspected area, are available. Double-clicking on any of the 2D images will expand it to full-screen view. The red 'Inspect' dot will also appear in each available image.
 
-#### Collection
+{% hint style="warning" %}
+Refer to the [Inspect](basic-function/inspect.md) section of the User Guide to get more details on how these two panels work together.
+{% endhint %}
 
-#### Views
-
-![](.gitbook/assets/images.png)
+![](.gitbook/assets/images-panel-layout.png)
 
