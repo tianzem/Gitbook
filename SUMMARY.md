@@ -81,7 +81,7 @@
 * [Preset & Projection View](preset-and-projection-view.md)
 * [View Cube](view-cube.md)
 * [Settings](settings.md)
-* [Edge Types](edge-types.md)
+* [Edge Types & Requirements](edge-types.md)
 * [Structure Types](structure-types.md)
 * [Special Cases](special-cases/README.md)
   * [Overhang](special-cases/overhang.md)

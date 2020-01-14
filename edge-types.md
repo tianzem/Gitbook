@@ -1,11 +1,15 @@
 ---
 description: >-
-  There are a variety of Edge Types available in the 3D tool, and each of them
-  are used to distinguish different parts of the roof. This page lists the
-  requirements for each edge type.
+  Each edge type is used to distinguish different parts of a roof. This page
+  lists the requirements for each edge type, as well as how to handle special
+  cases.
 ---
 
-# Edge Types
+# Edge Types & Requirements
+
+{% hint style="info" %}
+For information on the how to change edge types, and view all of a specific type at once, please refer to the [Edges panel](edges.md) section of the User Guide.
+{% endhint %}
 
 **Common Edge Types**
 
@@ -23,7 +27,7 @@ description: >-
 
 **Edge Type Example - QA Project: 6573**
 
-![standard singlefamily structure with assigned edge types](.gitbook/assets/edge-types-update.jpg)
+![Singlefamily structure with assigned edge types](.gitbook/assets/edge-types-update.jpg)
 
 ## Special Case Valleys
 
