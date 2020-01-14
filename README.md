@@ -12,7 +12,7 @@ This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool
 
 ![](.gitbook/assets/picture2%20%281%29.png)
 
-[Mode](mode.md) includes the different functions related to the surfaces and wireframe.
+[Mode](mode.md) describes the two main settings/modes for wireframing: Vertex Mode and Surface Mode.
 
 ![](.gitbook/assets/vertex-and-surface-mode.png)
 
