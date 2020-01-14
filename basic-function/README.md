@@ -1,10 +1,6 @@
----
-description: >-
-  The Basic Function section will break down all of the standard functions
-  within the main toolbar.
----
-
 # Basic Functions
+
+The Basic Functions section is comprised of the Save, Save As, Import, Export, and Undo. This set of tools does not allow a user to modify, or manipulate, the point cloud and the wireframe.
 
 ![](../.gitbook/assets/basic-funtions.png)
 

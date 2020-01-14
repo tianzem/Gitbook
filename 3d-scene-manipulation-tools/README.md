@@ -1,11 +1,13 @@
 # 3D Scene Manipulation Tools
 
-![](../.gitbook/assets/3d-scene-manipulation-tools.png)
+The 3D Scene Manipulation Tools are the main set of tools used for wireframing and/or demoing a project. Users are unable to modify, create, or manipulate a project without access to these tools.
+
+![In this image, the Geometry panel is on/active](../.gitbook/assets/3d-scene-manipulation-tools.png)
 
 This section covers the following tools:
 
 * [Inspect](inspect.md)
-* [Geometry](geometry/)
+* [Geometry](geometry/) -- this must be on/active in order to access its subset of features
   * [Select](geometry/select.md)
   * [Create](geometry/create.md)
   * [Modify](geometry/modify.md)

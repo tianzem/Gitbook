@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Shortcuts](shortcut.md)
 * [Basic Functions](basic-function/README.md)
   * [Save & Save As](basic-function/save-as.md)
   * [Import](basic-function/import.md)
@@ -19,7 +20,6 @@
   * [Widgets](3d-scene-manipulation-tools/select.md)
   * [Eraser](3d-scene-manipulation-tools/eraser-1.md)
   * [Measure](3d-scene-manipulation-tools/measure.md)
-* [Shortcuts](shortcut.md)
 * [Vertex and Surface Mode](mode.md)
 * [Advanced Functions](advanced-function/README.md)
   * [Lock Mode](advanced-function/lock-mode.md)
