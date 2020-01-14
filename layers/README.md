@@ -8,7 +8,7 @@ description: Layers gives an introduction to the optional layers.
 
 ![](../.gitbook/assets/layers-button.png)
 
-The Layers panel has all of the layers that are available within a project. Everything in the 3D window is on a layer, including the Point Cloud. Each layer can be turned on/off by clicking the little eye that's to the left of the layer's name. By default, every project starts with the Wireframe, Vertex, Edge, Plane, Widget, Region of Interest, and Point Cloud layers on.
+The different layers can be turned on and off.
 
 ![](../.gitbook/assets/layers%20%281%29.png)
 
