@@ -5,7 +5,7 @@
 Under Delete mode, a user can delete any edge, vertex, or plane. To use the hotkey, hold down Alt + Shift and then click on the edges, vertices, or planes that need to be deleted.[ ](../eraser-1.md)Delete is unaffected by the [Snap mode](../../advanced-function/snap-mode.md).
 
 {% hint style="danger" %}
-In order to delete surfaces, [Auto Plane](../../advanced-function/auto-plane.md) must be turned off and Surface mode has to be active.
+In order to delete surfaces/planes, [Auto Plane](../../advanced-function/auto-plane.md) must be turned off and Surface mode has to be active.
 {% endhint %}
 
 The Delete key on the keyboard can be used for this function as well.
