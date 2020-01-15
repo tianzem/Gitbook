@@ -36,11 +36,11 @@ The [View Cube](view-cube.md) is the compass of the 3D viewport.
 
 ![](.gitbook/assets/picture6%20%281%29.png)
 
-[Settings](settings.md) is hidden in the little grey gear at the top right corner of the screen.
+[Settings](settings.md) is the panel in the top right corner.
 
 ![](.gitbook/assets/p8.png)
 
-[Special Cases](special-cases/) demonstrates how to deal with various difficult scenarios you may encounter during your project experience.
+[Special Cases](special-cases/) demonstrates how to deal with difficult cases you may encounter during your experience.
 
 [Resources](resources/) has some external files for your reference.
 
