@@ -4,7 +4,7 @@ description: Adjust Vertices is the main panel used to adjust the vertices.
 
 # Adjust Vertices
 
-Adjust Vertices is the first tab within the Tools panel. It is used to adjust, and verify, the placement of the vertices by triangulating them using the 2D images.
+Adjust Vertices is the first tab within the Tools panel. It is used to adjust and verify the placement location of the vertices.
 
 ![](../../.gitbook/assets/adj-vert.png)
 
