@@ -15,31 +15,31 @@ On certain broken point clouds, there will be underhangs that are visible but ma
 
 ## Lock Mode - Edge
 
-1. While in [Modify](../3d-scene-manipulation-tools/geometry/modify.md), with [Vertex Mode](../mode.md) on, select an edge for the vertices to lock onto and press Spacebar to lock the edge.
-2. Click and drag any vertex in the 3D tool. 
-3. When Lock Mode is off, the vertex can be only moved on the locked edge. \(1st video\)
-4. When Lock Mode is on, the vertex can be only moved in a parallel direction and angle to the locked edge. \(2nd video\)
+1. While in [Modify](../3d-scene-manipulation-tools/geometry/modify.md), with [Vertex Mode](../mode.md) on, select an edge for vertices, or other edges, to lock onto. Press Spacebar to lock the edge. -- _The edge will turn blue to signify that it is locked_
+2. Click and drag any vertex, or a different edge, in the 3D tool. 
+   1. **When Lock Mode is off:** the vertex, or edge, snaps onto the locked edge. It can only be moved along the location of that locked edge. \(1st video\)
+   2. **When Lock Mode is on:** the vertex, or edge, stays in its original location. It can only be moved at a parallel direction, and angle, to the locked edge. \(2nd video\)
 
 In the video below, Lock Mode is off and the ridge edge is locked. When the selected vertex is moved, it automatically snaps to the locked edge and can only move along the direction of that locked edge.
 
 ![](../.gitbook/assets/lock-mode-off_edge-locked_proj12131_11_2018.gif)
 
-In the video below, Lock mode is on and the ridge edge is locked. When the vertex of the eave edge is modified, it stays at its current location on the point cloud but moves in parallel with the direction, and angle, of the locked ridge edge.
+In the video below, Lock mode is on and the ridge edge is locked. When the vertex of the eave edge is modified, it stays at its current location on the point cloud but moves in a parallel direction, and angle, of the locked ridge edge.
 
 ![](../.gitbook/assets/lockmodeon_edgelocked_proj12131.gif)
 
-## Lock Mode - Surface
+## Lock Mode - Plane
 
-1. While in [Modify](../3d-scene-manipulation-tools/geometry/modify.md), with [Surface Mode](../mode.md) on, select an edge for the vertices to lock onto and press Spacebar to lock the edge.
-2. Click and drag any vertex in the 3D tool. 
-3. When Lock Mode is off, the vertex can be only moved on the locked plane. \(1st video below\)
-4. When Lock Mode is on, the vertex can only be moved in a parallel/co-planar direction to the locked plane. \(2nd video below\)
+1. While in [Modify](../3d-scene-manipulation-tools/geometry/modify.md), with [Surface Mode](../mode.md) on, select a plane for any vertices, or edges, to lock onto and press Spacebar to lock the plane. -- _The plane will turn blue to signify that it is locked_
+2. Switch to [Vertex mode](../mode.md). Click and drag any vertex, or edge, in the 3D tool. 
+   1. **When Lock Mode is off:** the vertex, or edge, snaps onto the locked plane. It can only be moved along the location of that locked plane. \(1st video below\)
+   2. **When Lock Mode is on:** the vertex, or edge stays, in its original location. It can only be moved at a parallel direction, and angle, to the locked plane. \(2nd video below\)
+
+In the video below, Lock Mode is off and one of the planes is locked. When the selected vertex is moved, it automatically snaps to the locked plane and can only move along the direction of that locked plane.
 
 ![](../.gitbook/assets/lockmodeoff_planelocked_proj12131_11_2018.gif)
 
-In the video above, Lock Mode is off and one of the planes is locked. The selected vertex snaps to the locked plane when you modify it. The vertex can only be moved in the direction of the locked plane.
+In the video below, Lock mode is on and a plane is locked. When the vertex is modified, it stays at its current location on the point cloud but moves in a parallel direction, and angle, of the locked plane.
 
 ![](../.gitbook/assets/lockmodeon_planelocked_proj12131_11_2018.gif)
-
-In the above video, Lock Mode is on and one of the planes is locked. When you the vertex is modified it moves in the parallel direction of the locked plane. Users can put the vertex anywhere on the point cloud but once a plane is locked, and Lock Mode is turned on, the vertex will only move in a parallel/co-planar direction to the locked plane.
 

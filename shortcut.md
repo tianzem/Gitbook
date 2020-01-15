@@ -15,7 +15,7 @@ description: A list of shortcuts/hotkeys to help users navigate the 3D tool fast
 | 2 | Surface mode |
 | Ctrl + 1 | Lock an Edge without switching modes |
 | Ctrl + 2 | Lock a Surface without switching modes |
-| Space | Lock Surface/Edge |
+| Space | Lock a Surface/Edge |
 | Alt | Create mode |
 | Shift | Align mode |
 | S \(in 2D image window\) | Shuffles all three 2D images |
