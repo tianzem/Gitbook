@@ -4,5 +4,5 @@
 
 
 
-![](../.gitbook/assets/validate%20%282%29.png)
+![](../.gitbook/assets/validate%20%283%29.png)
 
