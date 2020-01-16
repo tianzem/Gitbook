@@ -2,5 +2,5 @@
 
 Wireframe Tools is the third subgroup of the Tools panel, and it includes a variety of editing options for both Surfaces and the overall Wireframe.
 
-![](../../.gitbook/assets/wireframe-tools.png)
+![](../../.gitbook/assets/wireframe-tools%20%281%29.png)
 
