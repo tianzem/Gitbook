@@ -1,4 +1,4 @@
 # Project Validations
 
-![](../.gitbook/assets/project-validations.png)
+![](../.gitbook/assets/validate%20%282%29.png)
 
