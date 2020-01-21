@@ -4,7 +4,7 @@ description: Settings is the panel in the left top corner.
 
 # Settings
 
-![](.gitbook/assets/settings-button.png)
+![](.gitbook/assets/settings%20%281%29.png)
 
 Clicking the gear, in the top right corner of the window, opens the Settings menu:
 
@@ -27,7 +27,7 @@ Clicking the gear, in the top right corner of the window, opens the Settings men
 * Viewport:
   * Camera Type: 
   * Anti-Aliasing
-* Pointcloud: 
+* Point Cloud: 
   * Elevation Reference: 
   * Elevation Correction: 
 

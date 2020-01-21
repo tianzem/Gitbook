@@ -18,6 +18,8 @@ A Noisy Point Cloud occurs when the point cloud structures are not crisp, and th
 
 A Broken Point Cloud is typically caused by occlusion, like tree coverage or a lack of enough image overlap. The structure may still be correct, but missing portions of it.
 
+Description of **how to deal with broken point clouds** can be found [here](https://app.gitbook.com/@pointivo/s/user-guide/~/drafts/-Lz6FKLEJN7U_tUgBtmX/special-cases/how-to-deal-with-a-broken-point-cloud).
+
 ![Project 13184](../.gitbook/assets/broken-point-cloud_project13184.gif)
 
 ## Wrong Region of Interest
