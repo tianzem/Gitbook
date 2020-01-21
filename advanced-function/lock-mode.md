@@ -5,7 +5,7 @@
 Lock Mode is an advanced setting that allows users to lock an edge, or plane, and then modify other vertices, edges or planes at a parallel location, and angle, to the locked edge or plane. This function is useful when dealing with sections of broken/noisy point clouds.
 
 {% hint style="info" %}
-Lock Mode is off, by default, when a project is opened.
+Lock Mode is off, by default, every time a project is opened.
 {% endhint %}
 
 ## Lock Mode - Edge
