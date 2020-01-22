@@ -62,6 +62,8 @@ Unsupported Geometry means that part of the structure cannot be represented, oft
 
 ![Project 10793](../.gitbook/assets/unsupported-geometry_project10793.gif)
 
+![](../.gitbook/assets/unsupported-geo.png)
+
 ## Low Point Cloud Density
 
 Low Point Cloud Density is when the density of the point cloud is below the recommended levels \(2,500 points per square meter\)
