@@ -51,7 +51,7 @@ They took the 2nd quiz on July 26th and they both passed!! 👍 🙌 🙌
 
 ## 📅Production Schedule
 
-![](../.gitbook/assets/2018-07-19_16-49-24.jpg)
+![](../../.gitbook/assets/2018-07-19_16-49-24.jpg)
 
 Open the link here 🚩 🚩 🚩[https://docs.google.com/spreadsheets/d/1R7C8pRbjcRggceQx2Je6ztOGjrbhn1jT6\_BKx8hy9u8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1R7C8pRbjcRggceQx2Je6ztOGjrbhn1jT6_BKx8hy9u8/edit?usp=sharing)
 
@@ -61,7 +61,7 @@ It is in the beta version and some changes will be made in the future.
 
 Each workday is divided into three sections, **Yellow \(0:00 - 10:00\), Blue \(9:00 - 19:00\) and Red \(18:00 - 01:00\)**. Between each section, there is a 1-hour overlapping period which is owned by two reviewers. That transfer period is very important and the two reviewers need to coordinate with each other to let the other one know what has been done and what needs to be done.
 
-![](../.gitbook/assets/qaclock.png)
+![](../../.gitbook/assets/qaclock.png)
 
 Reviewer does not only have the responsibility to review the project, it is also required for him to take projects when the queue is filled up with projects.
 
@@ -94,61 +94,5 @@ Before that, a temporary solution, all the reviewers - please assign the project
 
 But, please remember to assign the project back to the owner after the review.🔙
 
-## 🆘Ask for Help!
-
-We have setup a new channel called **Wireframe-SOS** for everyone and it aims to get everyone's attention when there are too many projects in the queue. All the project owners, especially the reviewer during that time have the responsibility to let everyone know and ask for help when the queue is filled up with projects.
-
-Example:
-
-{% hint style="danger" %}
-SOS! There are 10 past due projects in the queue right now and our QA team could not handle that many. Please get online and pick 1 or 2 project if you are available.
-{% endhint %}
-
-## 🔍How to deal with Broken Point Cloud
-
-{% page-ref page="../special-cases/how-to-deal-with-a-broken-point-cloud.md" %}
-
-Kespry is doing testing flights on site by the pilot sometimes, and they are not expecting any results from this kind of testing projects. There is no need to put these broken point cloud to `IN_REVIW` or `IN_SUPPORT`, since they could be done easily.
-
-**Case 1:** Ground/Dirt/Grass without any structures.
-
-**Example:** `12243`
-
-**Solution:** Typically, the autogen is empty since no structures are detected. So please draw a rectangle on the ground and publish. There is no need to worry about the edge types since they do not make any sense.
-
-![](../.gitbook/assets/12243.jpg)
-
-**Case 2:** Most of the roofing is not captured.
-
-**Example:** `12198, 11872`
-
-**Solution:** Typically, there will be an autogen branch although the autogen wireframe is a little broken or messy. What you need to do is to save the autogen into qa branch and publish the wireframe which generated automatically. Again, there is no need to worry about the edge types since they do not make any sense.
-
-![](../.gitbook/assets/2018-07-26_10-22-37.jpg)
-
-![](../.gitbook/assets/12198.jpg)
-
-**Case 3:** Part of the roofing is not captured.
-
-**Example:** `11808`
-
-**Solution:** Take it as a regular project, but ignore the uncompleted planes. Do not waste your time on the corners which are not shown on any cameras.
-
-![](../.gitbook/assets/11808.jpg)
-
-{% hint style="danger" %}
-Always remember to check the _**Broken Point Cloud**_ before you publish the project.
-{% endhint %}
-
-![](../.gitbook/assets/2018-07-26_11-25-20.jpg)
-
-For **Case 1 and Case 2** where there are not any completed planes, change the `POINT_DENSE` to `UNUSABLE`.
-
-For **Case 3** where there are several completed planes, change the `POINT_DENSE` to `PROBLEM`.
-
-![](../.gitbook/assets/2018-07-26_16-02-38.jpg)
-
-However, for the broken DroneDeploy projects or some unexpected Kespry projects, please follow our previous steps here.
-
-[https://pointivo.gitbook.io/user-guide/weekly-updates/jun-20th-2018\#in\_support-status](https://pointivo.gitbook.io/user-guide/weekly-updates/jun-20th-2018#in_support-status)
+## 🆘🔍
 
