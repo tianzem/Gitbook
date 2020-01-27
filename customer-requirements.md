@@ -6,19 +6,10 @@ description: >-
 
 # Customer Requirements
 
-Please refer to this link for a breakdown of DroneDeploy's description codes: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
+Please refer to this link for a breakdown of Customer Wireframe Requirements:  
+[https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements](https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements)
 
-| Customer | Turnaround Time | Resources | Penetrations |
-| :--- | :--- | :--- | :--- |
-| Kespry | 1hr | GEOJSON, DXF | Only Chimneys in the middle of an Edge |
-| DroneDeploy - Standard | 2hrs | GEOJSON, DXF, DATA\_PACKAGE | All Chimneys |
-| DroneDeploy - Enterprise & Add Obstructions | 2hrs | GEOJSON, DXF, DATA\_PACKAGE | All Penetrations |
-| BetterView | 24hrs | GEOJSON, DXF, DATA\_PACKAGE | Skylights Only |
-| PrecisionHawk - Travelers | 1hr | GEOJSON, DXF, DATA\_PACKAGE | All Chimneys |
-
-{% hint style="warning" %}
-**For other PrecisionHawk customers and LadderNow \(not listed above\), do not do anything!**
-{% endhint %}
+Refer to this link for a breakdown of DroneDeploy's description codes: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
 
 
 

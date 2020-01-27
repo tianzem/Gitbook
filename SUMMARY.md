@@ -50,7 +50,6 @@
 * [Tools](tools/README.md)
   * [Adjust Vertices](tools/adjust-vertices/README.md)
     * [Triangulation](tools/adjust-vertices/triangulation.md)
-    * [Plane Sort](tools/adjust-vertices/plane-sort.md)
   * [Display Rules](tools/display-rules.md)
   * [Wireframe Tools](tools/wireframe-tools/README.md)
     * [Surfaces](tools/wireframe-tools/surfaces/README.md)

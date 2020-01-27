@@ -2,7 +2,7 @@
 
 ![No hotkey available](../.gitbook/assets/autolock-button.png)
 
-Upon opening a project, Autolock is turned off by default. Users can manually turn it on by clicking the white box next to it. AutoLock will also automatically turn on when [Plane Sort](../tools/adjust-vertices/plane-sort.md) is selected.
+Upon opening a project, Autolock is turned off by default. Users can manually turn it on by clicking the white box next to it. AutoLock will also automatically turn on when [Plane Sort]() is selected.
 
 When AutoLock is on, each time a vertex is selected, the biggest plane connected to the selected vertex will be locked. The [triangulation mode](../tools/adjust-vertices/triangulation.md) will switch to 1 Image + Locked Plane. This operation allows users to adjust each vertex in only one of the three 2D images, and have it reflected in the other two 2D images. The plane will lock when a vertex is selected on the wireframe, and it will lock when a vertex is selected from the vertices list in the Adjust Vertices panel.
 
