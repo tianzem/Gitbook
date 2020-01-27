@@ -8,23 +8,21 @@ Adjust Vertices is the first tab within the Tools panel. It is used to adjust, a
 
 The process of adjusting vertices occurs once the rough wireframe has been created and refined. Utilize the 2D images, Plane Sort, and the [Triangulation](triangulation.md) modes to adjust the vertices to their correct locations.
 
-![](../../.gitbook/assets/adj-vert.png)
-
 {% hint style="info" %}
-If the vertex is dragged in the 3D view, the projected location will change in the 2D images at the same time. After adjusting the vertex in the 2D images, use the Apply button to implement the adjustment and the vertex will turn from Red\(unverified\) to Green\(verified\).
+If the vertex is dragged in the 3D view, the projected location will change in the 2D images at the same time. After adjusting the vertex in the 2D images, use the Apply \(A\) button or hotkey to implement the adjustment. The vertex will turn from unverified \(red\) to verified \(green\).
 {% endhint %}
+
+![](../../.gitbook/assets/adj-vert.png)
 
 ### Plane Sort
 
-In the top right corner of the vertex list, there is a drop-down list. This list contains Plane Sort and also allows users to control the visibility of the columns in the [Adjust Vertices](./) tab.
-
-When plane sort is clicked, the vertices will be re-sorted according to the size of the planes, [AutoLock](../../advanced-function/autolock.md) will automatically turn on, and the [Triangulation](triangulation.md) will switch to 1 image + Locked Plane.
-
-![](../../.gitbook/assets/image%20%284%29.png)
+In the top right corner of the vertex list, there is a drop-down list. This list contains **Plane Sort** and also allows users to control the visibility of the columns in the Adjust Vertices tab. Plane Sort is important because it allows users to adjust vertices while locked to their largest plane. When plane sort is clicked, the vertices will be re-sorted according to the size of the planes, [AutoLock](../../advanced-function/autolock.md) will automatically turn on, and the [Triangulation](triangulation.md) will switch to 1 image + Locked Plane.
 
 {% hint style="warning" %}
 The planes must be reliable in order for the vertices to adjust properly with Plane Sort.
 {% endhint %}
+
+![](../../.gitbook/assets/image%20%284%29.png)
 
 Since AutoLock is on, each vertex will only need to be adjusted in one of the 2D images. While the mouse is active in the 2D image windows, the shortcut keys can be used to Apply, Shuffle, and go to the Next, or Previous, vertex.  
 
