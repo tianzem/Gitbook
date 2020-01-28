@@ -1,6 +1,6 @@
 # Detect Cutouts
 
-The Detect Cutouts button will detect all of the cutouts in the scene and will [Attach](../surfaces/attach.md) the cutouts plane onto the lower plane. The best example of this is detecting the cutouts of dormers.
+The Detect Cutouts button will detect all of the cutouts in the scene and will [Attach](../attach.md) the cutouts plane onto the lower plane. The best example of this is detecting the cutouts of dormers.
 
 * First, finish the dormer as normal. There is no need to draw the outline of the shadow that is underneath the dormer in the lower plane.
 * Lock the plane and adjust the top three vertices of each dormer.
