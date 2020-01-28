@@ -1,5 +1,7 @@
 # Project Issues
 
+The Project Issues section is used to record the issues/problems found within a project. It is important to verify a project's issues in order to determine the cause of any inaccuracies in a wireframe, such as inconsistent measurements or a long qa time. The available issues are listed below, along with a description and example image for each.
+
 ![](../.gitbook/assets/project-issues.png)
 
 ## Reprojection Error
@@ -10,7 +12,7 @@ Reprojection Error \(RPE\) occurs when there is an error in aligning cameras dur
 
 ## Noisy Point Cloud
 
-A Noisy Point Cloud occurs when the point cloud of the structures are not crisp, and the edges/corners of the structures are unclear.
+A Noisy Point Cloud occurs when the point cloud of the structures are not well defined. The edges/corners of the structures are may be unclear too. Noise also make the point cloud look like it's rough or jagged. Some noisy sections are pointed out in the image below.
 
 ![Project 13097](../.gitbook/assets/noisy-point-cloud_project13097.gif)
 
@@ -101,7 +103,7 @@ Example image below: On the intranet, a project's description says DD\_Residenti
 ![Project Type in intranet Description field/column vs. Project Type inside the project](../.gitbook/assets/project-type-mismatch-final.png)
 
 {% hint style="danger" %}
-Projects with this issue also need to be put in\_support, and posted on the in\_support\_projects channel on Slack. Refer to this link, and follow the instructions, for putting a project in support:
+Projects with the Project Type Mismatch issue will need to be put in\_support, and posted on the in\_support\_projects channel on Slack. Refer to this link, and follow the instructions, for putting a project in support:
 
 [https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects](https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects)
 {% endhint %}
