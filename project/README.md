@@ -1,6 +1,6 @@
 # Project
 
-![](../.gitbook/assets/project.png)
+![No hotkey available](../.gitbook/assets/project.png)
 
 #### [Project Status](https://app.gitbook.com/@pointivo/s/user-guide/~/drafts/-LyhSgSgXZrBL9FZRqXi/project/project-status)
 
