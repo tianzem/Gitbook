@@ -16,7 +16,7 @@ Align is the most helpful when dealing with occluded/broken areas, and underhang
 In the video above, Surface Mode is turned on, the plane is selected, and then Spacebar is hit to lock the plane. Then, in Vertex Mode, the bottom horizontal edge is clicked, the Align button is selected, and the top horizontal edge is clicked on. The lower edge aligns with the upper edge. For the perpendicular edges, the Align hotkeys are used. Note that the plane/surface is still locked. In Vertex Mode the right perpendicular edge is selected, then Shift is held while the left edge is selected. Shift is released and the two perpendicular edges are aligned.
 
 {% hint style="info" %}
-Using Align, without locking the plane, will affect the planarity of any planes connected to the edge that is being aligned. If [Plane Refine](../../tools/wireframe-tools/wireframe/plane-refine.md) has been used, then it will negate those results too. It will also alter the connected vertices/edges, which can be damaging if the vertices have already gone through the [Adjust Vertices](../../tools/adjust-vertices/) process. Use Align with caution.
+Using Align, without locking the plane, will affect the planarity of any planes connected to the edge that is being aligned. If [Plane Refine](../../tools/wireframe-tools/plane-refine.md) has been used, then it will negate those results too. It will also alter the connected vertices/edges, which can be damaging if the vertices have already gone through the [Adjust Vertices](../../tools/adjust-vertices/) process. Use Align with caution.
 {% endhint %}
 
 {% hint style="danger" %}

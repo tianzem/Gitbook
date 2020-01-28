@@ -4,7 +4,7 @@ The Validate button will evaluate the current view of the wireframe and list all
 
 Using the Validate button, in either the Wireframe Tools panel or the Project Validations panel, is a quick way to check for errors without saving the project. 
 
-![](../../../.gitbook/assets/validate%20%281%29.png)
+![](../../.gitbook/assets/validate%20%281%29.png)
 
 Clicking on each condition's name will select all of the objects with that error in the 3D window. Every item with that condition will be selected on the point cloud. and it will focus the camera view on all of the selected objects at once. 
 

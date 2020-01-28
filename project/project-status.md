@@ -14,7 +14,7 @@ The "Created" status and "Processing" status can not be set by the user
 * Processing
   * The files are uploading, and the project is being generated.
   * During this status, the autogen-Wireframe branch will be created.
-  * This status will also be triggered when [Plane Refine](../tools/wireframe-tools/wireframe/plane-refine.md) is running.
+  * This status will also be triggered when [Plane Refine](../tools/wireframe-tools/plane-refine.md) is running.
 * In\_QA
   * The autogen-Wireframe branch is available, and the project is ready to be wireframed.
 * In\_Review

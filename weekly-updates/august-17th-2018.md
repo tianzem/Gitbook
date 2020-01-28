@@ -28,7 +28,7 @@
 
 ## 🔧Penetrations Refine - Beta
 
-{% page-ref page="../tools/wireframe-tools/wireframe/penetrations-refine.md" %}
+{% page-ref page="../tools/wireframe-tools/penetrations-refine.md" %}
 
 ## 💯~~The Complete Final Grading Phase of Fawad~~
 

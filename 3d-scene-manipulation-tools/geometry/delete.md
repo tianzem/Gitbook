@@ -14,5 +14,5 @@ If the Delete button is used, instead of the hotkey, then the tool will stay in 
 
 If the Delete hotkey is used, then the tool will default back to Modify as soon as the hotkeys are released.
 
-[Eraser](../eraser-1.md) and [Erase All](../../tools/wireframe-tools/wireframe/erase-all.md) are other functions with the capability to delete multiple vertices.
+[Eraser](../eraser-1.md) and [Erase All](../../tools/wireframe-tools/erase-all.md) are other functions with the capability to delete multiple vertices.
 
