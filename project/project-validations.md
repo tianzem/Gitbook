@@ -1,8 +1,6 @@
 # Project Validations
 
-{% page-ref page="../tools/wireframe-tools/wireframe/validate.md" %}
-
-
+Please refer to the [Validate](../tools/wireframe-tools/wireframe/validate.md) section of this User Guide to read the purpose of project validation and the definitions within it.
 
 ![](../.gitbook/assets/validate%20%283%29.png)
 

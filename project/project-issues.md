@@ -4,13 +4,13 @@
 
 ## Reprojection Error
 
-A Reprojection Error \(RPE\) occurs when there is an error in aligning cameras during the reconstruction process, thereby causing one or more of the 2D images to display an inaccurate location of a vertex.
+Reprojection Error \(RPE\) occurs when there is an error in aligning cameras during the reconstruction process. This causes one or more of the 2D images to display an inaccurate location of a vertex.
 
 ![Project 13210](../.gitbook/assets/rpe_project13210.gif)
 
 ## Noisy Point Cloud
 
-A Noisy Point Cloud occurs when the point cloud structures are not crisp, and the edges/corners of the structures are unclear.
+A Noisy Point Cloud occurs when the point cloud of the structures are not crisp, and the edges/corners of the structures are unclear.
 
 ![Project 13097](../.gitbook/assets/noisy-point-cloud_project13097.gif)
 
