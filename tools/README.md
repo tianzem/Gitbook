@@ -1,10 +1,10 @@
 ---
-description: Tools gives an introduction to the functions of the 3 subgroups within Tools.
+description: Tools gives the introduction of the different tools.
 ---
 
 # Tools
 
-![](../.gitbook/assets/tools%20%282%29.png)
+![No hotkey available.](../.gitbook/assets/tools%20%282%29.png)
 
 ![](../.gitbook/assets/tools.png)
 

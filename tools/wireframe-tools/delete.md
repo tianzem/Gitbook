@@ -1,11 +1,15 @@
----
-description: >-
-  The Delete button in the Wireframe Tools is the easiest way to delete a plane
-  without deleting its surrounding vertices and edges.
----
-
 # Delete
 
-1. Under [Surface Mode](), [Select](../../3d-scene-manipulation-tools/select.md) or hold `Ctrl` and click to multi-select the planes that will be deleted.
-2. Click Delete, and the selected planes will be deleted. It will also turn off the [Auto Plane](../../advanced-function/auto-plane.md) setting, which is turned on by default.
+The Delete button is a quick way to delete a plane without deleting its surrounding vertices.
+
+1. While in Surface mode, select the plane that will be deleted. Multiple planes can be deleted at once, use Ctrl to select more than one plane.
+2. Click the Delete button and the selected planes will be deleted.
+
+{% hint style="danger" %}
+Using the Delete button will turn off Auto Plane
+{% endhint %}
+
+Another way to delete a surface is to turn off Auto Plane, then select a plane, and hit the Delete key on the keyboard.
+
+![](../../.gitbook/assets/delete-button%20%281%29.png)
 
