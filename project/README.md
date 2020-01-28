@@ -4,9 +4,9 @@ The Project panel contains 3 different sections: Project Status, Project Issues,
 
 ![No hotkey available](../.gitbook/assets/project.png)
 
-#### [Project Status](https://app.gitbook.com/@pointivo/s/user-guide/~/drafts/-LyhSgSgXZrBL9FZRqXi/project/project-status)
+#### [Project Status](project-status.md)
 
-#### [Project Issues](https://app.gitbook.com/@pointivo/s/user-guide/~/drafts/-LyEFuwt5-inhVY5ytkW/project-issues)
+#### [Project Issues](project-issues.md)
 
-#### [Project Validations](https://app.gitbook.com/@pointivo/s/user-guide/project/project-validations)
+#### [Project Validations](project-validations.md)
 
