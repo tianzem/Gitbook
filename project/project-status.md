@@ -20,7 +20,8 @@ The "Created" status and "Processing" status can not be set by the user
 * In\_Review
   * This status is for users in training. Projects are set to in\_review when the trainee is finished and ready for a senior member to review their work before publishing the project.
 * In\_Support
-  * This is reserved for projects with specific issues that hinder the workflow. Refer to the link below to determine if a project falls under this status:
+  * This is reserved for projects with specific issues that hinder the workflow. 
+  * Refer to the link below to determine if a project falls under this status:
     * [https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects](https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects)
 * Complete\_Initial
   * Ignore this status for now.

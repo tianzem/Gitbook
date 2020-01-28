@@ -4,13 +4,13 @@
 
 ## Reprojection Error
 
-A Reprojection Error \(RPE\) occurs when there is an error in aligning cameras during the reconstruction process, thereby causing one or more of the 2D images to display an inaccurate location of a vertex.
+Reprojection Error \(RPE\) occurs when there is an error in aligning cameras during the reconstruction process. This causes one or more of the 2D images to display an inaccurate location of a vertex.
 
 ![Project 13210](../.gitbook/assets/rpe_project13210.gif)
 
 ## Noisy Point Cloud
 
-A Noisy Point Cloud occurs when the point cloud structures are not crisp, and the edges/corners of the structures are unclear.
+A Noisy Point Cloud occurs when the point cloud of the structures are not crisp, and the edges/corners of the structures are unclear.
 
 ![Project 13097](../.gitbook/assets/noisy-point-cloud_project13097.gif)
 
@@ -18,13 +18,13 @@ A Noisy Point Cloud occurs when the point cloud structures are not crisp, and th
 
 A Broken Point Cloud is typically caused by occlusion, like tree coverage or a lack of enough image overlap. The structure may still be correct, but missing portions of it.
 
-Description of **how to deal with broken point clouds** can be found [here](https://app.gitbook.com/@pointivo/s/user-guide/~/drafts/-Lz6FKLEJN7U_tUgBtmX/special-cases/how-to-deal-with-a-broken-point-cloud).
+Refer to the [How to Deal with a Broken Point Cloud](../special-cases/how-to-deal-with-a-broken-point-cloud.md) section for instructions on dealing with severely broken point clouds like the example below.
 
 ![Project 13184](../.gitbook/assets/broken-point-cloud_project13184.gif)
 
 ## Wrong Region of Interest
 
-The Wrong Region of Interest \(ROI\) issue occurs when the ROI is specified but the structure is unclear, incomplete, or the ROI is in the wrong location altogether.
+The Wrong Region of Interest \(ROI\) issue occurs when the ROI is specified but the structure is unclear, incomplete, or the ROI is in the wrong location altogether like the image below.
 
 ![Project 10737](../.gitbook/assets/wrong-roi_project10737.gif)
 
@@ -78,7 +78,7 @@ Defective Reconstruction means that the project was unable to be processed becau
 
 ## Large Structure Sample Distance
 
-Large Structure Sample Distance \(SSD\) occurs when the camera is too far from the structure or has low resolution. This results in the pixel size on the structure being large, and/or the 2D images loading from a far distance and becoming blurred when zooming in on them. The accuracy of the wireframe will not meet expectations.
+Large Structure Sample Distance \(SSD\) occurs when the camera is too far from the structure or has low resolution. This results in 2D images that display the structure from a much farther distance than usual, and will become blurry as they are zoomed in on. The accuracy of the wireframe will not meet expectations.
 
 ![Project 13159](../.gitbook/assets/large-ssd_project13159.gif)
 
@@ -90,15 +90,21 @@ A Smoothed Point Cloud is often the result of meshing, and will cause the surfac
 
 ## Project Type Mismatch
 
-This Project Issue is only for Standard DroneDeploy projects.
+{% hint style="info" %}
+This issue only occurs in DroneDeploy projects!
+{% endhint %}
 
-When the actual project structure type does not match the input structure type, please mark this project issue and at the same time, change the structure type to what it should be.
+When the structure in a project does not match the structure listed in the project's _**Description**_, please mark this project issue. 
 
-For example, we receive a huge Commercial building but it was detected as SingleFamily. Please check this project issue and change the structure type to Commercial.
+Example image below: On the intranet, a project's description says DD\_Residential, but when the project is opened it's actually a Commercial structure. That is a project type mismatch.
 
-![](../.gitbook/assets/2018-09-13_14-11-59.jpg)
+![Project Type in intranet Description field/column vs. Project Type inside the project](../.gitbook/assets/project-type-mismatch-final.png)
 
-Refer to Structure Types page to understand the definition of the different structure types.
+{% hint style="danger" %}
+Projects with this issue also need to be put in\_support, and posted on the in\_support\_projects channel on Slack. Refer to this link, and follow the instructions, for putting a project in support:
+
+[https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects](https://pointivo.atlassian.net/wiki/spaces/CO/pages/170229773/In+Support+Projects)
+{% endhint %}
 
 {% page-ref page="../structure-types.md" %}
 
