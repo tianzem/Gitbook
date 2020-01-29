@@ -105,7 +105,6 @@
   * [In\_Support Status](weekly-updates/in_support-status.md)
   * [Chimney requirements](weekly-updates/chimney-requirements.md)
   * [Small Areas](weekly-updates/small-areas.md)
-  * [Dormer Cutouts](weekly-updates/dormer-cutouts.md)
   * [Vertical Planes](weekly-updates/vertical-planes.md)
   * [Jun 29th 2018](weekly-updates/jun-29th-2018.md)
   * [Cutout Standard From Kespry](weekly-updates/cutout-standard-from-kespry.md)

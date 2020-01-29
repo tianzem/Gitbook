@@ -1,9 +1,11 @@
 # Penetrations
 
 {% hint style="warning" %}
-You will see "Enterprise" or "Add Obstructions" in the description field on the intranet for projects requiring penetrations. Please refer to this confluence page for a detailed breakdown of DD description codes:
+In DroneDeploy projects, you will see "Enterprise" or "Add Obstructions" in the description field/column on the intranet for projects requiring penetrations. Please refer to this link for a detailed breakdown of DD description codes:
 
 [https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Co](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
+
+Refer to this link for all other customer requirements for penetrations: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements](https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements) 
 {% endhint %}
 
 1. Finish the entire roof first before starting the penetrations.
