@@ -1,3 +1,7 @@
+---
+description: No hotkey available.
+---
+
 # Set Primary Edge
 
 Every plane has a Primary Edge that is automatically detected. This edge will be the one that is the most parallel to the ground, in that plane, and it won't necessarily be the largest edge. Any attached penetrations, specifically drawn by the Alt + Ctrl shortcut, are going to be aligned with this defaulted primary edge.

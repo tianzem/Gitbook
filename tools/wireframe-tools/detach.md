@@ -1,5 +1,5 @@
 ---
-description: No hotkey for this feature.
+description: No hotkey available.
 ---
 
 # Detach

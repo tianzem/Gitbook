@@ -1,5 +1,5 @@
 ---
-description: No hotkey available for this feature.
+description: No hotkey available.
 ---
 
 # Create from Edges

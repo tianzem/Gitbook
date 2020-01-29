@@ -1,4 +1,12 @@
+---
+description: No hotkey available.
+---
+
 # Detect Edge Types
+
+{% hint style="info" %}
+For rules on edge types, and special cases for them, please refer to the [Edge Types & Requirements](../../edge-types.md) section of the User Guide.
+{% endhint %}
 
 ![](../../.gitbook/assets/detect-edge-type.png)
 
