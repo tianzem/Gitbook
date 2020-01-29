@@ -25,7 +25,7 @@ If there are extra vertices in the cutout plane, after Detect Cutouts runs, then
 If there are duplicated edges in the dormer cutout, then the dormer vertices were not adjusted on the locked, large plane behind them.
 {% endhint %}
 
-Duplicated edges can be fixed two ways: 
+**Duplicated edges and/or extra vertices can be fixed two ways:** 
 
 1. Manually delete the extra edges. If the cutout detaches during this process, then reattach it using the [Attach](attach.md) button, or shortcut. 
 2. Reload the last saved version. Manually lock the large plane, readjust and re-verify the connected dormer vertices. Save and hit Detect Cutouts to run it again.
