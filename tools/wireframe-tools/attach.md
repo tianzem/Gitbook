@@ -15,7 +15,7 @@ Attach is very useful for situations that cause penetrations to become detached,
 ![](../../.gitbook/assets/child-plane-vs-parent-plane.png)
 
 {% hint style="warning" %}
-Hotkey: Ctrl + D -- select the detached planes first, then hold Ctrl + D and click on the parent plane to attach. \(the attached planes become children of the parent plane\)
+Hotkey: Ctrl + D -- select the detached planes first, then hold Ctrl + D and click on a separate, parent, plane to attach. \(the newly attached planes become children of the parent plane\)
 {% endhint %}
 
 #### Attach Example:
