@@ -88,7 +88,7 @@
   * [Tree](special-cases/tree.md)
   * [Penetrations](special-cases/penetration.md)
   * [Flat Roofs](special-cases/flat-roof.md)
-  * [Dormer](special-cases/dormer.md)
+  * [Dormers](special-cases/dormer.md)
   * [Snow Stoppers](special-cases/snow-stoppers.md)
 * [Customer Requirements](customer-requirements.md)
 * [Resources](resources/README.md)
