@@ -1,3 +1,7 @@
+---
+description: No hotkey available
+---
+
 # Detect Cutouts
 
 The Detect Cutouts button finds all of the dormers in a wireframe and automatically creates the wireframe for the cutout below them. The dormer can consist of one, or two, planes that each have one of their edges connected to part of the surface of another plane.
