@@ -9,6 +9,10 @@ When an imported wireframe does not automatically snap to the point cloud \(due 
 ![](../../.gitbook/assets/register.png)
 
 1. Import the original wireframe into the new project. SAVE the new project!
+   * If the wireframe imports in at a far distance from the point cloud:
+     * Hit Ctrl + A to select all of the edges, vertices, and planes in the imported wireframe.
+     * Change the Snap mode to None.
+     * Click and hold one of the edges, vertices, or planes and drag it closer to the point cloud.
 2. Create a new edge from one of the vertices on the imported wireframe, and connect it to the same location it should be on in this new point cloud. 
 3. Then use [Adjust Vertices](../adjust-vertices/), with [3image triangulation](../adjust-vertices/triangulation.md), to adjust the endpoint on the cloud and ensure it is in the accurate location.
 4. Repeat Steps 1 & 2 for each different vertex, until there are at least 4 new edges.
