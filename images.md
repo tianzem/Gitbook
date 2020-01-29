@@ -1,3 +1,7 @@
+---
+description: 'This section explains the purpose of the Images panel, and how to use it.'
+---
+
 # Images
 
 ![No hotkey available](.gitbook/assets/images-button.png)

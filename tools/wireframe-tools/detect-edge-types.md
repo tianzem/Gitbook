@@ -8,18 +8,20 @@ description: No hotkey available.
 For rules on edge types, and special cases for them, please refer to the [Edge Types & Requirements](../../edge-types.md) section of the User Guide.
 {% endhint %}
 
-![](../../.gitbook/assets/detect-edge-type.png)
+The purpose of the Detect Edge Types button is to automatically detect and assign edge types to all of the unassigned edges in a wireframe. If there are edges that already have an assigned edge type, then this button will not override that previous assignment.
 
-1. After finalizing the wireframe, go to the Tools tab in Properties, click the [Detect Edge Types](detect-edge-types.md) button to auto-assign the edge types onto all of the edges.
-2. To manually assign the Edge Type Property to an edge: go to the Inspector section, select an unassigned edge. In the Add Properties.. drop-down menu select Edge Type. In the Edge Type drop-down menu, select the desired edge type.
-3. To change the Edge Type of an edge that has already been auto-assigned: select the edge that needs to be changed, go to the Inspector section, then select a different edge type from the Edge Type drop-down menu.
-4. This will add a new Edge Type Property for each selected edge and assign the chosen edge type to this property.
+\*\*The [Edges panel](../../edges.md) also has a Detect Edge Types button. However, this section of the User Guide is solely focused on the Detect Edge Types button in the Wireframe Tools tab of the Tools panel \(shown below\).
+
+![](../../.gitbook/assets/detect-edge-types-button.png)
+
+* To manually apply an edge type to an unassigned edge, an Edge Type Property but be added to the edge:
+  * Select an unassigned edge and open the [Inspector panel](../../properties.md).
+  * Open the Add Properties dropdown menu, and select Edge Type.
+  * Click to the right of the Edge Type property to open the edge type dropdown menu. Choose the desired edge type to assign to the selected edge.
+* To change the Edge Type of an edge that has already been auto-assigned: 
+  * Select the edge that needs to be changed, and open the Inspector panel or the Edges panel.
+  *  Open the edge type dropdown menu, and choose a new edge type for the selected edge/edges
+* **The video below shows how to change an edge type using the edge type dropdown menu from both the** [**Inspector panel**](../../properties.md) **and the** [**Edges panel**](../../edges.md)**:**
 
 ![](../../.gitbook/assets/edge-type.gif)
-
-In the image above, the Ridge edge is selected and the Inspector panel is open. Inside Inspector, under Properties, users can click on the existing edge type property and change it from the drop-down menu.
-
-{% hint style="info" %}
-These methods are not going to overwrite any of the other previously auto-assigned edge type properties, only the ones that were manually changed. To re-detect and auto-assign the edge type property again, select all of the edges that require re-detecting. Then, delete the edge types by clicking the circle x button on the far right side of the Edge Type drop-down menu in the Inspector section. After that, go to the Tools tab and click the Detect Edge Types button.
-{% endhint %}
 

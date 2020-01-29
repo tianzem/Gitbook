@@ -1,5 +1,5 @@
 ---
-description: Properties provides the different parameters of Vertex/Edge/Plane.
+description: 'This section explains the purpose of the Inspector panel, and how to use it.'
 ---
 
 # Inspector
