@@ -1,3 +1,7 @@
+---
+description: No hotkey available.
+---
+
 # Detect Penetrations
 
 {% hint style="info" %}
