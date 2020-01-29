@@ -10,6 +10,8 @@ This feature will attach one, or more, surfaces to a different surface. The surf
 
 Attach is very useful for situations that cause penetrations to become detached, such as a parent plane being modified or broken. If a plane is the normal light green color, then it is not attached to anything.
 
+![](../../.gitbook/assets/atc.png)
+
 {% hint style="info" %}
 Attach only works in Surface mode.
 {% endhint %}
