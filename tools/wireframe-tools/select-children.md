@@ -1,12 +1,12 @@
 # Select Children
 
-When a big plane is selected, that contains several attached cutouts, the Select Children button is going to help select all of the child planes within that parent plane. This allows the child planes to all be edited at the same time.
+Select Children is fast way to select all of the penetrations/child planes within a plane. This feature can be used to check if all created penetrations are attached, and to select all children planes for quick modifications such as: moving or rotating them all at once, copying/pasting them elsewhere in the wireframe, or adding labels/annotations to them.
 
 {% hint style="info" %}
-⌨ Hotkey - Ctrl + Q
+⌨ Hotkey : Ctrl + Q -- Select the parent plane, then hit Ctrl + Q and all children will be selected
 {% endhint %}
 
-![](../../.gitbook/assets/selectchildren_proj18578_11_2018.gif)
+#### Select Children Example:
 
-The video shows the manual way to select the children of a plane. To speed this process up, users can select a plane and then use the shortcut of Ctrl + Q to automatically select all of the children without clicking the Select Children button.
+![](../../.gitbook/assets/selectchildren_proj18578_11_2018.gif)
 
