@@ -6,7 +6,7 @@ description: No hotkey available for this feature.
 
 Create from Edges is used to manually create a plane that did not form automatically with [Auto Plane](../../advanced-function/auto-plane.md). Generally speaking, if a plane does not form on its own, then that's usually a sign that the plane is not planar. This can be due to crooked edges, or vertices pulling the plane in an unnatural direction. Before resorting to using Create from Edges, first check that all of the plane's edges and vertices are aligned along the same angle. Looking at the plane from its side view will point out any obvious vertices that are breaking the planarity. If the plane still doesn't form after fixing those visible issues, then Create from Edges must be used to form the plane.
 
-**This feature only works in** [**Vertex mode**](../../mode.md)**.**
+**Create from Edges only works in** [**Vertex mode**](../../mode.md)**.**
 
 {% hint style="warning" %}
 Do NOT use Create from Edges until after the wireframe has been fully roughed and plane refined \(if necessary\). **Auto Plane will turn off** once Create from Edges is used. Anything added to the wireframe afterward will not form planes automatically.
