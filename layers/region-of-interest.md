@@ -12,9 +12,10 @@ There should only be one structure inside of one ROI for each project. If there 
 
 **For Kespry ROIs:** 
 
-* It might be a little offset and/or not very accurate. 
+* The ROI might be offset and/or inaccurate. 
 * Kespry's ROIs are used to design the flight pattern, and the point cloud is generated based on that. 
-* Kespry's customers do not get to see the point cloud while setting the ROI. 
+* Their customers do not get to see the point cloud while setting the ROI. 
+* If the ROI isn't fully covering a structure, users should wireframe the structure that has the majority of the ROI around it.
 
 **For DroneDeploy ROIs:** 
 
