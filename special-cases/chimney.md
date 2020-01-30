@@ -4,12 +4,14 @@ description: >-
   account for the chimneys on a structure.
 ---
 
-# Chimney
+# Chimneys
 
-| Customer | Location | Do or Do not |
+| Customer | Include if Chimney breaks an Edge | Include if Chimney is in the middle of a Plane |
 | :--- | :--- | :--- |
-| Kespry | In the middle of an edge | Do |
-| Kespry | In the middle of a Plane | Do not |
-| DroneDeploy \(all types\) | In the middle of an edge | Do |
-| DroneDeploy \(all types\) | In the middle of a Plane | Do |
+| Kespry | Yes | No |
+| DroneDeploy \(all types\) | Yes | Yes |
+| BetterView | Yes | No |
+| Airbus Aerial | Yes | No |
+| FairFleet | Yes | No |
+| KittyHawk | Yes | No |
 

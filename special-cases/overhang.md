@@ -1,6 +1,6 @@
-# Overhang
+# Underhangs
 
-> Typically, it is hard to find a 2D image that shows the vertex under the overhang, and it might be easier to change the vertex location in the 3D view instead.
+> Typically, it is hard to find a 2D image that shows the underhang's vertices that are hidden by the overhang, and it might be easier to change the vertex location in the 3D window instead.
 
 1. Find three vertices on the plane below the overhang, and press `Spacebar` to Lock the plane. If there are less than 3 vertices, [Create](../3d-scene-manipulation-tools/geometry/create.md) more.
 
