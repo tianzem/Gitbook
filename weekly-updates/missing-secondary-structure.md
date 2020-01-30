@@ -1,13 +1,15 @@
 # Missing Secondary Structure
 
-## Do not miss the minor structure for Tesla project
-
 `From DroneDeploy    
-For the Tesla jobs can you guys please do all structures on the property. Look back they see to also want additional buildings that are modeled like the carport.`
+For our jobs can you guys please do all structures on the property. Looking back, they seem to want all additional buildings that are modeled like the carport.`
 
 {% hint style="danger" %}
-Please do not miss the secondary structure for DD label obstruction projects. Following are some examples, in which we have missed the minor structure/garage during the last three months.
+Do NOT miss the secondary structure in projects, unless a DroneDeploy ROI specifically excludes it. 
+
+Kespry ROIs are not as reliable, so assume they want the secondary structure. The following are some examples, in which we have missed the minor structure/garage in the past
 {% endhint %}
+
+The following images are some examples that show the secondary structures we have missed in previous projects. All of these projects were returned by the customer because of the missed structures.
 
 ![Missing Secondary Structure](../.gitbook/assets/image%20%283%29.png)
 
