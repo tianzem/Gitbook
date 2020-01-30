@@ -89,6 +89,7 @@
   * [Penetrations](special-cases/penetration.md)
   * [Flat Roofs](special-cases/flat-roof.md)
   * [Dormers](special-cases/dormer.md)
+  * [Eave Returns](special-cases/eave-returns.md)
   * [Snow Stoppers](special-cases/snow-stoppers.md)
 * [Customer Requirements](customer-requirements.md)
 * [Resources](resources/README.md)
