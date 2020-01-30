@@ -12,5 +12,7 @@
 
 * Turn on the [Adjust Vertices](../tools/adjust-vertices/) panel to see the 2D images of the vertices that are on the outer edges of the underhang plane. The 2D images will show the edges of the underhang plane. Even though the end location of the vertex is hidden, the images can still be used to adjust the vertex so that it's edge aligns with the edge in the 2D image.
 
-
+{% hint style="info" %}
+Fix the rest of this page!! Using project 40817 for the underhang images
+{% endhint %}
 
