@@ -24,5 +24,5 @@ The Re-center button is very useful when the point cloud gets zoomed in/out too 
 
 The Perspective Projection View button \(camera\) is the default projection view for the 3D Tool. When switching from 2D preset to 3D preset, the Perspective projection button will automatically activate as well. This is the view required to fully operate the 3D Tool.
 
-The Orthographic Projection View button \(grid\) is the required projection view for the 2D Preset. Clicking the Orthographic Projection button will re-orient the point cloud to the true north direction in the orthographic view. However, unlike the 2D Preset button clicking the Orthographic Projection button does not lock the view cube to the true north 2D direction. You are still able to rotate the point cloud like normal, but the cloud is now set as an orthographic map.
+The Orthographic Projection View button \(grid\) is the required projection view for the 2D Preset. Clicking the Orthographic Projection button will re-orient the point cloud to the true north direction in the orthographic view. However, unlike the 2D Preset button clicking the Orthographic Projection button does not lock the view cube to the true north 2D direction. You are still able to rotate the point cloud like normal, but the cloud is now set as an Orthographic map.
 
