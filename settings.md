@@ -1,14 +1,18 @@
 ---
-description: Settings is the panel in the left top corner.
+description: No hotkey available.
 ---
 
 # Settings
 
-![](.gitbook/assets/settings%20%281%29.png)
+![](.gitbook/assets/settings-panel.png)
 
 Clicking the gear, in the top right corner of the window, opens the Settings menu:
 
-![](.gitbook/assets/settings.png)
+| Setting | Hotkey | Description |
+| :--- | :--- | :--- |
+| Unit of Measure |  |  |
+| Slope Display Unit |  |  |
+| Wireframe Vertex Size |  |  |
 
 * Unit of Measure:
 * Slope Display Unit:
