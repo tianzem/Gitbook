@@ -12,3 +12,7 @@ Typically, it is hard to select the exact corner of the flat roof due to the tex
 3. Scroll through all of the available 2D images to find the best one and only use that image to adjust the vertex to the correct location.
 4. Repeat Step 3 to adjust every vertex on the plane.
 
+{% hint style="info" %}
+[2D Mode](../preset-and-projection-view.md) is a great way to see the roof from the top-down view. Users are able to see if the wireframe is going off/through the point cloud where it shouldn't be. They can quickly adjust the rough wireframe by locking the plane.
+{% endhint %}
+
