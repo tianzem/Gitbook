@@ -47,5 +47,5 @@ Count displays the number of objects for each listed condition. To the right of 
 
 * After Create from Edges is clicked, the new parent plane will be formed. Hit the Validate button again, and the Parent/Chile Plane Shared Edges condition will be gone.
 
-![](../../.gitbook/assets/53167-parent-plane-recreated-and-error-gone.png)
+![Parent plane recreated, child/cutout plane removed; no Parent/Child Plane Shared Edges condition](../../.gitbook/assets/53167-parent-plane-recreated-and-error-gone.png)
 
