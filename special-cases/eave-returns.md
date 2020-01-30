@@ -6,3 +6,5 @@ An Eave Return occurs when the Eave edge of a plane extends out past its Rake ed
 
 Instead of trying to wireframe the Eave Return, users can pull the end vertex of the rake edge straight down to where it would normally meet the eave edge. This ignores the extra Eave Return geometry completely. \(shown in the image below\)
 
+![Pull the Rake edge straight down to where it would connect with the Eave edge, without the Eave Return](../.gitbook/assets/eave-return_ignored_40817.png)
+
