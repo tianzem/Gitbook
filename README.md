@@ -44,5 +44,5 @@ The [View Cube](view-cube.md) is the compass of the 3D viewport.
 
 [Resources](resources/) has some external files for your reference.
 
-[Deprecated](deprecated/) Recycle Bin
+[Deprecated]() Recycle Bin
 
