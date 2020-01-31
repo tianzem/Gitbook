@@ -10,9 +10,8 @@
 
 ![Plane has been locked and unverified vertices pulled to their approximate location.](../.gitbook/assets/40817-underhang-with-verts-pulled-to-approx-location.png)
 
-* Turn on the [Adjust Vertices](../tools/adjust-vertices/) panel to see the 2D images of the vertices that are on the outer edges of the underhang plane. The 2D images will show the edges of the underhang plane. Even though the end location of the vertex is hidden, the images can still be used to adjust the vertex so that it's edge aligns with the edge in the 2D image.
+* Turn on the [Adjust Vertices](../tools/adjust-vertices/) panel to see the 2D images of the vertices that are on the outer edges of the underhang plane. The 2D images will show the edges of the underhang plane. Even though the end location of the vertex is hidden, the images can still be used to adjust the vertex so that it's edge aligns with the edge in the 2D images.
+  * Pull the vertex far enough that it goes past the gutter above it.
 
-{% hint style="info" %}
-Fix the rest of this page!! Using project 40817 for the underhang images
-{% endhint %}
+![](../.gitbook/assets/40817-underhang-edge-adjustment.png)
 
