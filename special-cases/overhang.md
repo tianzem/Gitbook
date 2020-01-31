@@ -1,6 +1,8 @@
 # Underhangs
 
-> Typically, it is hard to find a 2D image that shows the underhang's vertices that are hidden by the overhang, and it might be easier to change the vertex location in the 3D window instead.
+> Typically, it is hard to find a 2D image that shows the underhang's vertices that are occluded by the overhanging roof, and it might be easier to change the vertex location in the 3D window instead.
+
+
 
 * Make a rough plane on the underhang, and adjust/verify the vertices that are visible in the 2D images and not hidden by the overhang. Make sure to lock the plane when doing these adjustments.
 
@@ -15,5 +17,11 @@
 
 ![Look at the vertex&apos;s edge in the 2D images and pull the vertex so it aligns with that edge.](../.gitbook/assets/40817-underhang-edge-adjustment.png)
 
-![Vertex is pulled past the gutter in 2D images, vertex edge is aligned with its edge in the 2D images](../.gitbook/assets/40817-underhang-edge-adjustment-final.png)
+![Vertex is pulled past the gutter in 2D images, vertex edge is aligned with its edge in the 2D images.](../.gitbook/assets/40817-underhang-edge-adjustment-final.png)
+
+* To help adjust the occluded vertices of the underhang, put the tool into 2D mode. With the underhang plane locked, use the 2D images and the 2D view of the tool to adjust/verify those vertices.
+
+![3D tool is set to 2D mode. Use 2D images and 2D mode to pull those vertices to their approx. location.](../.gitbook/assets/40817-underhang-occluded-verts-in-2d-mode.png)
+
+
 
