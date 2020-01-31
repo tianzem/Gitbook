@@ -23,3 +23,7 @@ There are two types of chimney placement: Chimneys that break an Edge, and Chimn
 
 ![](../.gitbook/assets/chimney-in-the-middle-of-plane.png)
 
+{% hint style="info" %}
+The chimney's edges that are parallel to ground should always be Flashing. The angled edges against the chimney should always be Step Flashing. The example images show the correct edge types. Detect Edge Types usually does not correctly detect all of a chimney's edges.
+{% endhint %}
+

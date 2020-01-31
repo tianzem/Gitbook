@@ -1,6 +1,6 @@
 # Trees
 
-> Tree shadows will destroy a part of the point cloud, usually it will be a corner.
+If a tree is too close to the roof, or if the tree's shadow falls across the roof, then the point cloud will most likely be broken there. This usually occurs at the corner of a structure.
 
 1. [Create](../3d-scene-manipulation-tools/geometry/create.md) the two uncompleted edges near the corner.
 
