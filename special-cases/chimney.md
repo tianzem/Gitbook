@@ -15,3 +15,13 @@ description: >-
 | FairFleet | Yes | No |
 | KittyHawk | Yes | No |
 
+* The first 2 images below are examples of a Chimney breaking an Edge -- all customers require this type:
+
+![](../.gitbook/assets/chimney-breaks-an-edge.png)
+
+![](../.gitbook/assets/chimney-breaks-a-ridge.png)
+
+* The image below is an example of a Chimney in the middle of a Plane:
+
+![](../.gitbook/assets/chimney-in-the-middle-of-plane.png)
+
