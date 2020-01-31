@@ -6,7 +6,7 @@
 
 ![Missing the minor structure](../.gitbook/assets/2018-07-31_15-33-15.jpg)
 
-![Extra Terrace/Patio ](../.gitbook/assets/11755.gif)
+![Extra Terrace/Patio -- should not be wireframed ](../.gitbook/assets/11755.gif)
 
 2 - Wireframe Structure
 

@@ -1,8 +1,8 @@
 # Underhangs
 
-> Typically, it is hard to find a 2D image that shows the underhang's vertices that are occluded by the overhanging roof, and it might be easier to change the vertex location in the 3D window instead.
+Typically, it's hard to find a 2D image that shows the occluded vertices of an underhang roof. It is sometimes easier to adjust the vertices with a combination of the 3D window and 2D images. The 3D window can also be put into [2D mode](../preset-and-projection-view.md) and the occluded vertices can be adjusted that way \(the steps and images below show an example of this process\).
 
-
+If it is hard to rough out the underhang, due to a noisy and/or broken point cloud, then set the [Snap Mode](../advanced-function/snap-mode.md) to None and rough out the plane. Use the [Align](../3d-scene-manipulation-tools/geometry/align.md) function to align the horizontal parallel edges, of the underhang, to an accurate Eave or Ridge edge that is parallel to ground and the underhang edges as well. Afterward, a combination of the 2D images and the 3D window put into 2D mode can be used to fully adjust the underhang.
 
 * Make a rough plane on the underhang, and adjust/verify the vertices that are visible in the 2D images and not hidden by the overhang. Make sure to lock the plane when doing these adjustments.
 
@@ -22,6 +22,14 @@
 * To help adjust the occluded vertices of the underhang, put the tool into 2D mode. With the underhang plane locked, use the 2D images and the 2D view of the tool to adjust/verify those vertices.
 
 ![3D tool is set to 2D mode. Use 2D images and 2D mode to pull those vertices to their approx. location.](../.gitbook/assets/40817-underhang-occluded-verts-in-2d-mode.png)
+
+* While pulling the occluded vertices in the tool, in 2D mode, try to align the occluded edges with their parallel counterparts. **DO NOT** use the [Align](../3d-scene-manipulation-tools/geometry/align.md) tool at this stage, because it will mess up the other verified underhang vertices. Click on one of the unverified, occluded, vertices and hit Apply in the Adjust Vertices panel, to verify the vertex.
+* Make sure that the underhang looks good in 2D mode
+  * There should be no gaps/spaces between the overlapping edges of the underhang and overhang.
+    * Making sure the occluded vertices are pulled past the gutter of the overhang will guarantee no gaps.
+  * The occluded section of the underhang should follow the edges of the overhang. Imagine that there is a wall coming straight down from the overhang to the underhang. The occluded edges/vertices should go around that invisible wall from the overhang \(like the example in the image below\).
+
+![](../.gitbook/assets/40817-underhang-occluded-verts-final-adjust.png)
 
 
 

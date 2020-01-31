@@ -97,10 +97,8 @@
   * [Project Priority and Intranet Sorting Tips](resources/project-priority-and-intranet-tips.md)
   * [Wireframe SOS](resources/wireframe-sos.md)
   * [In Support Projects](resources/in-support-projects.md)
-  * [Scaling Check](resources/scaling-check.md)
   * [Missing Secondary Structure](resources/missing-secondary-structure.md)
-  * [Grade Standard](resources/grade-standard.md)
-  * [Review Standard](resources/review-standard.md)
   * [Review Pipeline](resources/review-pipeline.md)
+  * [Scaling Error](resources/scaling-check.md)
   * [Quiz](resources/quiz.md)
 

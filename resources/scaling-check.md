@@ -1,6 +1,8 @@
-# Scaling Check
+# Scaling Error
 
-**Steps to check the scaling issue using GoogleMaps**
+Occasionally there will be an error/bug in the scaling of our point clouds. When this happens, users will be asked to verify the scale of their project against that project's address in Google Maps.
+
+**Steps to check the scaling issue using Google Maps:**
 
 Every time we receive a **DroneDeploy Standard** project, we would need to check whether the scaling is correct or not first before actually QA the project.
 
