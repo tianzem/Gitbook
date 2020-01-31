@@ -85,7 +85,7 @@
   * [How to Deal with a Broken Point Cloud](special-cases/how-to-deal-with-a-broken-point-cloud.md)
   * [Underhangs](special-cases/overhang.md)
   * [Chimneys](special-cases/chimney.md)
-  * [Tree](special-cases/tree.md)
+  * [Trees](special-cases/tree.md)
   * [Penetrations](special-cases/penetration.md)
   * [Flat Roofs](special-cases/flat-roof.md)
   * [Dormers](special-cases/dormer.md)

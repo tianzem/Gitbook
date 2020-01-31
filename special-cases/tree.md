@@ -1,4 +1,4 @@
-# Tree
+# Trees
 
 > Tree shadows will destroy a part of the point cloud, usually it will be a corner.
 

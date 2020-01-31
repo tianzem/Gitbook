@@ -1,6 +1,6 @@
 ---
 description: >-
-  Hotkey for Edge Dimensions: L           No hotkey for Edges, only edge
+  Hotkey for Edge Dimensions: L           No hotkey for Edges on/off, only edge
   dimensions
 ---
 

@@ -8,13 +8,17 @@ The Preset & Projection View buttons allow users to control the 3D Tool's dimens
 
 ![](.gitbook/assets/3d-2d-camera-and-ortho-buttons_large.png)
 
-The 3D Preset button is the default preset mode of the 3D Tool window. Clicking it will set the projection view to Perspective \(camera symbol button\), which is also the default projection view.
+The 3D Preset button is the default preset mode of the 3D Tool window. Clicking it will set the projection view to Perspective \(camera symbol button\), which is also the default projection view. -- image below
+
+![3D Preset on with Perspective Projection View, and View Cube unlocked.](.gitbook/assets/3d-preset%20%281%29.png)
 
 The 2D Preset button will switch the preset to 2D in the 3D window, and it will change the projection view to Orthographic. It will lock the point cloud to the true north direction on the grid of the [View Cube](view-cube.md), and the point cloud will be rotated and re-centered to match that direction. The projected view buttons will automatically switch to the Orthographic projection view instead of the Perspective projection view.
 
 {% hint style="info" %}
 The 2D Preset button is helpful when wireframing commercial structures. Switching to 2D mode allows users to see an overview of the wireframe's alignment and ensure its vertices aren't going through the walls of the point cloud.
 {% endhint %}
+
+![2D Preset on with Orthographic Projection View, and View Cube locked.](.gitbook/assets/2d-preset.png)
 
 The Re-center Button will quickly re-center the point cloud within the 3D Tool window, and will rotate the cloud back to its original angle.
 
