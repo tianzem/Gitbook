@@ -15,7 +15,7 @@ description: >-
 | FairFleet | Yes | No |
 | KittyHawk | Yes | No |
 
-* The first 2 images below are examples of a Chimney breaking an Edge -- all customers require this type:
+* The first 2 images below are examples of a Chimney breaking an Edge -- all customers require this type of chimney to be wireframed:
 
 ![](../.gitbook/assets/chimney-breaks-an-edge.png)
 
