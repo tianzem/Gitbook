@@ -1,6 +1,10 @@
 # Trees
 
-If a tree is too close to the roof, or if the tree's shadow falls across the roof, then the point cloud will most likely be broken there. This usually occurs at the corner of a structure.
+{% hint style="danger" %}
+This page is under construction
+{% endhint %}
+
+If a tree is too close to the roof, or if the tree's shadow falls across the roof, then the point cloud will probably be broken in that area. This usually occurs at the corner of a structure.
 
 1. [Create](../3d-scene-manipulation-tools/geometry/create.md) the two uncompleted edges near the corner.
 
