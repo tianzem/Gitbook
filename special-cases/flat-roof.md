@@ -16,3 +16,7 @@ Typically, it is hard to select the exact corner of the flat roof due to the tex
 [2D Mode](../preset-and-projection-view.md) is a great way to see the roof from the top-down view. Users are able to check if the wireframe is going off/through the point cloud where it shouldn't be. They can quickly adjust the rough wireframe by locking the plane.
 {% endhint %}
 
+{% hint style="warning" %}
+If the commercial flat roof requires penetrations, please refer to the [Penetrations](penetration.md) section for tips and tricks on locating all of them.
+{% endhint %}
+

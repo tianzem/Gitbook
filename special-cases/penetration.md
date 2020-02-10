@@ -1,14 +1,12 @@
 # Penetrations
 
 {% hint style="warning" %}
-In DroneDeploy projects, you will see "Enterprise" or "Add Obstructions" in the description field/column on the intranet for projects requiring penetrations. Please refer to this link for a detailed breakdown of DD description codes:
+For DroneDeploy projects requiring penetrations, you will see "Enterprise" or "Add Obstructions" in the description field/column of the intranet. Please refer to this link for a detailed breakdown of DD description codes: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
 
-[https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Co](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
-
-Refer to this link for all other customer requirements for penetrations: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements](https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements) 
+Refer to this link for all other customer requirements on penetrations: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements](https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements)
 {% endhint %}
 
-1. Finish the entire roof first before starting the penetrations.
+1. Finish all other wireframing steps before starting the penetrations.
 2. Starting from one of the planes, open the 2D images first and count the total number of penetrations to make sure that none of the penetrations are missed on this plane. Hold `Alt+Ctrl` and hover the mouse on the plane. Notice that the primary edge is highlighted \(if you want to align the penetration with a different edge, then you could [Set Primary Edge](../tools/wireframe-tools/set-primary-edge.md) here to change it\). While holding Alt+Ctrl, Left-click and release to place the anchor vertex, drag the mouse until the penetration is covered on the cloud, and left-click again to place the location of the diagonal vertex.
 
    ![](../.gitbook/assets/penetrationpage-image1-update_project18479.gif)
@@ -29,7 +27,7 @@ Refer to this link for all other customer requirements for penetrations: [https:
 7. If the roof plane is changed or deleted, the penetrations may need to be recreated since they are going get detached or will have moved with the plane.
 
 {% hint style="danger" %}
-DO NOT use AutoLock when adjusting penetrations. Manually lock the parent plane, and then adjust using the 2D images with 1 image + Locked Plane triangulation. AutoLock will lock the penetration's plane, not the parent plane that the penetration is attached to.
+DO NOT use [AutoLock](../advanced-function/autolock.md) when adjusting penetrations. Manually lock the parent plane, and then adjust using the 2D images with 1 image + Locked Plane triangulation. AutoLock will lock the penetration's plane, not the parent plane that the penetration is attached to.
 {% endhint %}
 
 {% hint style="info" %}
