@@ -6,7 +6,7 @@ This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool
 
 ### **There are several sections within this user guide.**
 
-![Toolbar Overall](.gitbook/assets/image%20%281%29.png)
+![Toolbar with all Panels shown](.gitbook/assets/image%20%281%29.png)
 
 [Basic Functions](basic-function/) provides a breakdown of all of the basic functions in the tool:
 

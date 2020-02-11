@@ -1,18 +1,43 @@
+---
+description: >-
+  Hotkey: Alt+Ctrl -- creates a 4-sided penetration (cannot be used for
+  penetrations with more than 4 sides). Alt must be pressed first and then Ctrl.
+  While holding Alt+Ctrl, left-click and release, and
+---
+
 # Penetrations
 
-{% hint style="warning" %}
-For DroneDeploy projects requiring penetrations, you will see "Enterprise" or "Add Obstructions" in the description field/column of the intranet. Please refer to this link for a detailed breakdown of DD description codes: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
+There are two primary ways to create penetrations. The first is to manually create them, and the second is to use the Detect Penetrations feature. Instructions, tips, and tricks are listed below for each method.
 
-Refer to this link for all other customer requirements on penetrations: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements](https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements)
+{% hint style="danger" %}
+Finish all other wireframing steps BEFORE completing the penetrations.
 {% endhint %}
 
 {% hint style="info" %}
-Finish all other wireframing steps before working on the penetrations.
+For DroneDeploy projects requiring penetrations, you will see "Enterprise" or "Add Obstructions" in the description field/column of the intranet. Please refer to this link for a detailed breakdown of DD description codes: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes](https://pointivo.atlassian.net/wiki/spaces/CO/pages/187662337/DroneDeploy+Description+Codes)
+
+Some DroneDeploy projects will require Obstruction Heights to be added to each penetration. The link above will note which project descriptions require this. The link here shows how to add Obstruction Heights: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/337215515/How+to+add+obstruction+heights](https://pointivo.atlassian.net/wiki/spaces/CO/pages/337215515/How+to+add+obstruction+heights)
 {% endhint %}
+
+{% hint style="info" %}
+Refer to this link for all other customer requirements on penetrations: [https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements](https://pointivo.atlassian.net/wiki/spaces/CO/pages/188907541/Customer+Wireframe+Project+Requirements)
+{% endhint %}
+
+#### Manual Penetration Creation:
+
+When a plane is locked, anything wireframed within that plane's boundaries will become a penetration of that plane. If the obstruction/penetration is an odd shape, such as HVAC ductwork or L-shaped chimneys, then it will need to be wireframed by creating each vertex around the obstruction. If the penetration is a shape that can fit within a square/rectangular polygon, then the penetration shortcut can be used.
 
 #### Detect Penetrations:
 
-One way to start finding all of the penetrations is to use the Detect Penetrations feature. 
+![](../.gitbook/assets/detect-penetrations.png)
+
+One way to start finding all of the penetrations is to use Detect Penetrations in the Wireframe Tools tab of the Tools panel. This feature will find, and wireframe, all of the objects it detects as penetrations. Once the button is clicked, Detect Penetrations will start running, it will create a new branch called "Penetrations", and it will have the wireframe with the penetrations on that branch. When detect penetrations has finished running, open the penetrations branch and use Save As to save the penetration wireframe onto the qa branch.
+
+* Every penetration that is detected needs to be checked to confirm it is actually a penetration. Detect penetrations will sometimes detect things like discolored shingles or random sticks/debris as penetrations, even though they're not.
+  * Anything that is not a true penetration must be deleted -- select the surface of the penetration and hit Ctrl+Del to delete it.
+* Each penetration will need to have 2 of its diagonal vertices adjusted, and verified using, Adjust Vertices. The other two unadjusted vertices will snap with the adjusted ones.
+  * **Turn off AutoLock when adjusting penetration vertices**.
+    * Manually lock the parent plane and then adjust the penetration vertices. If AutoLock is on, then the penetration plane will automatically lock when its vertices are selected. They must be adjusted on the locked parent plane instead.
 
 ## \*Stopped editing right above this line \(special cases at end should stay\)
 
@@ -24,7 +49,7 @@ One way to start finding all of the penetrations is to use the Detect Penetratio
 
    ![](../.gitbook/assets/penetrationpage-image2-update_project18479%20%283%29.gif)
 
-3. Lock the parent plane first, pick either one of the corners and adjust the vertex via the 2D images using 1 Image + Locked Plane mode. Pick the diagonal vertex and adjust this vertex under the same locked mode. Only two of the diagonal vertices need to be adjusted, and applied, to set the shape of the cutout.
+3. Lock the parent plane first, pick any one of the penetration's corner vertices and adjust the vertex via the 2D images using 1 Image + Locked Plane mode. Pick the diagonal vertex and adjust this vertex under the same locked mode. Only two of the diagonal vertices need to be adjusted, and applied, to set the shape of the cutout.
 
    ![](../.gitbook/assets/penetrationpage-image3-update_project18479.gif)
 
@@ -40,7 +65,7 @@ DO NOT use [AutoLock](../advanced-function/autolock.md) when adjusting penetrati
 {% endhint %}
 
 {% hint style="info" %}
-For penetrations that are the same type, like pipes and vents, an existing penetration can be copied \(Ctrl + c\) and pasted \(Ctrl + v\). Then the copied version can be moved to the new location. A penetration can also be dragged from one plane to another without having to make the same penetration on a different plane.
+For penetrations that are the same type, like pipes and vents, an existing penetration can be copied \(Ctrl + C\) and pasted \(Ctrl + V\). Then the copied version can be moved to the new location. They can also be dragged from one plane to another without having to make the same penetration on a different plane.
 {% endhint %}
 
 #### Special Cases:
