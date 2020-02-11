@@ -25,7 +25,11 @@ Refer to this link for all other customer requirements on penetrations: [https:/
 
 #### Manual Penetration Creation:
 
-When a plane is locked, anything wireframed within that plane's boundaries will become a penetration of that plane. If the obstruction/penetration is an odd shape, such as HVAC ductwork or L-shaped chimneys, then it will need to be wireframed by creating each vertex around the obstruction. If the penetration is a shape that can fit within a square/rectangular polygon, then the penetration shortcut can be used.
+When a plane is locked, anything wireframed within that plane's boundaries will become a penetration of that plane. If the obstruction/penetration is an odd shape, such as HVAC ductwork or L-shaped chimneys, then it will need to be wireframed by creating each vertex around the obstruction. 
+
+If the penetration is a shape that can fit within a square/rectangular polygon, such as pipes, vents, and square chimneys, then the penetration shortcut can be used. In order to use the shortcut, the hotkeys must be pressed in a specific order.
+
+* Lock the plane that the penetration will be attached to \(a.k.a the parent plane\)
 
 #### Detect Penetrations:
 
