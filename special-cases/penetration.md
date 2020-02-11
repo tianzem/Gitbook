@@ -1,10 +1,3 @@
----
-description: >-
-  Hotkey: Alt+Ctrl -- creates a 4-sided penetration (cannot be used for
-  penetrations with more than 4 sides). Alt must be pressed first and then Ctrl.
-  While holding Alt+Ctrl, left-click and release, and
----
-
 # Penetrations
 
 There are two primary ways to create penetrations. The first is to manually create them, and the second is to use the Detect Penetrations feature. Instructions, tips, and tricks are listed below for each method.
