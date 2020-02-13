@@ -23,6 +23,11 @@ When a plane is locked, anything wireframed within that plane's boundaries will 
 If the penetration is a shape that can fit within a square/rectangular polygon, such as pipes, vents, and square chimneys, then the penetration shortcut can be used. In order to use the shortcut, the hotkeys must be pressed in a specific order.
 
 * Lock the plane that the penetration will be attached to \(a.k.a the parent plane\)
+* Hit and hold Alt + Ctrl -- alt must be hit first
+  * With those still held down, left-click at the top left corner of the obstruction and release left-click; don't release Alt+Ctrl.
+  * Continue holding Alt+Ctrl and drag your mouse down to the bottom right corner of the obstruction -- a polygon will start to form as the mouse moves to the bottom corner.
+    * Left-click again, at the penetration's bottom right corner, and release Alt+Ctrl.
+    * A penetration polygon will be on, and attached to, the parent plane.
 
 #### Detect Penetrations:
 
