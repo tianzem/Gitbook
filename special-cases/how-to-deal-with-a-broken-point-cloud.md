@@ -44,5 +44,13 @@ For **Case 1 and Case 2** where there are not any completed planes, change the `
 
 For **Case 3** where there are several completed planes, change the `POINT_DENSE` to `PROBLEM`.
 
-![](../.gitbook/assets/unusable-ug.gif)
+In order to get the dropdown menu to set the point\_dense to Problem or Unusable, the original POINT\_DENSE file must be selected
+
+* Click on the dropdown arrow to the right of POINT\_DENSE, and select the oldest point\_dense file -- outlined in red in the image below:
+
+![](../.gitbook/assets/point-dense-file.png)
+
+* Once the oldest file is selected, the dropdown menu for setting the Point\_Dense to Problem or Unusable will become available and can be set to the desired issue -- as shown below:
+
+![](../.gitbook/assets/point-dense-dropdown.png)
 

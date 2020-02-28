@@ -48,6 +48,10 @@ One way to start finding all of the penetrations is to use Detect Penetrations i
   * **Turn off AutoLock when adjusting penetration vertices**.
     * Manually lock the parent plane and then adjust 2 diagonal vertices of the penetration. If AutoLock is on, then the penetration plane will automatically lock when its vertices are selected. They must be adjusted on the locked parent plane instead.
 
+### Camera Projection
+
+\*Use this section to show examples of Camera Projection and its uses once it is fixed in the tool\*
+
 ### **Penetration Edge Types**
 
 All penetration edge types should be Step Flashing, except for those with wall edges that are parallel to ground -- such as chimneys. For chimney penetrations, the edges that are parallel to ground should be Flashing and the edges that are not parallel to ground should be Step Flashing. Detect Edge Types will detect all penetration edges as step flashing. The parallel-to-ground chimney edges will have to be manually changed to Flashing.
