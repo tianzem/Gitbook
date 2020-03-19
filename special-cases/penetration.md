@@ -50,7 +50,7 @@ One way to start finding all of the penetrations is to use Detect Penetrations i
 
 ### Camera Projection
 
-Camera projection displays one of the point cloud's 2D images onto a plane in the wireframe. This feature is useful when trying to locate all of the penetrations within a plane. Sometimes the images in the Adjust Vertices panel are not large, or clear, enough to see all of the penetrations. With camera projection, the images are displayed onto the actual plane instead of inside a thumbnail. Instructions for camera projection are listed below followed by a brief video of it in the wireframe tool.
+Camera projection displays one of the point cloud's 2D images onto a plane in the wireframe. This feature is useful when trying to locate all of the penetrations within a plane. Sometimes the images in the Adjust Vertices panel are not large, or clear, enough to see all of the penetrations. With camera projection, the images are displayed onto the actual plane instead of inside a thumbnail. On large Commercial projects that require obstructions, Camera Projection is a huge time-saver. Instructions for camera projection are listed below followed by a brief video of it in the wireframe tool.
 
 **To use Camera projection:**
 
