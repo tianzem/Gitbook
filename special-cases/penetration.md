@@ -50,7 +50,25 @@ One way to start finding all of the penetrations is to use Detect Penetrations i
 
 ### Camera Projection
 
-\*Use this section to show examples of Camera Projection and its uses once it is fixed in the tool\*
+Camera projection displays one of the point cloud's 2D images onto a plane in the wireframe. This feature is useful when trying to locate all of the penetrations within a plane. Sometimes the images in the Adjust Vertices panel are not large, or clear, enough to see all of the penetrations. With camera projection, the images are displayed onto the actual plane instead of inside a thumbnail. Instructions for camera projection are listed below followed by a brief video of it in the wireframe tool.
+
+**To use Camera projection:**
+
+* Turn off the point cloud \(hit P\) so that it does not overlap with the 2D image projection.
+* Hold C and move the mouse over one of the planes
+* A 2D image will project onto the plane covered by the mouse
+  * if the image is blurry:  Hold C and Middle Mouse Scroll - this flips through, and projects, the available images of that plane \*sometimes all images are bad\*
+  * Lock the plane and draw out the penetrations like normal
+  * Unlock the plane once all its penetrations are created
+* To change planes, rotate the point cloud and Hold C + move the mouse over the new desired plane
+  * The 2D image will project onto the new plane
+  * \*if a previous plane is still locked, then the image will not project onto the new plane\*
+
+{% hint style="success" %}
+**Hit Alt + C to turn off Camera Projection**
+{% endhint %}
+
+[https://drive.google.com/a/pointivo.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view?usp=sharing](https://drive.google.com/a/pointivo.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view?usp=sharing)
 
 ### **Penetration Edge Types**
 
