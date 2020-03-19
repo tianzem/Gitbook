@@ -68,7 +68,7 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 **Hit Alt + C to turn off Camera Projection**
 {% endhint %}
 
-[https://drive.google.com/a/pointivo.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view?usp=sharing](https://drive.google.com/a/pointivo.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view?usp=sharing)
+[https://drive.google.com/open?id=15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx](https://drive.google.com/open?id=15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx)
 
 ### **Penetration Edge Types**
 
