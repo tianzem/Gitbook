@@ -56,10 +56,10 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 
 * Turn off the point cloud \(hit P\) so that it does not overlap with the 2D image projection.
 * Hold C and move the mouse over one of the planes
-* A 2D image will project onto the plane covered by the mouse
-  * if the image is blurry:  Hold C and Middle Mouse Scroll - this flips through, and projects, the available images of that plane \*sometimes all images are bad\*
+* A 2D image will be projected onto the plane covered by the mouse
+  * if the image is blurry:  Hold C and Middle Mouse Scroll - this flips through, and projects, the available images of that plane \*occasionally all images will be bad\*
   * Lock the plane and draw out the penetrations like normal
-  * Unlock the plane once all its penetrations are created
+  * Unlock the plane once all of its penetrations are created
 * To change planes, rotate the point cloud and Hold C + move the mouse over the new desired plane
   * The 2D image will project onto the new plane
   * \*if a previous plane is still locked, then the image will not project onto the new plane\*
