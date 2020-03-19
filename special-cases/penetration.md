@@ -63,12 +63,13 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 * To change planes, rotate the point cloud and Hold C + move the mouse over the new desired plane
   * The 2D image will project onto the new plane
   * \*if a previous plane is still locked, then the image will not project onto the new plane\*
+* Hit Alt + C to turn off Camera Projection
+
+{% embed url="https://drive.google.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view" %}
 
 {% hint style="success" %}
 **Hit Alt + C to turn off Camera Projection**
 {% endhint %}
-
-[https://drive.google.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view](https://drive.google.com/file/d/15SIgoWGB67WeMx5k7WK9Fwll8NIx4HMx/view)
 
 ### **Penetration Edge Types**
 
