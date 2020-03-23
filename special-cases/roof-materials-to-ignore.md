@@ -6,6 +6,8 @@ There are a few types of roofing material that we do not support or wireframe. E
 
 ![](../.gitbook/assets/fabric-awnings.png)
 
+![](../.gitbook/assets/fabric-awning2.png)
+
 * **Wooden Awnings/Trellis:**
 
 ![Project 57301](../.gitbook/assets/image.png)
