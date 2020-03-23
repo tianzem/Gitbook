@@ -92,6 +92,7 @@
   * [Eave Returns](special-cases/eave-returns.md)
   * [Snow Stoppers](special-cases/snow-stoppers.md)
   * [Vertical Planes](special-cases/vertical-planes.md)
+  * [Thermal Map Projects](special-cases/thermal-map-projects.md)
 * [Customer Requirements](customer-requirements.md)
 * [Resources](resources/README.md)
   * [Project Priority and Intranet Sorting Tips](resources/project-priority-and-intranet-tips.md)
