@@ -71,6 +71,12 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 **Hit Alt + C to turn off Camera Projection**
 {% endhint %}
 
+**Commercial Structure Example with Camera Projection Off & On:**
+
+![](../.gitbook/assets/camera-projection-off.png)
+
+![](../.gitbook/assets/camera-projection-on.png)
+
 ### **Penetration Edge Types**
 
 All penetration edge types should be Step Flashing, except for those with wall edges that are parallel to ground -- such as chimneys. For chimney penetrations, the edges that are parallel to ground should be Flashing and the edges that are not parallel to ground should be Step Flashing. Detect Edge Types will detect all penetration edges as step flashing. The parallel-to-ground chimney edges will have to be manually changed to Flashing.
