@@ -83,6 +83,7 @@
 * [Structure Types](structure-types.md)
 * [Special Cases](special-cases/README.md)
   * [How to Deal with a Broken Point Cloud](special-cases/how-to-deal-with-a-broken-point-cloud.md)
+  * [Roof Materials to Ignore](special-cases/roof-materials-to-ignore.md)
   * [Underhangs](special-cases/overhang.md)
   * [Chimneys](special-cases/chimney.md)
   * [Trees](special-cases/tree.md)
