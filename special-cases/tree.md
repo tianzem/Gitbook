@@ -1,4 +1,4 @@
-# Trees
+# Occlusion due to Trees
 
 If a tree is too close to the roof, or if the tree's shadow falls across the roof, then the point cloud will probably be broken in that area. This usually occurs at the corner of a structure. There are a couple of options for users to try when wireframing these tree scenarios. The first option is to complete the plane as much as possible, and then add the missing vertices/edges. This is shown in the video below. The second method is to use [Intersect Lines](../advanced-function/intersect-lines.md), as described in the three steps after the video.
 

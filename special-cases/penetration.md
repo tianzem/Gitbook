@@ -119,7 +119,7 @@ For penetrations that are the same type, like pipes and vents, an existing penet
 
 ### Special Cases:
 
-**Flat vent penetrations** -- these are hard to see, so pay close attention and double check that they have been included as penetrations:
+**Flat Vent penetrations** -- these are hard to see, so pay close attention and double check that they have been included as penetrations:
 
 ![Flat Vent Penetrations -- project 52302](../.gitbook/assets/52302-flat-vent-penetrations.png)
 
@@ -130,4 +130,10 @@ For penetrations that are the same type, like pipes and vents, an existing penet
 ![](../.gitbook/assets/satellite-dish-footprint.png)
 
 ![](../.gitbook/assets/satellite-dish-incorrect.png)
+
+#### Conduit and Pipes/Wires
+
+In addition to the solar panels, the conduit, and any other piping or wiring, needs to be added as penetrations. Depending on the customer, these may also need obstruction heights added to their planes.
+
+![Solar panel conduit - 57301](../.gitbook/assets/57301-conduit-penetrations.png)
 
