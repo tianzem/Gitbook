@@ -54,3 +54,11 @@ In order to get the dropdown menu to set the point\_dense to Problem or Unusable
 
 ![](../.gitbook/assets/point-dense-dropdown.png)
 
+{% hint style="warning" %}
+For projects with Unusable POINT\_DENSE, do not waste time assigning/detecting edge types.
+{% endhint %}
+
+{% hint style="success" %}
+For projects with Problem POINT\_DENSE, extend the edges as far as you can see in the 2D images. Assign the edge types based on the images, but Do Not spend too much time on this. The point cloud is still broken, and bad quality, and should not yield accurate results.
+{% endhint %}
+
