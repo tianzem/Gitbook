@@ -1,9 +1,5 @@
 # How to Deal with a Broken Point Cloud
 
-{% hint style="danger" %}
-This page is under construction
-{% endhint %}
-
 Kespry is doing testing flights on site by the pilot sometimes, and they are not expecting any results from this kind of testing projects. There is no need to put these broken point cloud to `IN_REVIEW` or `IN_SUPPORT`, since they could be done easily.
 
 **Case 1:** Ground/Dirt/Grass/Rubble without any structures.
