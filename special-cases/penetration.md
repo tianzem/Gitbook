@@ -54,7 +54,9 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 
 **To use Camera projection:**
 
-* Turn off the point cloud \(hit P\) so that it does not overlap with the 2D image projection.
+* For Residential structures: Leave the tool in 3D mode.
+  * For Commercial structures: Put the wireframe tool in 2D mode, then continue with the following instructions.
+* Turn off the point cloud \(hit P\) so that it does not overlap with the image from the camera projection.
 * Hold C and move the mouse over one of the planes
 * A 2D image will be projected onto the plane covered by the mouse
   * if the image is blurry:  Hold C and Middle Mouse Scroll - this flips through, and projects, the available images of that plane \*occasionally all images will be bad\*
@@ -72,6 +74,8 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 {% endhint %}
 
 **Commercial Structure Example with Camera Projection Off & On:**
+
+For Commercial structures, put the wireframe tool into 2D mode instead of 3D. This will project the image straight onto the flat plane of the commercial roof.
 
 ![](../.gitbook/assets/camera-projection-off.png)
 
