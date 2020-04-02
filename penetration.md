@@ -38,7 +38,7 @@ When a plane is locked, anything wireframed within that plane's boundaries will 
 As a last resort, penetrations can be created by drawing a polygon on, and within, another plane using the Create button. Lock the large/parent plane that the penetration is on, then use Create to place each vertex around the penetration and close off the polygon. That polygon automatically attaches itself to the larger plane and becomes a child/penetration of the parent plane. If the project is one that requires obstruction heights, then the Alt+Ctrl shortcut MUST be used.
 
 {% hint style="info" %}
-Use the 2D images to count all of the penetrations in a project, and ensure that every object on the roof is accounted for with penetration polygons.
+Use the 2D images, from the Images Panel in the top toolbar, to count all of the penetrations on the roof. Ensure that every is accounted for with penetration polygons.
 {% endhint %}
 
 ### Detect Penetrations:
@@ -59,7 +59,7 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 
 **To use Camera projection:**
 
-* For Residential structures: Leave the tool in 3D mode.
+* **For Residential structures: Leave the tool in 3D mode.**
   * For Commercial structures: Put the wireframe tool in 2D mode, then continue with the following instructions.
 * Turn off the point cloud \(hit P\) so that it does not overlap with the image from the camera projection.
 * Hold C and move the mouse over one of the planes
@@ -80,7 +80,9 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 
 **Commercial Structure Example with Camera Projection Off & On:**
 
-For Commercial structures, put the wireframe tool into 2D mode instead of 3D. This will project the image straight onto the flat plane of the commercial roof.
+**For Commercial structures, put the wireframe tool into 2D mode** instead of 3D. This will project the image straight down onto the flat plane of the commercial roof.
+
+* Sometimes the edges and/or vertices won't be selectable in 2D mode. When this happens, try switching back to 3D mode, zoom out some, rotate the cloud a little bit, and then put it back into 2D mode. If the edges/vertices still aren't selectable, then close the project and reopen it.
 
 ![](.gitbook/assets/camera-projection-off.png)
 
