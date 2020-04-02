@@ -1,3 +1,7 @@
+---
+description: This section shows the various methods for creating penetrations.
+---
+
 # Penetrations
 
 There are two primary ways to create penetrations. The first is to manually create them, and the second is to use the Detect Penetrations feature. Instructions, tips, and tricks are listed below for each method.
@@ -18,15 +22,16 @@ Refer to this link for all other customer requirements on penetrations: [https:/
 
 ### Manual Penetration Creation:
 
-When a plane is locked, anything wireframed within that plane's boundaries will become a penetration of that plane. If the penetration is a shape that fits within a square/rectangular polygon, such as pipes, vents, and chimneys, then the penetration shortcut can be used. For oddly shaped penetrations, such as HVAC ductwork or L-shaped chimneys, the shortcut can still be used but it will take more than one polygon to account for all of the penetration's shape. Example: L-shaped chimneys would need to be broken into 2 penetration polygons, using the shortcut method, in order to cover all parts of the L-shape. In order to use the shortcut, the hotkeys must be pressed in a specific order.
+When a plane is locked, anything wireframed within that plane's boundaries will become a penetration of that plane. If the penetration is a shape that fits within a square/rectangular polygon, such as pipes, vents, and chimneys, then the penetration shortcut can be used. For oddly shaped penetrations, such as HVAC ductwork, L-shaped chimneys, and conduit the penetration polygon will have to be wireframed by creating vertices around the obstruction. To create oddly shaped penetrations, wireframe around the object while staying within the parent plane. To use the shortcut creation method, the hotkeys must be pressed in a specific order:
 
 * Lock the plane that the penetration will be attached to \(a.k.a the parent plane\)
-* Hit and hold Alt + Ctrl -- alt must be hit first
-  * With those still held down, left-click at the top left corner of the obstruction and release left-click; don't release Alt+Ctrl.
-  * Continue holding Alt+Ctrl and drag your mouse down to the bottom right corner of the obstruction -- a polygon will start to form as the mouse moves to the bottom corner.
-    * Left-click again, at the penetration's bottom right corner, and release Alt+Ctrl.
-    * A penetration polygon will be on, and attached to, the parent plane.
-* Each penetration will need to have 2 of its diagonal vertices adjusted, and verified, using Adjust Vertices. The other two unadjusted vertices will snap to their correct location with the movements of the adjusted ones.
+* Hold Alt + Ctrl -- alt must be hit first
+  * With those still held down, left-click at the top left corner of the obstruction and release.
+    * this will start the penetration polygon
+  * Drag your mouse down to the bottom right corner of the obstruction -- the polygon will get bigger as the mouse moves to the diagonal corner.
+    * Left-click again, at the penetration's bottom right corner.
+    * A penetration polygon will be created, and attached to, the parent plane.
+* Each penetration will need to have 2 of its diagonal vertices adjusted, and verified, using Adjust Vertices. The other two unadjusted vertices will snap to their correct location when the others are adjusted.
   * **Turn off AutoLock when adjusting penetration vertices**.
   * Manually lock the parent plane and then adjust 2 diagonal vertices of the penetration. If AutoLock is on, then the penetration's plane will automatically lock when its vertices are selected. They must be adjusted on the locked parent plane instead.
 
@@ -38,7 +43,7 @@ Use the 2D images to count all of the penetrations in a project, and ensure that
 
 ### Detect Penetrations:
 
-![](../.gitbook/assets/detect-penetrations.png)
+![](.gitbook/assets/detect-penetrations.png)
 
 One way to start finding all of the penetrations is to use Detect Penetrations in the Wireframe Tools tab of the Tools panel. This feature will find, and wireframe, all of the objects it detects as penetrations. Once the button is clicked, Detect Penetrations will start running, it will create a new branch called "Penetrations", and it will have the wireframe with the penetrations on that branch. When detect penetrations has finished running, open the penetrations branch and use Save As to save the penetration wireframe onto the qa branch.
 
@@ -77,21 +82,21 @@ Camera projection displays one of the point cloud's 2D images onto a plane in th
 
 For Commercial structures, put the wireframe tool into 2D mode instead of 3D. This will project the image straight onto the flat plane of the commercial roof.
 
-![](../.gitbook/assets/camera-projection-off.png)
+![](.gitbook/assets/camera-projection-off.png)
 
-![](../.gitbook/assets/camera-projection-on.png)
+![](.gitbook/assets/camera-projection-on.png)
 
 ### **Penetration Edge Types**
 
 All penetration edge types should be Step Flashing, except for those with wall edges that are parallel to ground -- such as chimneys. For chimney penetrations, the edges that are parallel to ground should be Flashing and the edges that are not parallel to ground should be Step Flashing. Detect Edge Types will detect all penetration edges as step flashing. The parallel-to-ground chimney edges will have to be manually changed to Flashing.
 
-![Yellow arrows point to the Flashing chimney edges -- parallel to ground &amp; against a wall](../.gitbook/assets/chimney-flashing-edges.png)
+![Yellow arrows point to the Flashing chimney edges -- parallel to ground &amp; against a wall](.gitbook/assets/chimney-flashing-edges.png)
 
 ### Detached Penetrations
 
 * If a parent plane is broken, or drastically altered, then the pentrations can become detached.
 * Always check that all penetrations are attached. This can be done a couple of different ways.
-  * The first way is to use [Select Children](../tools/wireframe-tools/select-children.md).
+  * The first way is to use [Select Children](tools/wireframe-tools/select-children.md).
     * In surface mode, select the parent plane.
     * Go to the Wireframe Tools tab, in the Tools panel, and click the Select Children button.
     * All of the attached penetrations' planes will turn red -- any that are not red, on that specific parent plane, are not attached.
@@ -105,7 +110,7 @@ All penetration edge types should be Step Flashing, except for those with wall e
 
 When a penetration is created, using the shortcut, a Polygon Shape property is assigned to it. This property allows users to alter the rotation, number of sides, and the alignment edge of the penetration polygon.
 
-![](../.gitbook/assets/polygon-shape-property.png)
+![](.gitbook/assets/polygon-shape-property.png)
 
 The Alignment Edge behaves similarly to Set Primary Edge. However, Alignment Edge refers to the primary aligning edge of the individual penetration/polygon instead of the entire parent plane. To change a penetration's alignment edge: 
 
@@ -114,7 +119,7 @@ The Alignment Edge behaves similarly to Set Primary Edge. However, Alignment Edg
 * Click on the edge of the parent plane that the penetration polygon should be aligned to -- this will realign/reorient the penetration to be aligned with the desired edge
 
 {% hint style="danger" %}
-DO NOT use [AutoLock](../advanced-function/autolock.md) when adjusting penetrations. Manually lock the parent plane, and then adjust using the 2D images with 1 image + Locked Plane triangulation. AutoLock will lock the penetration's plane, not the parent plane that the penetration is attached to.
+DO NOT use [AutoLock](advanced-function/autolock.md) when adjusting penetrations. Manually lock the parent plane, and then adjust using the 2D images with 1 image + Locked Plane triangulation. AutoLock will lock the penetration's plane, not the parent plane that the penetration is attached to.
 {% endhint %}
 
 {% hint style="info" %}
@@ -125,19 +130,19 @@ For penetrations that are the same type, like pipes and vents, an existing penet
 
 **Flat Vent penetrations** -- these are hard to see, so pay close attention and double check that they have been included as penetrations:
 
-![Flat Vent Penetrations -- project 52302](../.gitbook/assets/52302-flat-vent-penetrations.png)
+![Flat Vent Penetrations -- project 52302](.gitbook/assets/52302-flat-vent-penetrations.png)
 
-![Flat Vent Penetrations -- project 52569](../.gitbook/assets/52569-flat-vent-penetrations.png)
+![Flat Vent Penetrations -- project 52569](.gitbook/assets/52569-flat-vent-penetrations.png)
 
 **Satellite Dish penetrations** -- The entire outline/footprint of the satellite dish needs to be included in the penetration polygon, not just the small area that penetrates the roof. Correct and incorrect image examples are shown below:
 
-![](../.gitbook/assets/satellite-dish-footprint.png)
+![](.gitbook/assets/satellite-dish-footprint.png)
 
-![](../.gitbook/assets/satellite-dish-incorrect.png)
+![](.gitbook/assets/satellite-dish-incorrect.png)
 
 #### Conduit and Pipes/Wires
 
 In addition to the solar panels, the conduit, and any other piping or wiring, needs to be added as penetrations. Depending on the customer, these may also need obstruction heights added to their planes.
 
-![Solar panel conduit - 57301](../.gitbook/assets/57301-conduit-penetrations.png)
+![Solar panel conduit - 57301](.gitbook/assets/57301-conduit-penetrations.png)
 

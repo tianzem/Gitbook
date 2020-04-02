@@ -17,6 +17,6 @@ Typically, it is hard to select the exact corner of the flat roof due to the tex
 {% endhint %}
 
 {% hint style="warning" %}
-If the commercial flat roof requires penetrations, please refer to the [Penetrations](penetration.md) section for tips and tricks on locating all of them.
+If the commercial flat roof requires penetrations, please refer to the [Penetrations](../penetration.md) section for tips and tricks on locating all of them.
 {% endhint %}
 
