@@ -11,6 +11,12 @@ description: >-
 If you are unsure what type of structure is shown on the cloud, then use Google Maps to look up the address. You will be able to see if the structure is part of a neighborhood or if it's surrounded by a parking lot/spaces. A lot of times commercial structures will already be labeled on the map. 
 {% endhint %}
 
+{% hint style="warning" %}
+Sometimes there is no structure type listed and no dropdown menu to change it. There will only be a + button \(like the image below\). In this case you would click on the + button and then select the structure type from there.
+{% endhint %}
+
+![](.gitbook/assets/image%20%287%29.png)
+
 ## Special Cases
 
 Some point clouds will be extremely broken, to the point of being unusable, but you are still able to tell what structure type is being shown. In these cases, you would select the structure type that it should be if it wasn't broken. Examples below:
