@@ -78,6 +78,8 @@ Defective Reconstruction means that the project was unable to be processed becau
 
 ![Project 9143](../.gitbook/assets/defective-reconstruction_project9143.gif)
 
+![Project 58972](../.gitbook/assets/broken-unusable-smoothed-cloud_58972.PNG)
+
 ## Large Structure Sample Distance
 
 Large Structure Sample Distance \(SSD\) occurs when the camera is too far from the structure or has low resolution. This results in 2D images that display the structure from a much farther distance than usual, and will become blurry as they are zoomed in on. The accuracy of the wireframe will not meet expectations.
@@ -89,6 +91,8 @@ Large Structure Sample Distance \(SSD\) occurs when the camera is too far from t
 A Smoothed Point Cloud is often the result of meshing, and will cause the surfaces to be blended and the point cloud to have edges that are not crisp.
 
 ![Project 13004](../.gitbook/assets/smoothed-point-cloud_project-13001.gif)
+
+![Project 58972](../.gitbook/assets/broken-unusable-smoothed-cloud_58972.PNG)
 
 ## Project Type Mismatch
 

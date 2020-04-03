@@ -14,13 +14,15 @@ Kespry is doing testing flights on site by the pilot sometimes, and they are not
 
 **Case 2:** Most of the roofing is not captured.
 
-**Example:** `12198, 11872`
+**Example:** `12198, 11872, 58972`
 
 **Solution:** Typically, there will be an autogen branch although the autogen wireframe is a little broken or messy. What you need to do is to save the autogen into qa branch and publish the wireframe which generated automatically. Again, there is no need to worry about the edge types since they do not make any sense.
 
 ![12198](../.gitbook/assets/11872-ug.gif)
 
 ![11872](../.gitbook/assets/12198-ug.gif)
+
+![58972 - This would also get marked as Defective Reconstruction &amp; Smoothed Point Cloud](../.gitbook/assets/broken-unusable-smoothed-cloud_58972.PNG)
 
 **Case 3:** Part of the roofing is not captured.
 
