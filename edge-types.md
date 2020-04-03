@@ -49,7 +49,7 @@ For point clouds that are broken enough to be classified as a Problem POINT\_DEN
 
 The two hip edges, circled below, were visible in the 2D images and manually assigned as hips. If the end points were not visible in the images, then the wireframe would cut off where the point cloud ends and the edges would turn into rakes instead of hips.
 
-![Project 11808](.gitbook/assets/image-1%20%281%29.png)
+![Project 11808](.gitbook/assets/image-1%20%282%29.png)
 
 ### Unusable POINT\_DENSE
 

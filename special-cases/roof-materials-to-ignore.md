@@ -10,9 +10,13 @@ There are a few types of roofing material that we do not support or wireframe. E
 
 ![](../.gitbook/assets/fabric-awning2.png)
 
+![The bottom circle is a hot tub, not a roof](../.gitbook/assets/image-1%20%281%29.png)
+
 * **Wooden Awnings/Trellis:**
 
 ![Project 57301](../.gitbook/assets/image.png)
+
+![](../.gitbook/assets/roof-type-to-ignore.png)
 
 ![Project 57301](../.gitbook/assets/image%20%286%29.png)
 
