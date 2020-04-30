@@ -15,7 +15,7 @@ If you are unsure what type of structure is shown on the cloud, then use Google 
 Sometimes there is no structure type listed and no dropdown menu to change it. There will only be a + button \(like the image below\). In this case you would click on the + button and then select the structure type from there.
 {% endhint %}
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 ## Special Cases
 

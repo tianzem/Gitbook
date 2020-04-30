@@ -11,7 +11,7 @@ Kespry ROIs are not as reliable, so assume they want the secondary structure. Th
 
 The following images are some examples that show the secondary structures we have missed in previous projects. All of these projects were returned by the customer because of the missed structures.
 
-![Missing Secondary Structure](../.gitbook/assets/image%20%285%29.png)
+![Missing Secondary Structure](../.gitbook/assets/image%20%286%29.png)
 
 ![Missing Secondary Structure](../.gitbook/assets/screen-shot-2018-07-25-at-8.00.06-am.png)
 

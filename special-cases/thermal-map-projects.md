@@ -10,5 +10,5 @@ Occasionally there will be projects that we receive as customer tests. Some of t
   * Refer to the bottom of the [How to Deal with a Broken Point Cloud](how-to-deal-with-a-broken-point-cloud.md) page for instructions on how to set the point\_dense
 * Set the project to complete\_final.
 
-![Project 53976](../.gitbook/assets/image%20%288%29.png)
+![Project 53976](../.gitbook/assets/image%20%289%29.png)
 

@@ -84,7 +84,7 @@
 * [Penetrations](penetration.md)
 * [Special Cases](special-cases/README.md)
   * [How to Deal with a Broken Point Cloud](special-cases/how-to-deal-with-a-broken-point-cloud.md)
-  * [Roof Materials to Ignore](special-cases/roof-materials-to-ignore.md)
+  * [Secondary Structures & Roof Materials to Ignore](special-cases/roof-materials-to-ignore.md)
   * [Underhangs](special-cases/overhang.md)
   * [Chimneys](special-cases/chimney.md)
   * [Occlusion due to Trees](special-cases/tree.md)
