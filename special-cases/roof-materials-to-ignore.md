@@ -1,4 +1,4 @@
-# Secondary Structures to Ignore
+# Secondary Structures & Roof Materials to Ignore
 
 Only a few types of secondary structures need to be included/wireframed in a project, several of them can be ignored. If the project has a ROI, and the secondary structure is included in it, then that structure needs to be wireframed. Pool houses, Garages large enough for a car, and Guest Houses should always be included unless the ROI specifically excludes it.
 
