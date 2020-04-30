@@ -1,6 +1,6 @@
 # Secondary Structures & Roof Materials to Ignore
 
-Several secondary structures can be ignored when wireframing a project. If the project has a ROI, and the secondary structure is included in it, then that structure needs to be wireframed. Pool houses, Garages large enough for a car, and Guest Houses should always be included unless the ROI specifically excludes it.
+Several secondary structures can be ignored when wireframing a project. If the project has a ROI, and the secondary structure is included in it, then that structure needs to be wireframed. For Sunrun, Sunpower, and any projects without a ROI, these specific secondary structures can be excluded. **Pool houses, Garages large enough for a car, and Guest Houses should always be included, on all projects, unless the ROI specifically excludes it**.
 
 There are also a few types of roofing material that we do not support or wireframe. Multiple example images of secondary structures and roof material types to ignore are shown below -- these will be updated as new examples are discovered/removed:
 
