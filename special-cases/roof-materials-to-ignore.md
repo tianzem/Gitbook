@@ -18,15 +18,13 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](../.gitbook/assets/fabric-awning2.png)
 
-
-
 ![](https://lh6.googleusercontent.com/xqQSc_FmCGGx-LX4JMdvsSSZf-THEf0sL8HXMvxfNN7SZFO5mbSNbrZImys9IY_0vdTCCkb2DptoLNjqIBUSVDHtlpi1eNLJDVZ7Kyld0PbfWzyeI4-_K-WAQkx0na0Mzv8jmMbSVxs)
 
 ![The bottom circle is a hot tub, not a roof](../.gitbook/assets/image-1%20%281%29.png)
 
 ![](../.gitbook/assets/image%20%2820%29.png)
 
-### \*\*\*\*
+\*\*\*\*
 
 ### **Wooden Awnings/Trellis:**
 
