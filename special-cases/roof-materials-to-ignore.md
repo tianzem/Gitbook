@@ -26,6 +26,8 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](../.gitbook/assets/image%20%2820%29.png)
 
+### \*\*\*\*
+
 ### **Wooden Awnings/Trellis:**
 
 ![Project 57301](../.gitbook/assets/image%20%282%29.png)
@@ -37,6 +39,8 @@ There are also a few types of roofing material that we do not support or wirefra
 ![Project 57301](../.gitbook/assets/image%20%2816%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
+
+### \*\*\*\*
 
 ### **Shed/Greenhouse/Storage Units:**
 
@@ -57,6 +61,8 @@ There are also a few types of roofing material that we do not support or wirefra
 ![](../.gitbook/assets/image%20%2815%29.png)
 
 ![](../.gitbook/assets/image%20%2819%29.png)
+
+### \*\*\*\*
 
 ### **Deck/Porch/Hot Tub**
 
