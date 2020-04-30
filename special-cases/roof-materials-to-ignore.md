@@ -22,7 +22,7 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![The bottom circle is a hot tub, not a roof](../.gitbook/assets/image-1%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 \*\*\*\*
 
@@ -42,7 +42,7 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ### **Shed/Greenhouse/Storage Units:**
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
@@ -60,11 +60,13 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
+![](../.gitbook/assets/image%20%2820%29.png)
+
 ### \*\*\*\*
 
 ### **Deck/Porch/Hot Tub**
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
