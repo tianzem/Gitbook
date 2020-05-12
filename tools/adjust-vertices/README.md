@@ -22,7 +22,7 @@ In the top right corner of the vertex list, there is a drop-down list. This list
 The planes must be reliable in order for the vertices to adjust properly with Plane Sort.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 Since AutoLock is on, each vertex will only need to be adjusted in one of the 2D images. While the mouse is active in the 2D image windows, the shortcut keys can be used to Apply, Shuffle, and go to the Next, or Previous, vertex.  
 

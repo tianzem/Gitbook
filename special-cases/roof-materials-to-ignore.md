@@ -8,7 +8,7 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](../.gitbook/assets/fabric-awnings.png)
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
@@ -22,7 +22,7 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![The bottom circle is a hot tub, not a roof](../.gitbook/assets/image-1%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 \*\*\*\*
 
@@ -34,7 +34,7 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](../.gitbook/assets/roof-type-to-ignore.png)
 
-![Project 57301](../.gitbook/assets/image%20%2816%29.png)
+![Project 57301](../.gitbook/assets/image%20%2817%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
@@ -42,7 +42,7 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ### **Shed/Greenhouse/Storage Units:**
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
@@ -56,11 +56,11 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](https://lh4.googleusercontent.com/FHzgDNKK8DAz9xLYCEZyyJEJF_JF7TZzV8ltohTjaPySVgjjkD6SIQFC649YTBN5i3QcPO9yr86x4ryQbgUWfRLp_S3XDXHQXFbvCDp7vA98y1fCWKVbgp6d6agbf3OG4gPb5v8URFU)
 
-![](../.gitbook/assets/image%20%2815%29.png)
-
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ![](../.gitbook/assets/image%20%2820%29.png)
+
+![](../.gitbook/assets/image%20%2821%29.png)
 
 ### \*\*\*\*
 
@@ -68,5 +68,5 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 

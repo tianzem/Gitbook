@@ -20,7 +20,7 @@ The View Cube is the compass of the 3D viewport. It allows the user to control t
 
 #### View Cube example below:
 
-![](.gitbook/assets/assets_-lfyx_82cnbwixe7tysa_-lqp8nuw0n7e8o-yt2_c_-lqpavjiii-khozaw9bs_viewcube_seyellowhover_project.gif)
+![](.gitbook/assets/assets_-lfyx_82cnbwixe7tysa_-lqp8nuw0n7e8o-yt2_c_-lqpavjiii-khozaw9bs_viewcube_seyellowhover_project18139.gif)
 
 ^^ In the image above, the mouse is hovering over the Southeast corner of the view cube grid. The grid has not been clicked yet and the view cube is not locked to, or oriented in, the Southeast direction.
 

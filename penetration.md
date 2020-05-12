@@ -130,11 +130,25 @@ For penetrations that are the same type, like pipes and vents, an existing penet
 
 ### Special Cases:
 
-**Flat Vent penetrations** -- these are hard to see, so pay close attention and double check that they have been included as penetrations:
+**Flat Vent penetrations** -- these are hard to see, so pay close attention and double check that they have been included as penetrations. They usually have different markings than the rest of the non-vent shingles, such as slits in the sides or are slightly misshapen in comparison. They can easily blend in and be missed when they are the same color as the normal shingles/tiles:
 
-![Flat Vent Penetrations -- project 52302](.gitbook/assets/52302-flat-vent-penetrations.png)
+![Flat Tile Penetration Closeup - project 63423](.gitbook/assets/flat-tile-penetration-close-up_63423.png)
 
-![Flat Vent Penetrations -- project 52569](.gitbook/assets/52569-flat-vent-penetrations.png)
+![Flat Tile Penetration Closeup - project 52569](.gitbook/assets/flat-tile-2-penetration-close-up_52569.png)
+
+![Flat Metal Vent Penetrations -- project 52302](.gitbook/assets/52302-flat-vent-penetrations.png)
+
+![Flat Tile Vent Penetrations -- project 52569](.gitbook/assets/52569-flat-vent-penetrations.png)
+
+\*\*Occasionally there will be Replacement Tiles that can look a lot like the flat vents. The **replacement tiles ARE NOT penetrations**\*\* -- some examples are below:
+
+![Replacement Shingles - project 63928](.gitbook/assets/image-from-ios.jpg)
+
+![Replacement Tiles - project 63412](.gitbook/assets/replacement-tiles_63412.png)
+
+![Replacement Tiles - project 63503](.gitbook/assets/replacement-tiles_63503.png)
+
+![Replacement &amp; Repair Tiles - project 63423](.gitbook/assets/63423-replacement-tiles.png)
 
 **Satellite Dish penetrations** -- The entire outline/footprint of the satellite dish needs to be included in the penetration polygon, not just the small area that penetrates the roof. Correct and incorrect image examples are shown below:
 
