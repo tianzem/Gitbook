@@ -25,7 +25,7 @@ Refer to this link for all other customer requirements on penetrations: [https:/
 When a plane is locked, anything wireframed within that plane's boundaries will become a penetration of that plane. If the penetration is a shape that fits within a square/rectangular polygon, such as pipes, vents, and chimneys, then the penetration shortcut can be used. For oddly shaped penetrations, such as HVAC ductwork, L-shaped chimneys, and conduit the penetration polygon will have to be wireframed by creating vertices around the obstruction. To create oddly shaped penetrations, wireframe around the object while staying within the parent plane. To use the shortcut creation method, the hotkeys must be pressed in a specific order:
 
 * Lock the plane that the penetration will be attached to \(a.k.a the parent plane\)
-* Hold Alt + Ctrl -- alt must be hit first
+* Hold Alt + Ctrl
   * With those still held down, left-click at the top left corner of the obstruction and release.
     * this will start the penetration polygon
   * Drag your mouse down to the bottom right corner of the obstruction -- the polygon will get bigger as the mouse moves to the diagonal corner.
@@ -35,10 +35,10 @@ When a plane is locked, anything wireframed within that plane's boundaries will 
   * **Turn off AutoLock when adjusting penetration vertices**.
   * Manually lock the parent plane and then adjust 2 diagonal vertices of the penetration. If AutoLock is on, then the penetration's plane will automatically lock when its vertices are selected. They must be adjusted on the locked parent plane instead.
 
-As a last resort, penetrations can be created by drawing a polygon on, and within, another plane using the Create button. Lock the large/parent plane that the penetration is on, then use Create to place each vertex around the penetration and close off the polygon. That polygon automatically attaches itself to the larger plane and becomes a child/penetration of the parent plane. If the project is one that requires obstruction heights, then the Alt+Ctrl shortcut MUST be used.
+As a last resort, penetrations can be created by drawing a polygon on, and within, another plane using the Create button. Lock the large/parent plane that the penetration is on, then use Create to place each vertex around the penetration and close off the polygon. That polygon automatically attaches itself to the larger plane and becomes a child/penetration of the parent plane.
 
 {% hint style="info" %}
-Use the 2D images, from the Images Panel in the top toolbar, to count all of the penetrations on the roof. Ensure that every is accounted for with penetration polygons.
+Use Camera Projection, and/or the 2D images from the Images Panel, to count all of the penetrations on the roof. Ensure that all are accounted for with penetration polygons.
 {% endhint %}
 
 ### Detect Penetrations:
