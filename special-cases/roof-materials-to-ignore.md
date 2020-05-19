@@ -2,7 +2,13 @@
 
 Several secondary structures can be ignored when wireframing a project. If the project has a ROI, and the secondary structure is included in it, then that structure needs to be wireframed. For Sunrun, Sunpower, and any projects without a ROI, these specific secondary structures can be excluded. **Pool houses, Garages large enough for a car, and Guest Houses should always be included, on all projects, unless the ROI specifically excludes it**.
 
-There are also a few types of roofing material that we do not support or wireframe. Multiple example images of secondary structures and roof material types to ignore are shown below -- these will be updated as new examples are discovered/removed:
+There are also a few types of roofing material that we do not support or wireframe. 
+
+{% hint style="warning" %}
+If a secondary roof plane is connected to the main structure AND it's an approved material, then it must be wireframed. 
+{% endhint %}
+
+Multiple example images of secondary structures and roof material types to ignore are shown below -- these will be updated as new examples are discovered/removed:
 
 ### **Fabric/Straw/Metal Awnings or Gazebos:**
 
@@ -20,7 +26,11 @@ There are also a few types of roofing material that we do not support or wirefra
 
 ![](https://lh6.googleusercontent.com/xqQSc_FmCGGx-LX4JMdvsSSZf-THEf0sL8HXMvxfNN7SZFO5mbSNbrZImys9IY_0vdTCCkb2DptoLNjqIBUSVDHtlpi1eNLJDVZ7Kyld0PbfWzyeI4-_K-WAQkx0na0Mzv8jmMbSVxs)
 
-![The bottom circle is a hot tub, not a roof](../.gitbook/assets/image-1%20%281%29.png)
+![The bottom circle is a hot tub, not a roof, top circle is a fabric awning](../.gitbook/assets/image-1%20%281%29.png)
+
+{% hint style="warning" %}
+^^The white metal roof, connected to the main structure in the image above, needs to be wireframed.
+{% endhint %}
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
