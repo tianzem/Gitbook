@@ -5,8 +5,10 @@ Several secondary structures can be ignored when wireframing a project. If the p
 There are also a few types of roofing material that we do not support or wireframe. 
 
 {% hint style="warning" %}
-If a secondary roof plane is connected to the main structure AND it's an approved material, then it must be wireframed. 
+If a secondary roof plane is connected to the main structure AND it's an approved material, then it must be wireframed. \(example image directly below this warning\) 
 {% endhint %}
+
+![Example of secondary structure/side roof to Include](../.gitbook/assets/secondary-type-structures-to-include-in-wireframe_metal-awning-connected-to-house_project-61536.png)
 
 Multiple example images of secondary structures and roof material types to ignore are shown below -- these will be updated as new examples are discovered/removed:
 
