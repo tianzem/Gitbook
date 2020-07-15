@@ -13,7 +13,7 @@ Vertex movements in None are always parallel to the current view. Rotating the p
 {% endhint %}
 
 {% hint style="danger" %}
-None snap mode should be avoided as much as possible. Users should try to triangulate a vertex using 2 image or 3 image adjustment before trying to move it with None snap mode.
+None snap mode should be avoided as much as possible. Users should try to adjust a vertex using 2 image or 3 image triangulation before trying to move it with None snap mode.
 {% endhint %}
 
 ## Point Cloud:
