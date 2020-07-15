@@ -6,10 +6,14 @@ Snap mode affects vertex, edge, and plane manipulation in the 3D window. For ver
 
 ## None:
 
-None mode is the only snap mode that allows full control over vertex movement. Newly created vertices will still be placed on the cloud, wherever they are clicked, but they will not stay snapped to the cloud when moved in the 3D window. None snap mode allows the user to manipulate a vertex, in all directions, without concern for the point cloud. This mode is useful when a vertex needs to be moved to a spot on the cloud that is covered in noise, or is broken. With None snap on, the vertex can be manually pulled to any spot in the 3D window.
+In general, this snap mode should be avoided. None snap mode allows full 3D control over vertex movement. When None is set, newly created vertices will still be snapped onto the cloud, wherever they are clicked, but they will not stay snapped to the cloud when the user moves them in the 3D window. None snap mode allows the user to manipulate a vertex, in all directions, without concern for the point cloud. This mode can be useful when a vertex needs to be moved to, or created in, a broken section of the point cloud.
 
 {% hint style="info" %}
 Vertex movements in None are always parallel to the current view. Rotating the point cloud changes the view and allows a vertex to be placed anywhere in the scene.
+{% endhint %}
+
+{% hint style="danger" %}
+None snap mode should be avoided as much as possible. Users should try to triangulate a vertex using 2 image or 3 image adjustment before trying to move it with None snap mode.
 {% endhint %}
 
 ## Point Cloud:
