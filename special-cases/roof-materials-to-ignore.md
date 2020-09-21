@@ -30,6 +30,8 @@ Multiple example images of secondary structures and roof material types to ignor
 
 ![The bottom circle is a hot tub, not a roof, top circle is a fabric awning](../.gitbook/assets/image-1%20%281%29.png)
 
+![Include the shingled portion, Ignore the red plastic/fabric portion](../.gitbook/assets/image%20%2826%29.png)
+
 {% hint style="warning" %}
 ^^The white metal roof, connected to the main structure in the image above, needs to be wireframed.
 {% endhint %}
