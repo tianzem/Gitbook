@@ -10,7 +10,7 @@ If a secondary roof plane is connected to the main structure AND it's an approve
 
 ![Example of secondary structure/side roof to Include](../.gitbook/assets/secondary-type-structures-to-include-in-wireframe_metal-awning-connected-to-house_project-61536.png)
 
-Multiple example images of secondary structures and roof material types to ignore are shown below -- these will be updated as new examples are discovered/removed:
+### **Multiple example images of secondary structures and roof material types to ignore are shown below -- these will be updated as new examples are discovered/removed:**
 
 ### **Fabric/Straw/Metal Awnings or Gazebos:**
 
@@ -30,11 +30,11 @@ Multiple example images of secondary structures and roof material types to ignor
 
 ![The bottom circle is a hot tub, not a roof, top circle is a fabric awning](../.gitbook/assets/image-1%20%281%29.png)
 
-![Include the shingled portion, Ignore the red plastic/fabric portion](../.gitbook/assets/image%20%2826%29.png)
-
 {% hint style="warning" %}
-^^The white metal roof, connected to the main structure in the image above, needs to be wireframed.
+^^The white metal roof, connected to the main structure, should be wireframed.
 {% endhint %}
+
+![Include the shingled portion, Ignore the red plastic/fabric portion](../.gitbook/assets/image%20%2826%29.png)
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
