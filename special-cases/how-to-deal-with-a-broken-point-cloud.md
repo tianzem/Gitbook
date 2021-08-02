@@ -1,3 +1,10 @@
+---
+description: >-
+  This page refers to Kespry projects only. If it is an Unusable DroneDeploy
+  point cloud, then put the project in_support and post it as Unusable on the
+  in_support_projects channel on Slack.
+---
+
 # How to Deal with a Broken Point Cloud
 
 Sometimes Kespry will have their pilots run test flights. They are not expecting meaningful results from these type of projects. There is no need to set these to `IN_REVIEW` or `IN_SUPPORT`, since they can be completed easily. The structure type should reflect what is shown in the cloud: If there is no structure, then set it to None. If the structure is broken, but you can still tell what type of structure it is, then set it to Singlefamily/Multifamily/Commercial. If there is roof showing, but you can't tell what type of structure it is, then set it to Unknown.
