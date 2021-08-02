@@ -26,11 +26,11 @@ Kespry is doing testing flights on site by the pilot sometimes, and they are not
 
 ![58972 - This would also get marked as Defective Reconstruction &amp; Smoothed Point Cloud](../.gitbook/assets/broken-unusable-smoothed-cloud_58972.PNG)
 
-**Case 3:** Part of the roofing is not captured and broken in the point cloud.
+**Case 3:** Part of the roofing is not captured, and causes large broken areas in the point cloud.
 
 **Example:** `140843`
 
-**Solution:** Take it as a regular project, but ignore the incomplete/broken planes. Detect edge types, and verify vertices, like normal. However, do not waste your time verifying the vertices where the point cloud is broken. Instead, put a rough wireframe on it and then ignore during verification.
+**Solution:** Take it as a regular project, but ignore the incomplete/broken portions. Detect edge types, and verify vertices, like normal. However, do not waste your time verifying the vertices where the point cloud is broken. Instead, put a rough wireframe on it and then ignore during verification.
 
 ![140843](../.gitbook/assets/image%20%2831%29.png)
 
