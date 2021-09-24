@@ -26,7 +26,7 @@ Count displays the number of objects for each listed condition. To the right of 
 | **Inconsistent Plane Normals** | The Plane Normals do not point in the same direction | This can be ignored. |
 | **Parent/Child Plane Shared Edges** | The edge of a cutout is shared with its parent plane's edge | Delete the parent plane and the cutout plane. Use Create from Edges to recreate the parent plane around the cutout -- do not include the shared edge. |
 
-\*Fix the warning below this. The "cutout standard from kespry" links to a page in the weekly updates section. Add a section here for: Instructions on how to handle Parent/Child Plane Shared Edges and example images
+#### 
 
 #### How to fix Parent/Child Plane Shared Edges Condition:
 
