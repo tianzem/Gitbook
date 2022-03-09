@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Shortcuts](shortcut.md)
+* [WFT Shortcuts](shortcut.md)
 * [Basic Functions](basic-function/README.md)
   * [Save & Save As](basic-function/save-as.md)
   * [Import](basic-function/import.md)
@@ -104,4 +104,3 @@
   * [Review Pipeline](resources/review-pipeline.md)
   * [Scaling Error](resources/scaling-check.md)
   * [Quiz](resources/quiz.md)
-
