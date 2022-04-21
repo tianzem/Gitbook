@@ -42,5 +42,5 @@ description: A list of shortcuts/hotkeys to help users navigate the Wireframe To
 | Ctrl + Delete                   | Deletes all of the vertices, edges, and surface of a selected Plane. Also deletes selected penetrations while in Surface mode |
 | hold Alt + Shift                | Click on a vertex or edge to delete                                                                                           |
 | Ctrl + Space                    | Focuses the Camera View to the selected objects -- must have a surface, vertex, or edge selected beforehand                   |
-| Alt + Ctrl                      | Draws a penetration polygon when the mouse is on a surface                                                                    |
+| Alt + Ctrl                      | Left click to draw a penetration polygon when the mouse is on a surface                                                       |
 | tap Alt or Shift (in 3D window) | Modify Mode                                                                                                                   |
