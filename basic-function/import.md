@@ -12,6 +12,8 @@ Import can also be used to salvage a wireframe when there are errors in the tool
 
 Watch this video for instructions on using the Location button to find the original:
 
+{% embed url="https://drive.google.com/file/d/1s-88DkPBJOjqfzg_bWkZMPjTAYIKv7N0/view" %}
+
 [https://www.notion.so/pointivo/How-to-more-easily-find-duplicate-projects-170c2129d7a64ed3b090f0f6d456f169](https://www.notion.so/pointivo/How-to-more-easily-find-duplicate-projects-170c2129d7a64ed3b090f0f6d456f169)
 
 * Duplicate projects will have the address in red font, instead of black, in the Location section on the intranet.
