@@ -1,6 +1,7 @@
 # Modify
 
-![hotkey: tap Alt OR tap Shift](../../.gitbook/assets/modify-button.png)
+![hotkey:&#x20;
+Tap Alt or Tap Shift](../../.gitbook/assets/modify-button.png)
 
 Modify is similar to [Select](select.md), but with editing functionality. In Modify mode, the vertices, edges, and planes can be selected, adjusted, created, or deleted.&#x20;
 
