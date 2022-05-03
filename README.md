@@ -6,7 +6,7 @@ This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool
 
 ### **There are several sections within this user guide.**
 
-![Toolbar with all Panels shown](.gitbook/assets/image%20%286%29.png)
+![Toolbar with all Panels shown](<.gitbook/assets/image (6).png>)
 
 [Basic Functions](basic-function/) provides a breakdown of all of the basic functions in the tool:
 
@@ -26,7 +26,7 @@ This user guide aims to be a comprehensive guide to the `Pointivo Wireframe Tool
 
 [Inspector](properties.md), [Images](images.md), [Layers](layers/), and [Tools](tools/) provide the controls to edit and view the parameters and annotations of a wireframe.
 
-![](.gitbook/assets/picture4%20%281%29.png)
+![](<.gitbook/assets/picture4 (1).png>)
 
 The [Preset & Projection View](preset-and-projection-view.md) buttons allow users to control the viewport's dimension and camera type settings.
 
@@ -34,7 +34,7 @@ The [Preset & Projection View](preset-and-projection-view.md) buttons allow user
 
 The [View Cube](view-cube.md) is the compass of the 3D viewport.
 
-![](.gitbook/assets/picture6%20%281%29.png)
+![](<.gitbook/assets/picture6 (1).png>)
 
 [Settings](settings.md) is hidden in the little grey gear at the top right corner of the screen.
 
@@ -44,5 +44,4 @@ The [View Cube](view-cube.md) is the compass of the 3D viewport.
 
 [Resources](resources/) has some external files for your reference.
 
-[Deprecated]() Recycle Bin
-
+[Deprecated](broken-reference) Recycle Bin

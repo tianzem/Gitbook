@@ -7,7 +7,7 @@ The 3D Scene Manipulation Tools are the main set of tools used for wireframing a
 This section covers the following tools:
 
 * [Inspect](inspect.md)
-* [Geometry](geometry/) -- this must be on/active in order to access its subset of features:
+* [Geometry](geometry/) -- this must be on/active in order to access its subset of features
   * [Select](geometry/select.md)
   * [Create](geometry/create.md)
   * [Modify](geometry/modify.md)
@@ -18,6 +18,4 @@ This section covers the following tools:
 * [Widgets](select.md)
 * [Eraser](eraser-1.md)
 * [Measure](measure.md)
-
-
 

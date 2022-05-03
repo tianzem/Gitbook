@@ -10,8 +10,6 @@ In the Settings menu, the size of the eraser can be altered to suit the user's n
 Vertex mode vs. Surface mode do not affect the Eraser. The eraser will ONLY erase vertices. It will not erase edges or surfaces, so Eraser will work regardless of the set mode.
 {% endhint %}
 
-![The white circle shows the ROI of the eraser](../.gitbook/assets/2018-09-12_11-21-04.jpg)
+![The white circle shows the ROI of the eraser](../.gitbook/assets/2018-09-12\_11-21-04.jpg)
 
-  
-
-
+\

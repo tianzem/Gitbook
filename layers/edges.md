@@ -14,6 +14,4 @@ The second video, below, shows one way to turn on/off the dimensions of the edge
 
 ![](../.gitbook/assets/e2.gif)
 
-  
-
-
+\

@@ -9,11 +9,11 @@ Create from Edges is used to manually create a plane that did not form automatic
 **Create from Edges only works in** [**Vertex mode**](../../mode.md)**.**
 
 {% hint style="warning" %}
-Do NOT use Create from Edges until after the wireframe has been fully roughed and plane refined \(if necessary\). **Auto Plane will turn off** once Create from Edges is used. Anything added to the wireframe afterward will not form planes automatically.
+Do NOT use Create from Edges until after the wireframe has been fully roughed and plane refined (if necessary). **Auto Plane will turn off** once Create from Edges is used. Anything added to the wireframe afterward will not form planes automatically.
 {% endhint %}
 
 {% hint style="info" %}
-If Auto Plane is turned back on after using Create from Edges, then all planes that were manually created will disappear. 
+If Auto Plane is turned back on after using Create from Edges, then all planes that were manually created will disappear.&#x20;
 
 To view the correct wireframe of a project that has manually created planes: Open the qa branch, turn off Auto Plane, open the Version dropdown menu, click on the most recent Version of the project. This will reload the wireframe to include all of the manually created planes made by Create from Edges.
 {% endhint %}
@@ -27,7 +27,6 @@ To view the correct wireframe of a project that has manually created planes: Ope
 
 ![This image shows Step 1](../../.gitbook/assets/52996-missing-plane-edges-selected.png)
 
-2. Click Create from Edges, and the new plane will be created. [Auto Plane](../../advanced-function/auto-plane.md) will also turn off since it was on by default. Any planes that need to be formed using Create from Edges, should be created at the end of the Adjust Vertices process. Since Auto Plane will be turned off, any new planes created in the wireframe after this step will not be automatically detected -- they will have to be manually created as well.
+2\. Click Create from Edges, and the new plane will be created. [Auto Plane](../../advanced-function/auto-plane.md) will also turn off since it was on by default. Any planes that need to be formed using Create from Edges, should be created at the end of the Adjust Vertices process. Since Auto Plane will be turned off, any new planes created in the wireframe after this step will not be automatically detected -- they will have to be manually created as well.
 
 ![This image shows Step 2](../../.gitbook/assets/52996-plane-is-reformed.png)
-

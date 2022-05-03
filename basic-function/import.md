@@ -10,11 +10,11 @@ Import can also be used to salvage a wireframe when there are errors in the tool
 
 ### How to notice a duplicate project, and locate the original:
 
-Watch this video for instructions on using the Location button to find the original:
+Watch the video below for instructions on using the Location button to find the original:
 
-{% embed url="https://drive.google.com/file/d/1s-88DkPBJOjqfzg_bWkZMPjTAYIKv7N0/view" %}
-
-[https://www.notion.so/pointivo/How-to-more-easily-find-duplicate-projects-170c2129d7a64ed3b090f0f6d456f169](https://www.notion.so/pointivo/How-to-more-easily-find-duplicate-projects-170c2129d7a64ed3b090f0f6d456f169)
+{% file src="../.gitbook/assets/How to Find Duplicate Projects.mp4" %}
+This video is also linked in Notion [here](https://www.notion.so/pointivo/How-to-more-easily-find-duplicate-projects-170c2129d7a64ed3b090f0f6d456f169)
+{% endfile %}
 
 * Duplicate projects will have the address in red font, instead of black, in the Location section on the intranet.
   *   The Location button will also have red font, and it will have numbers like 1/1 or 1/2. These numbers denote how many duplicate projects there are with the same address, and how many with nearby addresses.
